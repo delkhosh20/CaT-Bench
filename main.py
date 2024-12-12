@@ -1,27 +1,17 @@
-import os
 import json
-from glob import glob
+import os
+import pandas as pd
 
-# Path to the root folder
-root_folder = "generated_answers"
-
-# Target folder path
-target_folder = os.path.join(root_folder, "gpt-4-0613", "test_must_why")
-
-# List all JSONL files in the target folder
-jsonl_files = glob(os.path.join(target_folder, "non*.jsonl"))
-
-# Load and process each JSONL file
-data_list = []
-for jsonl_file in jsonl_files:
-    # print(jsonl_file)
-    with open(jsonl_file, 'r') as file:
+# Function to read a JSONL file and convert it into a DataFrame
+def read_jsonl_to_dataframe(file_path):
+    data = []
+    with open(file_path, 'r') as file:
         for line in file:
-            try:
-                data = json.loads(line.strip())  # Load JSON data from each line
-                data_list.append(data)  # Append to a list for analysis
-            except json.JSONDecodeError as e:
-                print(f"Error decoding JSON in file {jsonl_file}: {e}")
+            data.append(json.loads(line))  # Parse each line as JSON
+    return pd.DataFrame(data)  # Convert to DataFrame
 
-# Print summary of loaded data
-# print(f"Loaded {len(data_list)} JSON objects from {target_folder}")
+BASE_PATH = "/Users/amirhossein/Documents/Asal.Projects/CaT-Bench/generated_answers/gpt-4-0613/test_must_why"
+file_path = os.path.join(BASE_PATH, "dependent_fake_after_basic_binary.jsonl")
+df = read_jsonl_to_dataframe(file_path)
+
+print(df.head())  # Display the first few rows of the DataFrame
