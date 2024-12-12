@@ -9,11 +9,12 @@ root_folder = "generated_answers"
 target_folder = os.path.join(root_folder, "gpt-4-0613", "test_must_why")
 
 # List all JSONL files in the target folder
-jsonl_files = glob(os.path.join(target_folder, "*.jsonl"))
+jsonl_files = glob(os.path.join(target_folder, "non*.jsonl"))
 
 # Load and process each JSONL file
 data_list = []
 for jsonl_file in jsonl_files:
+    # print(jsonl_file)
     with open(jsonl_file, 'r') as file:
         for line in file:
             try:
@@ -23,4 +24,4 @@ for jsonl_file in jsonl_files:
                 print(f"Error decoding JSON in file {jsonl_file}: {e}")
 
 # Print summary of loaded data
-print(f"Loaded {len(data_list)} JSON objects from {target_folder}")
+# print(f"Loaded {len(data_list)} JSON objects from {target_folder}")
