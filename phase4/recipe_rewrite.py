@@ -1,5 +1,7 @@
 from itertools import permutations
 
+
+
 def remove_duplicates_ordered(lst):
     seen = set()
     return [t for t in lst if not (t in seen or seen.add(t))]
@@ -9,7 +11,7 @@ step = {}
 def format_recipe_steps():
     steps = {}
     
-    with open("exp1.flow", "r") as file:
+    with open("Apple_Crumble_Pie_nodes.flow", "r") as file:
         for line in file:
             parts = line.strip("\n").split(" ")
             if len(parts) < 5:
@@ -59,9 +61,22 @@ def find_dep_steps():
     
     return list_dep     
 
-def move_elements(rules):
-    rules = [(1), (2), (3)] + [rules[0]] + [(10)] + [rules[1]]
-    return list(permutations(rules))
+def move_elements(rules, N):
+    result = []
+    
+    i = 1  # start from 1
+    index = 0  # track position in tuples_list
+    
+    while i <= N:
+        if index < len(rules) and i in rules[index]:
+            result.append(rules[index])  # add the tuple
+            i = max(rules[index]) + 1  # move i past this tuple
+            index += 1  # move to next tuple
+        else:
+            result.append((i,))  # add single-element tuple
+            i += 1  # move to the next number
+
+    return list(permutations(result))
 
 def extract_numbers(input_tuple):
     result = []
@@ -74,7 +89,7 @@ def extract_numbers(input_tuple):
                 
 output = format_recipe_steps()
 output2 = find_dep_steps()
-output3 = move_elements(output2)
+output3 = move_elements(output2, len(step))
 # print(output2)
 # print(step)
 n = 0
