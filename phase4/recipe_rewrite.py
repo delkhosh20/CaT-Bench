@@ -11,7 +11,7 @@ step = {}
 def format_recipe_steps():
     steps = {}
     
-    with open("Apple_Crumble_Pie_nodes.flow", "r") as file:
+    with open("Bacon_and_cheese_pasta_bake_nodes.flow", "r") as file:
         for line in file:
             parts = line.strip("\n").split(" ")
             if len(parts) < 5:
@@ -90,13 +90,13 @@ def extract_numbers(input_tuple):
 output = format_recipe_steps()
 output2 = find_dep_steps()
 output3 = move_elements(output2, len(step))
-# print(output2)
+print(output2)
 # print(step)
 n = 0
-with open("Almond_and_apple_cake.txt", "w") as file:
+with open("Bacon_and_cheese_pasta_bake.txt", "w") as file:
     for out in output3:
         file.write("========\n")
         n +=1
         for key in extract_numbers(out):
             file.write(f"{key}. {step[key]}\n")
-    file.write(f"\n number of recipes: {n}")
+    file.write(f"\n number of recipes: {n} and {output2}")
