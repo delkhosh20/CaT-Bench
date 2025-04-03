@@ -11,7 +11,7 @@ step = {}
 def format_recipe_steps():
     steps = {}
     
-    with open("Baked_lasagne_with_Bolognese_sauce_and_mushrooms_nodes.flow", "r") as file:
+    with open("Baked_potato_nodes.flow", "r") as file:
         for line in file:
             parts = line.strip("\n").split(" ")
             if len(parts) < 5:
@@ -93,7 +93,7 @@ output3 = move_elements(output2, len(step))
 print(output2)
 # print(step)
 n = 0
-with open("Baked_lasagne_with_Bolognese_sauce_and_mushrooms.txt", "w") as file:
+with open("Baked_potato.txt", "w") as file:
     for out in output3:
         file.write("========\n")
         n +=1
