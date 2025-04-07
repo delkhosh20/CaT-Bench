@@ -1,146 +1,170 @@
 ========
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-4. Shake lime dressing again , and pour over the salad.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
+1. 1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 2. Cover with lid , and shake until ingredients are well mixed.
+3. 3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+4. 4. Shake lime dressing again , and pour over the salad.
+5. 5. Stir salad to coat vegetables and beans with dressing , and serve.
+must step 4 happen before step 5?
 ========
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-4. Shake lime dressing again , and pour over the salad.
+1. 1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 2. Cover with lid , and shake until ingredients are well mixed.
+3. 3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+5. 4. Stir salad to coat vegetables and beans with dressing , and serve.
+4. 5. Shake lime dressing again , and pour over the salad.
+must step 4 happen before step 5?
 ========
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-4. Shake lime dressing again , and pour over the salad.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
+1. 1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 2. Cover with lid , and shake until ingredients are well mixed.
+4. 3. Shake lime dressing again , and pour over the salad.
+3. 4. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+5. 5. Stir salad to coat vegetables and beans with dressing , and serve.
+must step 3 happen before step 5?
 ========
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-4. Shake lime dressing again , and pour over the salad.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+1. 1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 2. Cover with lid , and shake until ingredients are well mixed.
+4. 3. Shake lime dressing again , and pour over the salad.
+5. 4. Stir salad to coat vegetables and beans with dressing , and serve.
+3. 5. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+must step 3 happen before step 4?
 ========
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-4. Shake lime dressing again , and pour over the salad.
+1. 1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 2. Cover with lid , and shake until ingredients are well mixed.
+5. 3. Stir salad to coat vegetables and beans with dressing , and serve.
+3. 4. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+4. 5. Shake lime dressing again , and pour over the salad.
+must step 3 happen before step 5?
 ========
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-4. Shake lime dressing again , and pour over the salad.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+1. 1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 2. Cover with lid , and shake until ingredients are well mixed.
+5. 3. Stir salad to coat vegetables and beans with dressing , and serve.
+4. 4. Shake lime dressing again , and pour over the salad.
+3. 5. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+must step 3 happen before step 4?
 ========
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-4. Shake lime dressing again , and pour over the salad.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
+3. 1. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+1. 2. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 3. Cover with lid , and shake until ingredients are well mixed.
+4. 4. Shake lime dressing again , and pour over the salad.
+5. 5. Stir salad to coat vegetables and beans with dressing , and serve.
+must step 4 happen before step 5?
 ========
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-4. Shake lime dressing again , and pour over the salad.
+3. 1. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+1. 2. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 3. Cover with lid , and shake until ingredients are well mixed.
+5. 4. Stir salad to coat vegetables and beans with dressing , and serve.
+4. 5. Shake lime dressing again , and pour over the salad.
+must step 4 happen before step 5?
 ========
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-4. Shake lime dressing again , and pour over the salad.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
+3. 1. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+4. 2. Shake lime dressing again , and pour over the salad.
+1. 3. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 4. Cover with lid , and shake until ingredients are well mixed.
+5. 5. Stir salad to coat vegetables and beans with dressing , and serve.
+must step 2 happen before step 5?
 ========
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-4. Shake lime dressing again , and pour over the salad.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
+3. 1. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+4. 2. Shake lime dressing again , and pour over the salad.
+5. 3. Stir salad to coat vegetables and beans with dressing , and serve.
+1. 4. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 5. Cover with lid , and shake until ingredients are well mixed.
+must step 2 happen before step 3?
 ========
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-4. Shake lime dressing again , and pour over the salad.
+3. 1. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+5. 2. Stir salad to coat vegetables and beans with dressing , and serve.
+1. 3. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 4. Cover with lid , and shake until ingredients are well mixed.
+4. 5. Shake lime dressing again , and pour over the salad.
+must step 2 happen before step 5?
 ========
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-4. Shake lime dressing again , and pour over the salad.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
+3. 1. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+5. 2. Stir salad to coat vegetables and beans with dressing , and serve.
+4. 3. Shake lime dressing again , and pour over the salad.
+1. 4. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 5. Cover with lid , and shake until ingredients are well mixed.
+must step 2 happen before step 3?
 ========
-4. Shake lime dressing again , and pour over the salad.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
+4. 1. Shake lime dressing again , and pour over the salad.
+1. 2. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 3. Cover with lid , and shake until ingredients are well mixed.
+3. 4. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+5. 5. Stir salad to coat vegetables and beans with dressing , and serve.
+must step 1 happen before step 5?
 ========
-4. Shake lime dressing again , and pour over the salad.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+4. 1. Shake lime dressing again , and pour over the salad.
+1. 2. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 3. Cover with lid , and shake until ingredients are well mixed.
+5. 4. Stir salad to coat vegetables and beans with dressing , and serve.
+3. 5. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+must step 1 happen before step 4?
 ========
-4. Shake lime dressing again , and pour over the salad.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
+4. 1. Shake lime dressing again , and pour over the salad.
+3. 2. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+1. 3. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 4. Cover with lid , and shake until ingredients are well mixed.
+5. 5. Stir salad to coat vegetables and beans with dressing , and serve.
+must step 1 happen before step 5?
 ========
-4. Shake lime dressing again , and pour over the salad.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
+4. 1. Shake lime dressing again , and pour over the salad.
+3. 2. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+5. 3. Stir salad to coat vegetables and beans with dressing , and serve.
+1. 4. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 5. Cover with lid , and shake until ingredients are well mixed.
+must step 1 happen before step 3?
 ========
-4. Shake lime dressing again , and pour over the salad.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+4. 1. Shake lime dressing again , and pour over the salad.
+5. 2. Stir salad to coat vegetables and beans with dressing , and serve.
+1. 3. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 4. Cover with lid , and shake until ingredients are well mixed.
+3. 5. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+must step 1 happen before step 2?
 ========
-4. Shake lime dressing again , and pour over the salad.
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
+4. 1. Shake lime dressing again , and pour over the salad.
+5. 2. Stir salad to coat vegetables and beans with dressing , and serve.
+3. 3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+1. 4. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 5. Cover with lid , and shake until ingredients are well mixed.
+must step 1 happen before step 2?
 ========
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-4. Shake lime dressing again , and pour over the salad.
+5. 1. Stir salad to coat vegetables and beans with dressing , and serve.
+1. 2. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 3. Cover with lid , and shake until ingredients are well mixed.
+3. 4. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+4. 5. Shake lime dressing again , and pour over the salad.
+must step 1 happen before step 5?
 ========
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-4. Shake lime dressing again , and pour over the salad.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+5. 1. Stir salad to coat vegetables and beans with dressing , and serve.
+1. 2. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 3. Cover with lid , and shake until ingredients are well mixed.
+4. 4. Shake lime dressing again , and pour over the salad.
+3. 5. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+must step 1 happen before step 4?
 ========
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-4. Shake lime dressing again , and pour over the salad.
+5. 1. Stir salad to coat vegetables and beans with dressing , and serve.
+3. 2. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+1. 3. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 4. Cover with lid , and shake until ingredients are well mixed.
+4. 5. Shake lime dressing again , and pour over the salad.
+must step 1 happen before step 5?
 ========
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-4. Shake lime dressing again , and pour over the salad.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
+5. 1. Stir salad to coat vegetables and beans with dressing , and serve.
+3. 2. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+4. 3. Shake lime dressing again , and pour over the salad.
+1. 4. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 5. Cover with lid , and shake until ingredients are well mixed.
+must step 1 happen before step 3?
 ========
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-4. Shake lime dressing again , and pour over the salad.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+5. 1. Stir salad to coat vegetables and beans with dressing , and serve.
+4. 2. Shake lime dressing again , and pour over the salad.
+1. 3. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 4. Cover with lid , and shake until ingredients are well mixed.
+3. 5. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+must step 1 happen before step 2?
 ========
-5. Stir salad to coat vegetables and beans with dressing , and serve.
-4. Shake lime dressing again , and pour over the salad.
-3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
-1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
-2. Cover with lid , and shake until ingredients are well mixed.
+5. 1. Stir salad to coat vegetables and beans with dressing , and serve.
+4. 2. Shake lime dressing again , and pour over the salad.
+3. 3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.
+1. 4. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.
+2. 5. Cover with lid , and shake until ingredients are well mixed.
+must step 1 happen before step 2?
 
  number of recipes: 24 and [(1, 2)]

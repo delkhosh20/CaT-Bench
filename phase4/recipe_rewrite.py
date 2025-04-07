@@ -1,17 +1,28 @@
+import argparse
+import os
+import random
 from itertools import permutations
 
-
+dic = {}
+step = {}
 
 def remove_duplicates_ordered(lst):
     seen = set()
     return [t for t in lst if not (t in seen or seen.add(t))]
 
-dic = {}
-step = {}
-def format_recipe_steps():
+
+def generate_deps_flow(base):
+    with open("deps.flow", "w") as deps:
+        with open(f"permutations/{base}.flow", "r") as file:
+            for line in file:
+                arry = line.strip("\n").split(" ")
+                if (arry[1] != arry[-2] or arry[0] != arry[-3]) and (arry[3] == 't' or arry[3] == 'd'):
+                    deps.write(line)
+
+def format_recipe_steps(base):
     steps = {}
     
-    with open("Black_Bean_and_Sweetcorn_Salad.list", "r") as file:
+    with open(f"permutations/{base}.list", "r") as file:
         for line in file:
             parts = line.strip("\n").split(" ")
             if len(parts) < 5:
@@ -66,6 +77,7 @@ def move_elements(rules, N):
     
     i = 1  # start from 1
     index = 0  # track position in tuples_list
+    uniques = []
     
     while i <= N:
         if index < len(rules) and i in rules[index]:
@@ -73,10 +85,11 @@ def move_elements(rules, N):
             i = max(rules[index]) + 1  # move i past this tuple
             index += 1  # move to next tuple
         else:
+            uniques.append(i)
             result.append((i,))  # add single-element tuple
             i += 1  # move to the next number
 
-    return list(permutations(result))
+    return (list(permutations(result)), uniques)
 
 def extract_numbers(input_tuple):
     result = []
@@ -86,17 +99,69 @@ def extract_numbers(input_tuple):
         else:
             result.append(item)  # If it's a number, add it to the result
     return result
+ 
+
+def main():
+    parser = argparse.ArgumentParser(description="Process recipe files")
+    parser.add_argument("filename", help="Base filename (without extension) inside 'permutations' folder")
+    args = parser.parse_args()
+
+    base = args.filename
+
+    generate_deps_flow(base)
+    format_recipe_steps(base)
+    output2 = find_dep_steps()
+    output3, uniques = move_elements(output2, len(step))
+
+    n = 0
+    with open(f"permutations/{base}.txt", "w") as file:
+        if len(uniques) > 1:
+            random_elements = random.sample(uniques, 2)
+
+        for out in output3:
+            file.write("========\n")
+            n += 1
+            index = 1
+            mapping = {}
+            for key in extract_numbers(out):
+                mapping[key] = index
+                file.write(f"{key}. {index}. {step[key]}\n")
+                index += 1
+
+            if len(uniques) > 1:
+                shash = [mapping[random_elements[0]], mapping[random_elements[1]]]
+                shash.sort()
+                file.write(f"must step {shash[0]} happen before step {shash[1]}?\n")
+
+        file.write(f"\n number of recipes: {n} and {output2}")
+
+if __name__ == "__main__":
+    main()
                 
-output = format_recipe_steps()
-output2 = find_dep_steps()
-output3 = move_elements(output2, len(step))
-print(output2)
-# print(step)
-n = 0
-with open("Black_Bean_and_Sweetcorn_Salad.txt", "w") as file:
-    for out in output3:
-        file.write("========\n")
-        n +=1
-        for key in extract_numbers(out):
-            file.write(f"{key}. {step[key]}\n")
-    file.write(f"\n number of recipes: {n} and {output2}")
+# output = format_recipe_steps()
+# output2 = find_dep_steps()
+# output3, uniques = move_elements(output2, len(step))
+# print(output2)
+# # print(step)
+# n = 0
+# with open("permutations/Almon_and_apple_cake.txt", "w") as file:
+#     if len(uniques) > 1:
+#         random_elements = random.sample(uniques, 2)
+
+#     for out in output3:
+#         file.write("========\n")
+        
+#         n +=1
+#         index = 1
+#         mapping = {}
+        
+#         for key in extract_numbers(out):
+#             mapping[key] = index
+#             file.write(f"{key}. {index}. {step[key]}\n")
+#             index += 1
+        
+#         if len(uniques) > 1:
+#             shash = [mapping[random_elements[0]], mapping[random_elements[1]]]
+#             shash.sort()
+#             file.write(f"must step {shash[0]} happen before step {shash[1]}?\n")
+#     file.write(f"\n number of recipes: {n} and {output2}")
