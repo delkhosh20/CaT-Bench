@@ -1,0 +1,10 @@
+========
+1. 1. Preheat oven to 200 C / Gas 6.
+2. 2. Arrange apple slices in unbaked pastry case.
+3. 3. Mix 100g sugar and cinnamon ; sprinkle over apples.
+4. 4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.
+5. 5. Spoon mixture over apples.
+6. 6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.
+must step 1 happen before step 4?
+
+ number of recipes: 1 and [(5, 6)]

@@ -1,0 +1,16 @@
+1 1 1 In II O
+1 1 4 a AT1 O
+1 1 6 large JJ St-B
+1 1 12 bowl NN1 T-B
+1 1 17 , , O
+1 1 19 combine VV0 Ac-B
+1 1 27 all DB Q-B
+1 1 31 ingredients NN2 F-B
+1 1 43 . . O
+1 2 1 Toss VV0 Ac-B
+1 2 6 well RP O
+1 2 11 , , O
+1 2 13 chill NN1 Ac-B
+1 2 19 and CC O
+1 2 23 serve VV0 Ac-B
+1 2 29 . . O

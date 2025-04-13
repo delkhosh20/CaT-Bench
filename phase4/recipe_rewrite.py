@@ -11,18 +11,18 @@ def remove_duplicates_ordered(lst):
     return [t for t in lst if not (t in seen or seen.add(t))]
 
 
-def generate_deps_flow(base):
-    with open("deps.flow", "w") as deps:
-        with open(f"permutations/{base}.flow", "r") as file:
-            for line in file:
-                arry = line.strip("\n").split(" ")
-                if (arry[1] != arry[-2] or arry[0] != arry[-3]) and (arry[3] == 't' or arry[3] == 'd'):
-                    deps.write(line)
+# def generate_deps_flow(base):
+#     with open("deps.flow", "w") as deps:
+#         with open(f"flow_graph_corpus/r-100/{base}.flow", "r") as file:
+#             for line in file:
+#                 arry = line.strip("\n").split(" ")
+#                 if (arry[1] != arry[-2] or arry[0] != arry[-3]) and (arry[3] == 't' or arry[3] == 'd'):
+#                     deps.write(line)
 
 def format_recipe_steps(base):
     steps = {}
     
-    with open(f"permutations/{base}.list", "r") as file:
+    with open(f"flow_graph_corpus/r-100/{base}.list", "r") as file:
         for line in file:
             parts = line.strip("\n").split(" ")
             if len(parts) < 5:
@@ -34,7 +34,7 @@ def format_recipe_steps(base):
                 steps[key] = []
             
             steps[key].append(word)
-        
+    
     formatted_steps = []
     
     for i, (key, words) in enumerate(sorted(steps.items()), start=1):
@@ -42,7 +42,7 @@ def format_recipe_steps(base):
         sentence = " ".join(words).replace(' .', '.')
         step[i] = sentence
         formatted_steps.append(f"{i}. {sentence}")
-    
+    print(formatted_steps)
     return formatted_steps
 
 def find_dep_steps():
@@ -122,7 +122,7 @@ def main():
 
     base = args.filename
 
-    generate_deps_flow(base)
+    # generate_deps_flow(base)
     format_recipe_steps(base)
     output2 = find_dep_steps()
     output3, uniques = move_elements(output2, len(step))

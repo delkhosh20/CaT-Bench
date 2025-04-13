@@ -1,0 +1,13 @@
+1 1 1 Measure VV0 Ac-B
+1 1 9 out RP Ac-I
+1 1 13 fromage NN1 F-B
+1 1 21 frais NN2 F-I
+1 1 27 and CC O
+1 1 31 mustard NN1 F-B
+1 1 39 and CC O
+1 1 43 mix VV0 Ac-B
+1 1 47 in II O
+1 1 50 a AT1 O
+1 1 52 bowl NN1 T-B
+1 1 57 . . O
+2 1 1 Enjoy VV0 O
