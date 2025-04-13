@@ -8,5 +8,10 @@
 3. 2. Bake for 1 hour and 30 minutes.
 4. 3. Serve hot.
 1. 4. Preheat oven to 180 C / Gas mark 4.
+========
+2. 1. Scrub the potato and prick it with a fork to prevent steam from building up and causing the potato to explode in your oven.
+3. 2. Bake for 1 hour and 30 minutes.
+4. 3. Serve hot.
+1. 4. Preheat oven to 180 C / Gas mark 4.
 
- number of recipes: 2 and [(2, 3, 4)]
+ number of recipes: 3 and [(2, 3, 4)]

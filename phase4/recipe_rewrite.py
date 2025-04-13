@@ -88,8 +88,9 @@ def move_elements(rules, N):
             uniques.append(i)
             result.append((i,))  # add single-element tuple
             i += 1  # move to the next number
+    
+    return (one_move_permutations(result), uniques)
 
-    return (list(permutations(result)), uniques)
 
 def extract_numbers(input_tuple):
     result = []
@@ -99,7 +100,20 @@ def extract_numbers(input_tuple):
         else:
             result.append(item)  # If it's a number, add it to the result
     return result
- 
+
+def one_move_permutations(lst):
+    permutations = [lst[:]]  # include the original
+    n = len(lst)
+    
+    for i in range(n):
+        for j in range(n):
+            if i != j:
+                new_lst = lst[:]  # copy original
+                elem = new_lst.pop(i)
+                new_lst.insert(j, elem)
+                permutations.append(new_lst)
+    
+    return permutations
 
 def main():
     parser = argparse.ArgumentParser(description="Process recipe files")

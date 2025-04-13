@@ -8,5 +8,10 @@
 4. 2. Select Basic or White Bread setting , and press Start.
 1. 3. Place the water , sugar and yeast in the pan of the bread machine.
 2. 4. Let the yeast dissolve and foam for 10 minutes.
+========
+3. 1. Add the oil , flour and salt to the yeast.
+4. 2. Select Basic or White Bread setting , and press Start.
+1. 3. Place the water , sugar and yeast in the pan of the bread machine.
+2. 4. Let the yeast dissolve and foam for 10 minutes.
 
- number of recipes: 2 and [(1, 2), (3, 4)]
+ number of recipes: 3 and [(1, 2), (3, 4)]
