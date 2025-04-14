@@ -1,0 +1,29 @@
+========
+1. 1. Grease and line a 2lb loaf tin.
+2. 2. Melt butter , sugar and vanilla in a saucepan over a medium heat.
+3. 3. Remove from heat and add the mashed bananas , mix well.
+4. 4. Add the egg , mix well.
+5. 5. Stir in the flour and the milk.
+6. 6. Pour into the prepared tin , sprinkle with a tablespoon of demerara sugar to give a crunch topping if liked.
+7. 7. Bake at 170 C / Fan 150 C / Gas 3 for 35 minutes , or until a skewer comes out clean.
+8. 8. Leave to cool and enjoy !
+========
+2. 1. Melt butter , sugar and vanilla in a saucepan over a medium heat.
+3. 2. Remove from heat and add the mashed bananas , mix well.
+4. 3. Add the egg , mix well.
+5. 4. Stir in the flour and the milk.
+6. 5. Pour into the prepared tin , sprinkle with a tablespoon of demerara sugar to give a crunch topping if liked.
+7. 6. Bake at 170 C / Fan 150 C / Gas 3 for 35 minutes , or until a skewer comes out clean.
+8. 7. Leave to cool and enjoy !
+1. 8. Grease and line a 2lb loaf tin.
+========
+2. 1. Melt butter , sugar and vanilla in a saucepan over a medium heat.
+3. 2. Remove from heat and add the mashed bananas , mix well.
+4. 3. Add the egg , mix well.
+5. 4. Stir in the flour and the milk.
+6. 5. Pour into the prepared tin , sprinkle with a tablespoon of demerara sugar to give a crunch topping if liked.
+7. 6. Bake at 170 C / Fan 150 C / Gas 3 for 35 minutes , or until a skewer comes out clean.
+8. 7. Leave to cool and enjoy !
+1. 8. Grease and line a 2lb loaf tin.
+
+ number of recipes: 3 and [(2, 3, 4, 5, 6, 7, 8)]

@@ -11,15 +11,15 @@ def remove_duplicates_ordered(lst):
     return [t for t in lst if not (t in seen or seen.add(t))]
 
 
-# def generate_deps_flow(base):
-#     with open("deps.flow", "w") as deps:
-#         with open(f"flow_graph_corpus/r-100/{base}.flow", "r") as file:
-#             for line in file:
-#                 arry = line.strip("\n").split(" ")
-#                 if (arry[1] != arry[-2] or arry[0] != arry[-3]) and (arry[3] == 't' or arry[3] == 'd'):
-#                     deps.write(line)
+def generate_deps_flow(base): #find connections by ID (just number without words)
+    with open("deps.flow", "w") as deps:
+        with open(f"flow_graph_corpus/r-100/{base}.flow", "r") as file:
+            for line in file:
+                arry = line.strip("\n").split(" ")
+                if (arry[1] != arry[-2] or arry[0] != arry[-3]) and (arry[3] == 't' or arry[3] == 'd'):
+                    deps.write(line)
 
-def format_recipe_steps(base):
+def format_recipe_steps(base): #write sentences, each sentence one step
     steps = {}
     
     with open(f"flow_graph_corpus/r-100/{base}.list", "r") as file:
@@ -45,7 +45,7 @@ def format_recipe_steps(base):
     print(formatted_steps)
     return formatted_steps
 
-def find_dep_steps():
+def find_dep_steps(): #find steps(sentences) that are dependent
     list_dep = []
     with open("deps.flow", "r") as file:
         for line in file:
@@ -89,7 +89,7 @@ def move_elements(rules, N):
             result.append((i,))  # add single-element tuple
             i += 1  # move to the next number
     
-    return (one_move_permutations(result), uniques)
+    return (one_move_permutations_with_chains(result), uniques)
 
 
 def extract_numbers(input_tuple):
@@ -101,19 +101,59 @@ def extract_numbers(input_tuple):
             result.append(item)  # If it's a number, add it to the result
     return result
 
-def one_move_permutations(lst):
-    permutations = [lst[:]]  # include the original
+# def one_move_permutations(lst): #only move one and only one step at a time
+#     permutations = [lst[:]]  # include the original
+#     n = len(lst)
+    
+#     for i in range(n):
+#         for j in range(n):
+#             if i != j:
+#                 new_lst = lst[:]  # copy original
+#                 elem = new_lst.pop(i)
+#                 new_lst.insert(j, elem)
+#                 permutations.append(new_lst)
+    
+#     return permutations
+def one_move_permutations_with_chains(lst):
+    permutations = []
+
     n = len(lst)
-    
-    for i in range(n):
-        for j in range(n):
-            if i != j:
-                new_lst = lst[:]  # copy original
-                elem = new_lst.pop(i)
-                new_lst.insert(j, elem)
-                permutations.append(new_lst)
-    
-    return permutations
+
+    # Find chain positions (they stay fixed)
+    chain_indices = [i for i, x in enumerate(lst) if isinstance(x, tuple) and len(x) > 1]
+
+    # Define zones: start and end positions of non-chain sections
+    zones = []
+    prev = 0
+    for chain_index in chain_indices:
+        zones.append((prev, chain_index))
+        prev = chain_index + 1
+    zones.append((prev, n))  # after the last chain
+
+    print(f"Zones: {zones}")
+
+    # For each zone
+    for start, end in zones:
+        zone = lst[start:end]
+        print(f"Processing zone: {zone}")
+
+        if len(zone) <= 1:
+            print(" -> Skipping (not enough elements)")
+            continue
+
+        # Move one number at a time within the zone
+        for i in range(len(zone)):
+            for j in range(len(zone)):
+                if i != j:
+                    new_zone = zone[:]
+                    elem = new_zone.pop(i)
+                    new_zone.insert(j, elem)
+
+                    # reconstruct the full list
+                    new_lst = lst[:start] + new_zone + lst[end:]
+                    permutations.append(new_lst)
+
+        return permutations
 
 def main():
     parser = argparse.ArgumentParser(description="Process recipe files")
@@ -122,13 +162,13 @@ def main():
 
     base = args.filename
 
-    # generate_deps_flow(base)
+    generate_deps_flow(base)
     format_recipe_steps(base)
     output2 = find_dep_steps()
     output3, uniques = move_elements(output2, len(step))
 
     n = 0
-    with open(f"permutations/{base}.txt", "w") as file:
+    with open(f"permutations/{base}1.txt", "w") as file:
         if len(uniques) > 1:
             random_elements = random.sample(uniques, 2)
 

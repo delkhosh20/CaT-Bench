@@ -1,0 +1,30 @@
+========
+2. 1. Grease and flour a 23x33cm baking tin.
+1. 2. Preheat the oven to 180 degrees C ( gas mark 4 ).
+3. 3. In a large bowl , beat together eggs , oil , caster sugar and 2 teaspoons vanilla.
+4. 4. Mix in flour , bicarbonate of soda , baking powder , salt and cinnamon.
+5. 5. Stir in carrots and fold in pecans.
+6. 6. Pour into the prepared tin.
+7. 7. Bake in the preheated oven for 40 to 50 minutes or until a skewer inserted into the centre of the cake comes out clean.
+8. 8. Let cool in pan for 10 minutes , then turn out onto a wire rack and cool completely.
+9. 9. To Make topping : In a medium bowl , combine butter , cream cheese , icing sugar and 1 teaspoon vanilla.
+10. 10. Beat until the mixture is smooth and creamy.
+11. 11. Stir in chopped pecans.
+12. 12. Spread over the top of cake when it has cooled.
+must step 1 happen before step 2?
+========
+2. 1. Grease and flour a 23x33cm baking tin.
+1. 2. Preheat the oven to 180 degrees C ( gas mark 4 ).
+3. 3. In a large bowl , beat together eggs , oil , caster sugar and 2 teaspoons vanilla.
+4. 4. Mix in flour , bicarbonate of soda , baking powder , salt and cinnamon.
+5. 5. Stir in carrots and fold in pecans.
+6. 6. Pour into the prepared tin.
+7. 7. Bake in the preheated oven for 40 to 50 minutes or until a skewer inserted into the centre of the cake comes out clean.
+8. 8. Let cool in pan for 10 minutes , then turn out onto a wire rack and cool completely.
+9. 9. To Make topping : In a medium bowl , combine butter , cream cheese , icing sugar and 1 teaspoon vanilla.
+10. 10. Beat until the mixture is smooth and creamy.
+11. 11. Stir in chopped pecans.
+12. 12. Spread over the top of cake when it has cooled.
+must step 1 happen before step 2?
+
+ number of recipes: 2 and [(3, 4, 5, 6, 7, 8), (9, 10, 11, 12)]

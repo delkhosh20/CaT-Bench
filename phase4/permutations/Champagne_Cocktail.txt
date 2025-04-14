@@ -1,0 +1,7 @@
+========
+1. 1. put the sugar cube in the bottom of a chilled champagne flute
+2. 2. add the bitters
+3. 3. pour in the brandy
+4. 4. top up slowly with the champagne
+
+ number of recipes: 1 and [(1, 2, 3, 4)]

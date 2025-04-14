@@ -1,0 +1,23 @@
+========
+1. 1. In a small bowl , combine flour , stock , sugar and soy sauce.
+2. 2. Stir until sugar and flour are dissolved.
+3. 3. In a large frying pan or wok over high heat , stir fry steak 2 to 4 minutes , or until browned.
+4. 4. Stir in stock mixture , ginger , garlic and broccoli.
+5. 5. Bring to the boil , then reduce heat.
+6. 6. Simmer 5 to 10 minutes , or until sauce thickens.
+========
+3. 1. In a large frying pan or wok over high heat , stir fry steak 2 to 4 minutes , or until browned.
+4. 2. Stir in stock mixture , ginger , garlic and broccoli.
+5. 3. Bring to the boil , then reduce heat.
+6. 4. Simmer 5 to 10 minutes , or until sauce thickens.
+1. 5. In a small bowl , combine flour , stock , sugar and soy sauce.
+2. 6. Stir until sugar and flour are dissolved.
+========
+3. 1. In a large frying pan or wok over high heat , stir fry steak 2 to 4 minutes , or until browned.
+4. 2. Stir in stock mixture , ginger , garlic and broccoli.
+5. 3. Bring to the boil , then reduce heat.
+6. 4. Simmer 5 to 10 minutes , or until sauce thickens.
+1. 5. In a small bowl , combine flour , stock , sugar and soy sauce.
+2. 6. Stir until sugar and flour are dissolved.
+
+ number of recipes: 3 and [(1, 2), (3, 4, 5, 6)]
