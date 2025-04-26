@@ -1,0 +1,56 @@
+[
+  {
+    "goal": "Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1",
+    "original_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n4. Shake lime dressing again , and pour over the salad.\n5. Stir salad to coat vegetables and beans with dressing , and serve.",
+    "permuted_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. Shake lime dressing again , and pour over the salad.\n4. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n5. Stir salad to coat vegetables and beans with dressing , and serve.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1",
+    "original_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n4. Shake lime dressing again , and pour over the salad.\n5. Stir salad to coat vegetables and beans with dressing , and serve.",
+    "permuted_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. Shake lime dressing again , and pour over the salad.\n4. Stir salad to coat vegetables and beans with dressing , and serve.\n5. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1",
+    "original_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n4. Shake lime dressing again , and pour over the salad.\n5. Stir salad to coat vegetables and beans with dressing , and serve.",
+    "permuted_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. Shake lime dressing again , and pour over the salad.\n4. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n5. Stir salad to coat vegetables and beans with dressing , and serve.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1",
+    "original_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n4. Shake lime dressing again , and pour over the salad.\n5. Stir salad to coat vegetables and beans with dressing , and serve.",
+    "permuted_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n4. Stir salad to coat vegetables and beans with dressing , and serve.\n5. Shake lime dressing again , and pour over the salad.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1",
+    "original_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n4. Shake lime dressing again , and pour over the salad.\n5. Stir salad to coat vegetables and beans with dressing , and serve.",
+    "permuted_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. Stir salad to coat vegetables and beans with dressing , and serve.\n4. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n5. Shake lime dressing again , and pour over the salad.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1",
+    "original_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n4. Shake lime dressing again , and pour over the salad.\n5. Stir salad to coat vegetables and beans with dressing , and serve.",
+    "permuted_recipe": "1. Place lime juice , olive oil , garlic , salt and cayenne pepper in a small jar.\n2. Cover with lid , and shake until ingredients are well mixed.\n3. In a salad bowl , combine beans , corn , avocado , pepper , tomatoes , spring onions and coriander.\n4. Stir salad to coat vegetables and beans with dressing , and serve.\n5. Shake lime dressing again , and pour over the salad.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  }
+]

@@ -1,0 +1,13 @@
+======== Original Recipe ========
+1. Grind poppy seeds into a paste.
+2. Set aside.
+3. In a large frying pan , sautÃ© onions and green chillies in oil until golden brown.
+4. Add ginger and garlic and continue to sautÃ©.
+5. Add poppy seed paste and chicken , continuing to sautÃ©.
+6. Stir all together ; after chicken is well mixed with the sauce , add the cayenne pepper and pour water over the mixture.
+7. Cover frying pan and let simmer about 15 minutes , until chicken is cooked through.
+8. After chicken is ' well-boiled ' ( the oil should be floating on top of the frying pan liquid ) , add the garam masala and turmeric and turn off the heat.
+9. Season with salt to taste.
+10. Stir all together and serve.
+========
+number of recipes: 0 and [(1, 2), (3, 4, 5), (7, 8, 9)]

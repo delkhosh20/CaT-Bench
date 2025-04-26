@@ -1,0 +1,20 @@
+[
+  {
+    "goal": "Chocolate_fairy_cakes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat the oven to 180 degrees C ( gas mark 4 ).\n2. Line a bun tray with paper or foil cases.\n3. Sift together the flour , baking powder , bicarbonate of soda , cocoa and salt.\n4. Set aside.\n5. In a large bowl , cream together the butter and sugar until light and fluffy.\n6. Add the eggs one at a time , beating well with each addition , then stir in the vanilla.\n7. Add the flour mixture alternately with the milk ; beat well.\n8. Fill the paper cups 3/4's full.\n9. Bake for 15 minutes in the preheated oven , or until a skewer inserted into the cake comes out clean.\n10. Ice with your favourite icing when cool.",
+    "permuted_recipe": "1. Line a bun tray with paper or foil cases.\n2. Preheat the oven to 180 degrees C ( gas mark 4 ).\n3. Sift together the flour , baking powder , bicarbonate of soda , cocoa and salt.\n4. Set aside.\n5. In a large bowl , cream together the butter and sugar until light and fluffy.\n6. Add the eggs one at a time , beating well with each addition , then stir in the vanilla.\n7. Add the flour mixture alternately with the milk ; beat well.\n8. Fill the paper cups 3/4's full.\n9. Bake for 15 minutes in the preheated oven , or until a skewer inserted into the cake comes out clean.\n10. Ice with your favourite icing when cool.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 13\n}\n]"
+  },
+  {
+    "goal": "Chocolate_fairy_cakes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat the oven to 180 degrees C ( gas mark 4 ).\n2. Line a bun tray with paper or foil cases.\n3. Sift together the flour , baking powder , bicarbonate of soda , cocoa and salt.\n4. Set aside.\n5. In a large bowl , cream together the butter and sugar until light and fluffy.\n6. Add the eggs one at a time , beating well with each addition , then stir in the vanilla.\n7. Add the flour mixture alternately with the milk ; beat well.\n8. Fill the paper cups 3/4's full.\n9. Bake for 15 minutes in the preheated oven , or until a skewer inserted into the cake comes out clean.\n10. Ice with your favourite icing when cool.",
+    "permuted_recipe": "1. Line a bun tray with paper or foil cases.\n2. Preheat the oven to 180 degrees C ( gas mark 4 ).\n3. Sift together the flour , baking powder , bicarbonate of soda , cocoa and salt.\n4. Set aside.\n5. In a large bowl , cream together the butter and sugar until light and fluffy.\n6. Add the eggs one at a time , beating well with each addition , then stir in the vanilla.\n7. Add the flour mixture alternately with the milk ; beat well.\n8. Fill the paper cups 3/4's full.\n9. Bake for 15 minutes in the preheated oven , or until a skewer inserted into the cake comes out clean.\n10. Ice with your favourite icing when cool.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 54\n}\n]"
+  }
+]

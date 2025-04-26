@@ -1,0 +1,11 @@
+[
+  {
+    "goal": "Chicken_curry_recipe__All_recipes_UK1",
+    "original_recipe": "1. Grind poppy seeds into a paste.\n2. Set aside.\n3. In a large frying pan , sautÃ© onions and green chillies in oil until golden brown.\n4. Add ginger and garlic and continue to sautÃ©.\n5. Add poppy seed paste and chicken , continuing to sautÃ©.\n6. Stir all together ; after chicken is well mixed with the sauce , add the cayenne pepper and pour water over the mixture.\n7. Cover frying pan and let simmer about 15 minutes , until chicken is cooked through.\n8. After chicken is ' well-boiled ' ( the oil should be floating on top of the frying pan liquid ) , add the garam masala and turmeric and turn off the heat.\n9. Season with salt to taste.\n10. Stir all together and serve.",
+    "permuted_recipe": "1. Grind poppy seeds into a paste.\n2. Set aside.\n3. In a large frying pan , sautÃ© onions and green chillies in oil until golden brown.\n4. Add ginger and garlic and continue to sautÃ©.\n5. Add poppy seed paste and chicken , continuing to sautÃ©.\n6. Stir all together ; after chicken is well mixed with the sauce , add the cayenne pepper and pour water over the mixture.\n7. Cover frying pan and let simmer about 15 minutes , until chicken is cooked through.\n8. After chicken is ' well-boiled ' ( the oil should be floating on top of the frying pan liquid ) , add the garam masala and turmeric and turn off the heat.\n9. Season with salt to taste.",
+    "question": "10. Stir all together and serve.",
+    "i": "?",
+    "j": "?",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]"
+  }
+]

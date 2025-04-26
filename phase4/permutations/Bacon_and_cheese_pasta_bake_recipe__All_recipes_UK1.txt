@@ -1,0 +1,20 @@
+======== Original Recipe ========
+1. Preheat oven to 180 C / Gas 4.
+2. Place bacon in a large , deep frying pan.
+3. Cook over medium high heat until evenly brown.
+4. Drain , crumble and set aside.
+5. In a large pot with boiling salted water , cook pasta until al dente.
+6. Drain.
+7. In a medium frying pan , saute the chopped onion and garlic.
+8. Take off heat and add chopped cooked bacon and set aside.
+9. To make the sauce , in a medium saucepan melt the butter over low heat.
+10. Once melted , add the flour and stir constantly for 2 minutes.
+11. Gradually add milk and continue stirring until thickened.
+12. Stir in 2/3 of the grated Cheddar cheese and stir until melted.
+13. Combine cooked pasta , sauteed vegetables and sauce.
+14. Pour into a 2 litre baking dish.
+15. Sprinkle over remaining Cheddar cheese.
+16. Bake uncovered in preheated oven until cheese on top is melted and brown , 15 to 20 minutes.
+17. Serve warm.
+========
+number of recipes: 0 and [(2, 3, 4), (5, 6), (7, 8), (9, 10, 11, 12), (13, 14, 15, 16, 17)]

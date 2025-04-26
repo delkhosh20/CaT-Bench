@@ -1,0 +1,15 @@
+======== Original Recipe ========
+1. Preheat the oven to 170 C / Gas mark 3.
+2. Grease baking trays or line with parchment.
+3. Sift together the flour , bicarb and salt ; set aside.
+4. In a medium bowl , cream together the melted butter , brown sugar and caster sugar until well blended.
+5. Beat in the vanilla , egg and egg yolk until light and creamy.
+6. Mix in the sifted ingredients until just blended.
+7. Stir in the chocolate chips by hand using a wooden spoon.
+8. Drop cookie dough onto the prepared baking trays , with each cookie around 4 tablespoons of dough ( for smaller cookies , drop 1 rounded tablespoonful and adjust baking time as necessary ).
+9. Do not flatten the dough.
+10. Cookies should be about 8cm apart.
+11. Bake for 15 to 17 minutes in the preheated oven , or until the edges are lightly toasted.
+12. Cool on baking trays for a few minutes before transferring to wire racks to cool completely.
+========
+number of recipes: 0 and [(2, 3), (4, 5, 6, 7), (8, 11), (10, 11, 12)]

@@ -1,0 +1,20 @@
+[
+  {
+    "goal": "Bread_Machine_Baps_recipe__All_recipes_UK1",
+    "original_recipe": "1. Place the bread flour , sugar , salt , milk powder , water , butter , and yeast in the pan of the bread machine in the order recommended by the manufacturer.\n2. Set on Dough cycle ; press Start.\n3. Remove risen dough from the machine , punch down and turn out onto a lightly floured surface.\n4. Divide the dough into 10 equal pieces , and form into rounds.\n5. Place the rounds on lightly greased baking trays.\n6. Cover with a damp cloth , and let rise until doubled in volume , about 40 minutes.\n7. Meanwhile , preheat oven to 180 C / Gas mark 4.\n8. In a small bowl , mix together the egg white and 2 tablespoons water ; brush lightly onto the baps.\n9. Bake in the preheated oven for 15 minutes , or until the baps are golden brown.",
+    "permuted_recipe": "1. Place the bread flour , sugar , salt , milk powder , water , butter , and yeast in the pan of the bread machine in the order recommended by the manufacturer.\n2. Set on Dough cycle ; press Start.\n3. Divide the dough into 10 equal pieces , and form into rounds.\n4. Remove risen dough from the machine , punch down and turn out onto a lightly floured surface.\n5. Place the rounds on lightly greased baking trays.\n6. Cover with a damp cloth , and let rise until doubled in volume , about 40 minutes.\n7. Meanwhile , preheat oven to 180 C / Gas mark 4.\n8. In a small bowl , mix together the egg white and 2 tablespoons water ; brush lightly onto the baps.\n9. Bake in the preheated oven for 15 minutes , or until the baps are golden brown.",
+    "question": "must step 4 happen before step 7?",
+    "i": "4",
+    "j": "7",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 48\n}\n]"
+  },
+  {
+    "goal": "Bread_Machine_Baps_recipe__All_recipes_UK1",
+    "original_recipe": "1. Place the bread flour , sugar , salt , milk powder , water , butter , and yeast in the pan of the bread machine in the order recommended by the manufacturer.\n2. Set on Dough cycle ; press Start.\n3. Remove risen dough from the machine , punch down and turn out onto a lightly floured surface.\n4. Divide the dough into 10 equal pieces , and form into rounds.\n5. Place the rounds on lightly greased baking trays.\n6. Cover with a damp cloth , and let rise until doubled in volume , about 40 minutes.\n7. Meanwhile , preheat oven to 180 C / Gas mark 4.\n8. In a small bowl , mix together the egg white and 2 tablespoons water ; brush lightly onto the baps.\n9. Bake in the preheated oven for 15 minutes , or until the baps are golden brown.",
+    "permuted_recipe": "1. Place the bread flour , sugar , salt , milk powder , water , butter , and yeast in the pan of the bread machine in the order recommended by the manufacturer.\n2. Set on Dough cycle ; press Start.\n3. Divide the dough into 10 equal pieces , and form into rounds.\n4. Remove risen dough from the machine , punch down and turn out onto a lightly floured surface.\n5. Place the rounds on lightly greased baking trays.\n6. Cover with a damp cloth , and let rise until doubled in volume , about 40 minutes.\n7. Meanwhile , preheat oven to 180 C / Gas mark 4.\n8. In a small bowl , mix together the egg white and 2 tablespoons water ; brush lightly onto the baps.\n9. Bake in the preheated oven for 15 minutes , or until the baps are golden brown.",
+    "question": "must step 4 happen before step 7?",
+    "i": "4",
+    "j": "7",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 30\n}\n]"
+  }
+]

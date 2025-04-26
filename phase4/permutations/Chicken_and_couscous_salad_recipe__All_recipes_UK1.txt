@@ -1,0 +1,9 @@
+======== Original Recipe ========
+1. Prepare couscous according to package directions , using chicken stock for liquid.
+2. Drain and set aside.
+3. In a large frying pan combine the wine , oil , half the lime juice , 1 teaspoon cumin and garlic ; mix all together and add chicken.
+4. Simmer over low heat until all liquid has evaporated and chicken juices run clear , 5 to 7 minutes.
+5. Remove chicken from frying pan and mix in a large bowl with remaining lime juice , remaining 1/2 teaspoon cumin , green pepper , red pepper , yellow pepper , spring onion and couscous.
+6. Garnish with a few black olives per serving.
+========
+number of recipes: 0 and [(1, 2), (3, 4), (5, 6)]

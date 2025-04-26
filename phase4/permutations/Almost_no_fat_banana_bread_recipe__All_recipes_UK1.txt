@@ -1,0 +1,28 @@
+======== Original Recipe ========
+1. Preheat oven to 180 C / Gas mark 4.
+2. Lightly grease a 20x10cm ( 8x4 in ) loaf tin.
+3. In a large bowl , stir together flour , sugar , baking powder , bicarbonate of soda and cinnamon.
+4. Add egg whites , bananas and apple purÃ©e ; stir just until combined.
+5. Pour batter into prepared tin.
+6. Bake in preheated oven for 50 to 55 minutes , until a skewer inserted into centre of loaf comes out clean.
+7. Turn out onto wire rack and allow to cool before slicing.
+========
+1. Lightly grease a 20x10cm ( 8x4 in ) loaf tin.
+2. Preheat oven to 180 C / Gas mark 4.
+3. In a large bowl , stir together flour , sugar , baking powder , bicarbonate of soda and cinnamon.
+4. Add egg whites , bananas and apple purÃ©e ; stir just until combined.
+5. Pour batter into prepared tin.
+6. Bake in preheated oven for 50 to 55 minutes , until a skewer inserted into centre of loaf comes out clean.
+7. Turn out onto wire rack and allow to cool before slicing.
+must step 1 happen before step 2?
+========
+1. Lightly grease a 20x10cm ( 8x4 in ) loaf tin.
+2. Preheat oven to 180 C / Gas mark 4.
+3. In a large bowl , stir together flour , sugar , baking powder , bicarbonate of soda and cinnamon.
+4. Add egg whites , bananas and apple purÃ©e ; stir just until combined.
+5. Pour batter into prepared tin.
+6. Bake in preheated oven for 50 to 55 minutes , until a skewer inserted into centre of loaf comes out clean.
+7. Turn out onto wire rack and allow to cool before slicing.
+must step 1 happen before step 2?
+========
+number of recipes: 2 and [(3, 4), (5, 6, 7)]

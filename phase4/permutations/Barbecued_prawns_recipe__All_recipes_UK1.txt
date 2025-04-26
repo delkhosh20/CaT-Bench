@@ -1,0 +1,12 @@
+======== Original Recipe ========
+1. In a large , glass bowl , stir together the olive oil , lemon juice , parsley , garlic and black pepper.
+2. Season with crushed chillies , if desired.
+3. Add prawns , and toss to coat.
+4. Marinate in the refrigerator for 30 minutes.
+5. Preheat barbecue for high heat.
+6. Thread prawns onto skewers , piercing once near the tail and once near the head.
+7. Discard any remaining marinade.
+8. Lightly oil cooking grate.
+9. Cook for 2 to 3 minutes per side , or until opaque.
+========
+number of recipes: 0 and [(1, 2, 3, 4), (6, 7), (6, 9)]

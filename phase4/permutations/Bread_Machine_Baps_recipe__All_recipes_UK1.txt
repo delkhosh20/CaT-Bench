@@ -1,0 +1,34 @@
+======== Original Recipe ========
+1. Place the bread flour , sugar , salt , milk powder , water , butter , and yeast in the pan of the bread machine in the order recommended by the manufacturer.
+2. Set on Dough cycle ; press Start.
+3. Remove risen dough from the machine , punch down and turn out onto a lightly floured surface.
+4. Divide the dough into 10 equal pieces , and form into rounds.
+5. Place the rounds on lightly greased baking trays.
+6. Cover with a damp cloth , and let rise until doubled in volume , about 40 minutes.
+7. Meanwhile , preheat oven to 180 C / Gas mark 4.
+8. In a small bowl , mix together the egg white and 2 tablespoons water ; brush lightly onto the baps.
+9. Bake in the preheated oven for 15 minutes , or until the baps are golden brown.
+========
+1. Place the bread flour , sugar , salt , milk powder , water , butter , and yeast in the pan of the bread machine in the order recommended by the manufacturer.
+2. Set on Dough cycle ; press Start.
+3. Divide the dough into 10 equal pieces , and form into rounds.
+4. Remove risen dough from the machine , punch down and turn out onto a lightly floured surface.
+5. Place the rounds on lightly greased baking trays.
+6. Cover with a damp cloth , and let rise until doubled in volume , about 40 minutes.
+7. Meanwhile , preheat oven to 180 C / Gas mark 4.
+8. In a small bowl , mix together the egg white and 2 tablespoons water ; brush lightly onto the baps.
+9. Bake in the preheated oven for 15 minutes , or until the baps are golden brown.
+must step 4 happen before step 7?
+========
+1. Place the bread flour , sugar , salt , milk powder , water , butter , and yeast in the pan of the bread machine in the order recommended by the manufacturer.
+2. Set on Dough cycle ; press Start.
+3. Divide the dough into 10 equal pieces , and form into rounds.
+4. Remove risen dough from the machine , punch down and turn out onto a lightly floured surface.
+5. Place the rounds on lightly greased baking trays.
+6. Cover with a damp cloth , and let rise until doubled in volume , about 40 minutes.
+7. Meanwhile , preheat oven to 180 C / Gas mark 4.
+8. In a small bowl , mix together the egg white and 2 tablespoons water ; brush lightly onto the baps.
+9. Bake in the preheated oven for 15 minutes , or until the baps are golden brown.
+must step 4 happen before step 7?
+========
+number of recipes: 2 and [(1, 2), (5, 6), (8, 9)]

@@ -41,8 +41,7 @@ def format_recipe_steps(base): #write sentences, each sentence one step
         dic[f"{key[0]} {key[1]}"] = i
         sentence = " ".join(words).replace(' .', '.')
         step[i] = sentence
-        formatted_steps.append(f"{i}. {sentence}")
-    print(formatted_steps)
+
     return formatted_steps
 
 def find_dep_steps(): #find steps(sentences) that are dependent
@@ -115,10 +114,9 @@ def extract_numbers(input_tuple):
     
 #     return permutations
 def one_move_permutations_with_chains(lst):
-    permutations = []
-
+    permutation = []
     n = len(lst)
-
+    
     # Find chain positions (they stay fixed)
     chain_indices = [i for i, x in enumerate(lst) if isinstance(x, tuple) and len(x) > 1]
 
@@ -151,43 +149,57 @@ def one_move_permutations_with_chains(lst):
 
                     # reconstruct the full list
                     new_lst = lst[:start] + new_zone + lst[end:]
-                    permutations.append(new_lst)
-
-        return permutations
+                    permutation.append(new_lst)
+        print(permutation)
+        return permutation
 
 def main():
-    parser = argparse.ArgumentParser(description="Process recipe files")
-    parser.add_argument("filename", help="Base filename (without extension) inside 'permutations' folder")
-    args = parser.parse_args()
+    global dic, step
+    # parser = argparse.ArgumentParser(description="Process recipe files")
+    # parser.add_argument("filename", help="Base filename (without extension) inside 'permutations' folder")
+    # args = parser.parse_args()
 
-    base = args.filename
+    #base = args.filename
+    
+    files = [f'{x.split(".")[0]}' for x in os.listdir("flow_graph_corpus/r-100") if x.endswith(".list")]
+    files.sort()
+    
+    for base in files:
+        dic = {}
+        step = {}
+        generate_deps_flow(base)
+        format_recipe_steps(base)
+        output2 = find_dep_steps()
+        output3, uniques = move_elements(output2, len(step))
+        if output3 is None:
+            output3 = []
 
-    generate_deps_flow(base)
-    format_recipe_steps(base)
-    output2 = find_dep_steps()
-    output3, uniques = move_elements(output2, len(step))
-
-    n = 0
-    with open(f"permutations/{base}1.txt", "w") as file:
-        if len(uniques) > 1:
-            random_elements = random.sample(uniques, 2)
-
-        for out in output3:
-            file.write("========\n")
-            n += 1
-            index = 1
-            mapping = {}
-            for key in extract_numbers(out):
-                mapping[key] = index
-                file.write(f"{key}. {index}. {step[key]}\n")
-                index += 1
-
+        n = 0
+        with open(f"permutations/{base}1.txt", "w") as file:
+            file.write("======== Original Recipe ========\n")
+            for i in range(1, len(step) + 1):
+                file.write(f"{i}. {step[i]}\n")
             if len(uniques) > 1:
-                shash = [mapping[random_elements[0]], mapping[random_elements[1]]]
-                shash.sort()
-                file.write(f"must step {shash[0]} happen before step {shash[1]}?\n")
+                random_elements = random.sample(uniques, 2)
+                # print(formatted_steps)
 
-        file.write(f"\n number of recipes: {n} and {output2}")
+            for out in output3:
+                file.write("========\n")
+                n += 1
+                index = 1
+                mapping = {}
+                for key in extract_numbers(out):
+                    mapping[key] = index
+                    file.write(f"{index}. {step[key]}\n")
+                    index += 1
+
+                if len(uniques) > 1:
+                    shash = [mapping[random_elements[0]], mapping[random_elements[1]]]
+                    shash.sort()
+                    file.write(f"must step {shash[0]} happen before step {shash[1]}?\n")
+
+            file.write("========\n")
+            file.write(f"number of recipes: {n} and {output2}")
 
 if __name__ == "__main__":
     main()

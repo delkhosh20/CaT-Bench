@@ -1,0 +1,11 @@
+[
+  {
+    "goal": "Broccoli_and_Ginger_Beef_Stir_Fry_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a small bowl , combine flour , stock , sugar and soy sauce.\n2. Stir until sugar and flour are dissolved.\n3. In a large frying pan or wok over high heat , stir fry steak 2 to 4 minutes , or until browned.\n4. Stir in stock mixture , ginger , garlic and broccoli.\n5. Bring to the boil , then reduce heat.\n6. Simmer 5 to 10 minutes , or until sauce thickens.",
+    "permuted_recipe": "1. In a small bowl , combine flour , stock , sugar and soy sauce.\n2. Stir until sugar and flour are dissolved.\n3. In a large frying pan or wok over high heat , stir fry steak 2 to 4 minutes , or until browned.\n4. Stir in stock mixture , ginger , garlic and broccoli.\n5. Bring to the boil , then reduce heat.",
+    "question": "6. Simmer 5 to 10 minutes , or until sauce thickens.",
+    "i": "?",
+    "j": "?",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 10\n}\n]"
+  }
+]

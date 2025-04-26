@@ -1,0 +1,11 @@
+[
+  {
+    "goal": "Coconut_prawn_and_vegetable_curry_recipe__All_recipes_UK1",
+    "original_recipe": "1. Cook the potatoes in a saucepan of lightly salted , boiling water for 10 minutes.\n2. Drain and set aside.\n3. Meanwhile , heat the oil in a large heavy-based saucepan , add the onion and fry gently for 5 minutes , stirring occasionally.\n4. Add the garlic and curry paste and cook for a further 2 minutes , stirring all the time.\n5. Add the creamed coconut and stir until it has melted , then add the tomatoes with their juice.\n6. Simmer uncovered for 2-3 minutes until the mixture resembles a fairly thick paste.\n7. Add the carrots , cauliflower florets and stock , bring to the boil , then cover and simmer for 15 minutes.\n8. Add the beans and potatoes and cook for a further 8 minutes.\n9. Stir in the prawns and simmer for 2-3 minutes or until they turn pink ( simply heat through for 1-2 minutes if using cooked ).\n10. Season to taste , stir in the chopped coriander and serve straight away.",
+    "permuted_recipe": "1. Cook the potatoes in a saucepan of lightly salted , boiling water for 10 minutes.\n2. Drain and set aside.\n3. Meanwhile , heat the oil in a large heavy-based saucepan , add the onion and fry gently for 5 minutes , stirring occasionally.\n4. Add the garlic and curry paste and cook for a further 2 minutes , stirring all the time.\n5. Add the creamed coconut and stir until it has melted , then add the tomatoes with their juice.\n6. Simmer uncovered for 2-3 minutes until the mixture resembles a fairly thick paste.\n7. Add the carrots , cauliflower florets and stock , bring to the boil , then cover and simmer for 15 minutes.\n8. Add the beans and potatoes and cook for a further 8 minutes.\n9. Stir in the prawns and simmer for 2-3 minutes or until they turn pink ( simply heat through for 1-2 minutes if using cooked ).",
+    "question": "10. Season to taste , stir in the chopped coriander and serve straight away.",
+    "i": "?",
+    "j": "?",
+    "answer": "Must Step 3 happen before Step 5? Yes"
+  }
+]

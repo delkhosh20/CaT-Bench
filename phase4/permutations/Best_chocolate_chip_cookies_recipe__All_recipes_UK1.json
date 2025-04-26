@@ -1,0 +1,11 @@
+[
+  {
+    "goal": "Best_chocolate_chip_cookies_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 180 C / Gas mark 4.\n2. Cream together the butter , caster sugar and brown sugar until smooth.\n3. Beat in the eggs one at a time , then stir in the vanilla.\n4. Dissolve bicarbonate of soda in hot water.\n5. Add to batter along with salt.\n6. Stir in flour , chocolate chips and nuts.\n7. Drop by large spoonfuls onto ungreased baking trays.\n8. Bake for about 10 minutes in the preheated oven , or until edges are nicely browned.",
+    "permuted_recipe": "1. Preheat oven to 180 C / Gas mark 4.\n2. Cream together the butter , caster sugar and brown sugar until smooth.\n3. Beat in the eggs one at a time , then stir in the vanilla.\n4. Dissolve bicarbonate of soda in hot water.\n5. Add to batter along with salt.\n6. Stir in flour , chocolate chips and nuts.\n7. Drop by large spoonfuls onto ungreased baking trays.",
+    "question": "8. Bake for about 10 minutes in the preheated oven , or until edges are nicely browned.",
+    "i": "?",
+    "j": "?",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]"
+  }
+]

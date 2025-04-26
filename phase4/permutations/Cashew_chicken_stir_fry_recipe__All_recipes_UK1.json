@@ -1,0 +1,11 @@
+[
+  {
+    "goal": "Cashew_chicken_stir_fry_recipe__All_recipes_UK1",
+    "original_recipe": "1. Dissolve the cornflour in the chicken stock , and stir in the soy sauce , ginger and chilli sauce ; set aside.\n2. Heat half of the oil in a wok or large frying pan over high heat.\n3. Stir in the chicken ; cook and stir until the chicken is no longer pink , about 5 minutes.\n4. Remove the chicken from the wok , and set aside.\n5. Pour the remaining tablespoon of oil into the wok , and stir in the onion , green pepper , cashews and water chestnuts.\n6. Cook and stir until the chestnuts are hot , and the onion has softened , about 5 minutes more.\n7. Stir up the sauce to redistribute the cornflour , then pour into the wok , and bring to the boil.\n8. Add the reserved chicken , and stir until the sauce thickens and the chicken is hot.",
+    "permuted_recipe": "1. Dissolve the cornflour in the chicken stock , and stir in the soy sauce , ginger and chilli sauce ; set aside.\n2. Heat half of the oil in a wok or large frying pan over high heat.\n3. Stir in the chicken ; cook and stir until the chicken is no longer pink , about 5 minutes.\n4. Remove the chicken from the wok , and set aside.\n5. Pour the remaining tablespoon of oil into the wok , and stir in the onion , green pepper , cashews and water chestnuts.\n6. Cook and stir until the chestnuts are hot , and the onion has softened , about 5 minutes more.\n7. Stir up the sauce to redistribute the cornflour , then pour into the wok , and bring to the boil.",
+    "question": "8. Add the reserved chicken , and stir until the sauce thickens and the chicken is hot.",
+    "i": "?",
+    "j": "?",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 24\n}\n]"
+  }
+]
