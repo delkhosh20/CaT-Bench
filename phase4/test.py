@@ -10,14 +10,17 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 
 # 2. Get filenames (without .txt)
 folder = "permutations"
+
 #files = [os.path.splitext(x)[0] for x in os.listdir(folder) if x.endswith(".txt")]
 files = [
- 'Almond_and_apple_cake_recipe__All_recipes_UK1',
- 'Almost_no_fat_banana_bread_recipe__All_recipes_UK1',
- 'Apple_Crumble_Pie_recipe__All_recipes_UK1',
- 'Best_crispy_roast_potatoes_recipe__All_recipes_UK1',
- 'Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1',
- 'Blackberry_preserve_recipe__All_recipes_UK1']
+    'Almond_and_apple_cake_recipe__All_recipes_UK1',
+    'Almost_no_fat_banana_bread_recipe__All_recipes_UK1',
+    'Apple_Crumble_Pie_recipe__All_recipes_UK1',
+    'Best_crispy_roast_potatoes_recipe__All_recipes_UK1',
+    'Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1',
+    'Blackberry_preserve_recipe__All_recipes_UK1'
+]
+
 # 3. Loop through each file
 for filename in files:
     txt_path = os.path.join(folder, f"{filename}.txt")
@@ -50,7 +53,11 @@ for filename in files:
 
     results = []
 
-    for block in permutation_blocks[1:]:
+    ##
+    # In this loop we are reading permutations of original recipe and use the model
+    # to generate an answer based on a given prompt.
+    # To avoid request limit error we are waiting 30s at the end of each loop.
+    for block in permutation_blocks[1:]: # This [1:] eliminates the first item in `permutation_blocks`, which is the original recipe
         lines = block.strip().split("\n")
         if len(lines) < 2:
             continue
@@ -76,17 +83,38 @@ Goal: {filename}
 Procedure:
 {permuted_steps}
 
-Must Step {i} happen before Step {j}? Select between yes or no
+1. Must Step {i} happen before Step {j}? Select between yes or no 
+2. Explain why or why not.
+
+Format your answer as JSON with the key value pairs "binary_answer": "yes/no answer to Q1", "why_answer": "answer to Q2"
 """.strip()
         print(prompt)
         try:
+            # Give the prompt to model and extract an answer
             response = model.generate_content(prompt)
             answer = response.text.strip()
-            time.sleep(30)
+            
+            # Try to extract the JSON block
+            # The original response is like
+            #  ```json
+            # {
+            #   "binary_answer": "yes",
+            #   "why_answer": "You need to line the tin with baking parchment before arranging the apples in it."
+            # }
+            # ```
+            # But we need to remove "```json" and "```"
+            match = re.search(r'\{.*\}', answer, re.DOTALL)
+            json_str = match.group()
+            print(json_str)
+            
+            # Try parsing the answer into JSON
+            answer_json = json.loads(json_str)
+            binary_answer = answer_json.get("binary_answer", "")
+            why_answer = answer_json.get("why_answer", "")
         except Exception as e:
-            answer = f"[ERROR] {str(e)}"
             print(e)
-            time.sleep(30)
+            binary_answer = "[ERROR]"
+            why_answer = str(e)
 
         results.append({
             "goal": filename,
@@ -95,14 +123,18 @@ Must Step {i} happen before Step {j}? Select between yes or no
             "question": question_line,
             "i": i,
             "j": j,
-            "answer": answer
+            "binary_answer": binary_answer,
+            "why_answer": why_answer
         })
+        
+        # wait 30sec before next request
+        time.sleep(30)
     
     # Save results
     if results:
-        json_path = os.path.join(folder, f"{filename}.json")
+        json_path = os.path.join(folder, f"{filename}.AE.json")
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(results, f, indent=2, ensure_ascii=False)
-        print(f"Saved: {filename}.json")
+        print(f"Saved: {filename}.AE.json")
     else:
         print(f"[SKIPPED] No valid permutations in {filename}")
