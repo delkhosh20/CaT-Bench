@@ -1,0 +1,122 @@
+[
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Arrange apple slices in unbaked pastry case.\n2. Preheat oven to 200 C / Gas 6.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 3 must happen before Step 4 because the cinnamon-sugar mixture needs to be sprinkled over the apples before the crumble topping is added."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Arrange apple slices in unbaked pastry case.\n2. Mix 100g sugar and cinnamon ; sprinkle over apples.\n3. Preheat oven to 200 C / Gas 6.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 2 happen before step 4?",
+    "i": "2",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 2 must happen before Step 4 because the sugar and cinnamon mixture needs to be sprinkled over the apples before the crumble topping is added in Step 4."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Arrange apple slices in unbaked pastry case.\n2. Mix 100g sugar and cinnamon ; sprinkle over apples.\n3. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n4. Preheat oven to 200 C / Gas 6.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "binary_answer": "yes",
+    "why_answer": "Step 2 must happen before Step 3 because the cinnamon-sugar mixture needs to be sprinkled over the apples before the crumble topping is added in Step 5."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Arrange apple slices in unbaked pastry case.\n2. Preheat oven to 200 C / Gas 6.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 3 must happen before Step 4 because the cinnamon-sugar mixture needs to be sprinkled over the apples before the crumble topping is added in step 4."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Mix 100g sugar and cinnamon ; sprinkle over apples.\n3. Arrange apple slices in unbaked pastry case.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 2 happen before step 4?",
+    "i": "2",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 2 prepares the apples by coating them with a cinnamon-sugar mixture before they are placed in the pastry case, while Step 4 prepares the crumble topping which is added *after* the apples are in place, making Step 2 necessary before Step 4."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Mix 100g sugar and cinnamon ; sprinkle over apples.\n3. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n4. Arrange apple slices in unbaked pastry case.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "binary_answer": "yes",
+    "why_answer": "Step 2 prepares the apples for the crumble topping, which is created in Step 3, so Step 2 must happen before Step 3."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Mix 100g sugar and cinnamon ; sprinkle over apples.\n2. Preheat oven to 200 C / Gas 6.\n3. Arrange apple slices in unbaked pastry case.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 1 happen before step 4?",
+    "i": "1",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 1 prepares the apples with a cinnamon sugar coating before they are placed in the pastry case in step 3, while step 4 prepares the crumble topping which is added after the apples are in the case, so step 1 must precede step 4."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Mix 100g sugar and cinnamon ; sprinkle over apples.\n3. Arrange apple slices in unbaked pastry case.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 2 happen before step 4?",
+    "i": "2",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 2 prepares the apples by coating them with a cinnamon sugar mixture, which must be done before the crumble topping (Step 4) is added and the pie is baked."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n4. Mix 100g sugar and cinnamon ; sprinkle over apples.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 3 creates the crumble topping which is then added to the pie in step 5, so the crumble must be made before it can be added."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n2. Preheat oven to 200 C / Gas 6.\n3. Arrange apple slices in unbaked pastry case.\n4. Mix 100g sugar and cinnamon ; sprinkle over apples.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 1 happen before step 4?",
+    "i": "1",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 1 creates the crumble topping which is then used in step 5, and therefore must be completed before step 4, which involves preparing the apples for the topping."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n3. Arrange apple slices in unbaked pastry case.\n4. Mix 100g sugar and cinnamon ; sprinkle over apples.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 2 happen before step 4?",
+    "i": "2",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 2 creates the crumble topping which is then added to the apples in step 5, so it must happen before step 4 which involves sprinkling sugar and cinnamon on the apples."
+  },
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n4. Mix 100g sugar and cinnamon ; sprinkle over apples.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 3 creates the crumble topping which is then added to the apples in step 4, therefore it must happen before step 4."
+  }
+]

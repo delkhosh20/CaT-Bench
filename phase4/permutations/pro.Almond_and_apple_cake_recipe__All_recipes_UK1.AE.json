@@ -1,0 +1,62 @@
+[
+  {
+    "goal": "Almond_and_apple_cake_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat the oven to 170 C / Gas mark 3.\n2. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n3. Line base and side with baking parchment.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "permuted_recipe": "1. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n2. Preheat the oven to 170 C / Gas mark 3.\n3. Line base and side with baking parchment.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "binary_answer": "yes",
+    "why_answer": "The tin needs to be lined with parchment before adding the apples to prevent sticking and ensure easy removal."
+  },
+  {
+    "goal": "Almond_and_apple_cake_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat the oven to 170 C / Gas mark 3.\n2. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n3. Line base and side with baking parchment.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "permuted_recipe": "1. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n2. Line base and side with baking parchment.\n3. Preheat the oven to 170 C / Gas mark 3.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "binary_answer": "yes",
+    "why_answer": "The tin must be lined with parchment paper before arranging the apples to prevent sticking and ensure easy removal."
+  },
+  {
+    "goal": "Almond_and_apple_cake_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat the oven to 170 C / Gas mark 3.\n2. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n3. Line base and side with baking parchment.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "permuted_recipe": "1. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n2. Preheat the oven to 170 C / Gas mark 3.\n3. Line base and side with baking parchment.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "binary_answer": "yes",
+    "why_answer": "The tin must be lined with parchment before arranging the apples to prevent sticking and ensure easy removal."
+  },
+  {
+    "goal": "Almond_and_apple_cake_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat the oven to 170 C / Gas mark 3.\n2. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n3. Line base and side with baking parchment.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "permuted_recipe": "1. Preheat the oven to 170 C / Gas mark 3.\n2. Line base and side with baking parchment.\n3. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "binary_answer": "yes",
+    "why_answer": "The tin needs to be lined with parchment before arranging the apples in it."
+  },
+  {
+    "goal": "Almond_and_apple_cake_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat the oven to 170 C / Gas mark 3.\n2. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n3. Line base and side with baking parchment.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "permuted_recipe": "1. Line base and side with baking parchment.\n2. Preheat the oven to 170 C / Gas mark 3.\n3. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "binary_answer": "yes",
+    "why_answer": "The tin needs to be lined with parchment before the apples are arranged in it."
+  },
+  {
+    "goal": "Almond_and_apple_cake_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat the oven to 170 C / Gas mark 3.\n2. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n3. Line base and side with baking parchment.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "permuted_recipe": "1. Preheat the oven to 170 C / Gas mark 3.\n2. Line base and side with baking parchment.\n3. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "binary_answer": "yes",
+    "why_answer": "The tin needs to be lined with parchment before the apples are arranged in it."
+  }
+]

@@ -83,12 +83,13 @@ Goal: {filename}
 Procedure:
 {permuted_steps}
 
-1. Must Step {i} happen before Step {j}? Select between yes or no 
-2. Explain why or why not.
+1. Explain why or why not Step {i} must happen before Step {j}. Think step by step.
+2. Must Step {i} happen before Step {j}? Select between yes or no
 
-Format your answer as JSON with the key value pairs "binary_answer": "yes/no answer to Q1", "why_answer": "answer to Q2"
+Format your answer as JSON with the key value pairs "why_answer": "answer to Q1", "binary_answer": "yes/no answer to Q2"
 """.strip()
         print(prompt)
+
         try:
             # Give the prompt to model and extract an answer
             response = model.generate_content(prompt)
@@ -132,9 +133,9 @@ Format your answer as JSON with the key value pairs "binary_answer": "yes/no ans
     
     # Save results
     if results:
-        json_path = os.path.join(folder, f"{filename}.AE.json")
+        json_path = os.path.join(folder, f"pro.{filename}.EA.json")
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(results, f, indent=2, ensure_ascii=False)
-        print(f"Saved: {filename}.AE.json")
+        print(f"Saved: pro.{filename}.EA.json")
     else:
         print(f"[SKIPPED] No valid permutations in {filename}")

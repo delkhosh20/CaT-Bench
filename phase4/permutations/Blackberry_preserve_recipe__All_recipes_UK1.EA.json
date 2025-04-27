@@ -1,0 +1,62 @@
+[
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Process jars for 10 minutes in a water bath.\n4. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n5. Refrigerate jam once the seal is broken.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "binary_answer": "yes",
+    "why_answer": "Step 3, processing the jars in a water bath, is crucial for sterilization and preservation, preventing spoilage before refrigeration in Step 5, which is only necessary if the seal is broken and sterilization has been compromised."
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Process jars for 10 minutes in a water bath.\n4. Refrigerate jam once the seal is broken.\n5. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "binary_answer": "yes",
+    "why_answer": "Step 3, processing jars in a water bath, is necessary to ensure the jars are sterile and properly sealed to prevent spoilage before refrigeration in step 4."
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Process jars for 10 minutes in a water bath.\n4. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n5. Refrigerate jam once the seal is broken.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "binary_answer": "yes",
+    "why_answer": "Step 3, processing the jars in a water bath, is crucial for sterilization and preservation before refrigerating in step 5 to prevent spoilage."
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Refrigerate jam once the seal is broken.\n5. Process jars for 10 minutes in a water bath.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "binary_answer": "no",
+    "why_answer": "Step 4, refrigerating the jam after the seal is broken, is a precaution for safety and preventing spoilage only needed if the seal is compromised;  Step 5, processing the jars in a water bath, is crucial for preserving the jam and must happen before storage and is independent of seal integrity."
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Refrigerate jam once the seal is broken.\n4. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n5. Process jars for 10 minutes in a water bath.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "binary_answer": "no",
+    "why_answer": "Step 3, refrigerating the jam after the seal is broken, is a safety precaution that should happen after the jars are sealed and processed (Step 5) to prevent spoilage and ensure food safety."
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Refrigerate jam once the seal is broken.\n5. Process jars for 10 minutes in a water bath.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "binary_answer": "no",
+    "why_answer": "Step 4, refrigerating the jam after the seal is broken, is not a necessary prerequisite for Step 5, processing the jars in a water bath, as the water bath processing aims to create a sterile seal, while refrigeration is for preserving the jam once opened."
+  }
+]
