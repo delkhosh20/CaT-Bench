@@ -1,0 +1,56 @@
+[
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n2. Preheat oven to 200 C / Gas mark 6.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes, the potatoes must be par-cooked before the oven is preheated and they are roasted."
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n2. Place dripping or oil in a preheated roasting tin until almost smoking.\n3. Preheat oven to 200 C / Gas mark 6.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 3?",
+    "i": "1",
+    "j": "3",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]"
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n2. Preheat oven to 200 C / Gas mark 6.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 48\n}\n]"
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Place dripping or oil in a preheated roasting tin until almost smoking.\n3. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 3?",
+    "i": "1",
+    "j": "3",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]"
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Place dripping or oil in a preheated roasting tin until almost smoking.\n2. Preheat oven to 200 C / Gas mark 6.\n3. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 47\n}\n]"
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Place dripping or oil in a preheated roasting tin until almost smoking.\n3. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 3?",
+    "i": "1",
+    "j": "3",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]"
+  }
+]

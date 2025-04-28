@@ -1,0 +1,56 @@
+[
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Process jars for 10 minutes in a water bath.\n4. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n5. Refrigerate jam once the seal is broken.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 46\n}\n]"
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Process jars for 10 minutes in a water bath.\n4. Refrigerate jam once the seal is broken.\n5. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]"
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Process jars for 10 minutes in a water bath.\n4. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n5. Refrigerate jam once the seal is broken.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 46\n}\n]"
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Refrigerate jam once the seal is broken.\n5. Process jars for 10 minutes in a water bath.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]"
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Refrigerate jam once the seal is broken.\n4. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n5. Process jars for 10 minutes in a water bath.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 46\n}\n]"
+  },
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK1",
+    "original_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Refrigerate jam once the seal is broken.\n5. Process jars for 10 minutes in a water bath.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "[ERROR] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]"
+  }
+]

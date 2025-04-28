@@ -13,8 +13,6 @@ folder = "tested"
 
 #files = [os.path.splitext(x)[0] for x in os.listdir(folder) if x.endswith(".txt")]
 files = [
-    'Almond_and_apple_cake_recipe__All_recipes_UK1',
-    'Almost_no_fat_banana_bread_recipe__All_recipes_UK1',
     'Apple_Crumble_Pie_recipe__All_recipes_UK1',
     'Best_crispy_roast_potatoes_recipe__All_recipes_UK1',
     'Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1',
@@ -73,6 +71,7 @@ for filename in files:
         else:
             i, j = "?", "?"
 
+
         # Construct your prompt
         prompt = f"""
 Given a goal, a procedure to achieve that goal and a question about the steps in the procedure,
@@ -83,10 +82,9 @@ Goal: {filename}
 Procedure:
 {permuted_steps}
 
-1. Explain why or why not Step {i} must happen before Step {j}. Think step by step.
-2. Must Step {i} happen before Step {j}? Select between yes or no
 
-Format your answer as JSON with the key value pairs "why_answer": "answer to Q1", "binary_answer": "yes/no answer to Q2"
+Must Step {i} happen before Step {j}? Select between yes or no
+
 """.strip()
         print(prompt)
 
@@ -104,18 +102,19 @@ Format your answer as JSON with the key value pairs "why_answer": "answer to Q1"
             # }
             # ```
             # But we need to remove "```json" and "```"
-            match = re.search(r'\{.*\}', answer, re.DOTALL)
-            json_str = match.group()
-            print(json_str)
+            # match = re.search(r'\{.*\}', answer, re.DOTALL)
+            # json_str = match.group()
+            # print(json_str)
             
             # Try parsing the answer into JSON
-            answer_json = json.loads(json_str)
-            binary_answer = answer_json.get("binary_answer", "")
-            why_answer = answer_json.get("why_answer", "")
+            # answer_json = json.loads(json_str)
+            # binary_answer = answer_json.get("binary_answer", "")
+            # why_answer = answer_json.get("why_answer", "")
         except Exception as e:
             print(e)
-            binary_answer = "[ERROR]"
-            why_answer = str(e)
+            answer = f"[ERROR] {str(e)}"
+            # binary_answer = "[ERROR]"
+            # why_answer = str(e)
 
         results.append({
             "goal": filename,
@@ -124,8 +123,7 @@ Format your answer as JSON with the key value pairs "why_answer": "answer to Q1"
             "question": question_line,
             "i": i,
             "j": j,
-            "binary_answer": binary_answer,
-            "why_answer": why_answer
+            "answer": answer,
         })
         
         # wait 30sec before next request
@@ -133,9 +131,9 @@ Format your answer as JSON with the key value pairs "why_answer": "answer to Q1"
     
     # Save results
     if results:
-        json_path = os.path.join(folder, f"pro.{filename}.EA.json")
+        json_path = os.path.join(folder, f"pro.{filename}.json")
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(results, f, indent=2, ensure_ascii=False)
-        print(f"Saved: pro.{filename}.EA.json")
+        print(f"Saved: pro.{filename}.json")
     else:
         print(f"[SKIPPED] No valid permutations in {filename}")
