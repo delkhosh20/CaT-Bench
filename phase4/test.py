@@ -5,11 +5,11 @@ import google.generativeai as genai
 import time
 
 # 1. Configure Gemini
-genai.configure(api_key="AIzaSyCZSq1vrrvjRE-DCj1fzJXzUDuoVgbcitk")
-model = genai.GenerativeModel("gemini-1.5-flash")
+genai.configure(api_key="AIzaSyD4TWYW506EJ7XgKw_OpWhOSKdWPs7POUQ")
+model = genai.GenerativeModel("gemini-1.5-pro-latest")
 
 # 2. Get filenames (without .txt)
-folder = "permutations"
+folder = "tested"
 
 #files = [os.path.splitext(x)[0] for x in os.listdir(folder) if x.endswith(".txt")]
 files = [

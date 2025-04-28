@@ -1,0 +1,62 @@
+[
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n2. Preheat oven to 200 C / Gas mark 6.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "binary_answer": "yes",
+    "why_answer": "Step 1 must happen before Step 2 because the potatoes need to be par-cooked before roasting to ensure they cook through and achieve a crispy exterior."
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n2. Place dripping or oil in a preheated roasting tin until almost smoking.\n3. Preheat oven to 200 C / Gas mark 6.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 3?",
+    "i": "1",
+    "j": "3",
+    "binary_answer": "no",
+    "why_answer": "The potatoes need to be parboiled before roasting to ensure they cook through and achieve a fluffy interior."
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n2. Preheat oven to 200 C / Gas mark 6.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "binary_answer": "yes",
+    "why_answer": "Step 1 must happen before Step 2 because the potatoes need to be par-cooked before roasting to ensure they are cooked through and crispy."
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Place dripping or oil in a preheated roasting tin until almost smoking.\n3. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 3?",
+    "i": "1",
+    "j": "3",
+    "binary_answer": "yes",
+    "why_answer": "Step 1 must happen before Step 3 because the hot oil/dripping in the roasting tin needs the oven's preheating to reach a high temperature before the par-boiled potatoes are added."
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Place dripping or oil in a preheated roasting tin until almost smoking.\n2. Preheat oven to 200 C / Gas mark 6.\n3. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "binary_answer": "no",
+    "why_answer": "Step 2 does not need to happen before Step 3 because the potatoes can be parboiled independently of the oven preheating."
+  },
+  {
+    "goal": "Best_crispy_roast_potatoes_recipe__All_recipes_UK1",
+    "original_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n3. Place dripping or oil in a preheated roasting tin until almost smoking.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas mark 6.\n2. Place dripping or oil in a preheated roasting tin until almost smoking.\n3. Cook potatoes for 8 to 10 minutes in a large pot of boiling water.\n4. Drain potatoes and return to pot.\n5. Sprinkle with the flour , turmeric , oregano , salt and pepper.\n6. Place a lid on the pot and shake vigorously so that potatoes are covered in the flour and spice mixture.\n7. Place in the roasting tin and toss to coat in the hot fat.\n8. Roast for about 40 minutes.",
+    "question": "must step 1 happen before step 3?",
+    "i": "1",
+    "j": "3",
+    "binary_answer": "yes",
+    "why_answer": "Step 1 must happen before Step 3 because the hot oil/dripping in Step 2 requires a preheated oven, and Step 2 needs to happen before the parboiled potatoes from Step 3 are added to the roasting tin."
+  }
+]
