@@ -1,0 +1,13 @@
+========
+1. Heat oil in a large frying pan over medium heat.
+2. Cook sausage until well browned , 5 to 7 minutes.
+3. Stir in onion and cook until lightly browned , 5 to 7 additional minutes.
+4. Remove sausages and cut into 5cm pieces.
+5. Pour beef stock , tomatoes , tomato puree and hot sauce into the pan with the onion.
+6. Bring to the boil , scraping up any brown bits from the bottom.
+7. Place carrots , chickpeas and kidney beans into a slow cooker.
+8. Arrange sausage pieces on top and pour sauce from pan into the slow cooker.
+9. Cook on Low for 4 to 6 hours.
+must step 4 happen before step 7?
+========
+number of recipes: 0 and [(1, 2, 3), (5, 6), (8, 9)]

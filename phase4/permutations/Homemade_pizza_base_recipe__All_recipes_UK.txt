@@ -1,0 +1,35 @@
+========
+1. Add ingredients in the order suggested by your manufacturer.
+2. Set for dough setting and start machine.
+3. When the unit signals , remove dough.
+4. Pat dough into a greased 30cm ( 12 in ) round pizza pan.
+5. Let stand 10 minutes.
+6. Preheat oven to 200 C / Gas mark 6.
+7. Spread pizza sauce over dough.
+8. Sprinkle toppings over sauce ( such as basil and mozzarella for a simple margherita pizza ).
+9. Bake 15 to 20 minutes , or until crust is golden brown.
+must step 6 happen before step 7?
+========
+1. Add ingredients in the order suggested by your manufacturer.
+2. Set for dough setting and start machine.
+3. When the unit signals , remove dough.
+4. Pat dough into a greased 30cm ( 12 in ) round pizza pan.
+5. Let stand 10 minutes.
+6. Spread pizza sauce over dough.
+7. Preheat oven to 200 C / Gas mark 6.
+8. Sprinkle toppings over sauce ( such as basil and mozzarella for a simple margherita pizza ).
+9. Bake 15 to 20 minutes , or until crust is golden brown.
+must step 6 happen before step 7?
+========
+1. Add ingredients in the order suggested by your manufacturer.
+2. Set for dough setting and start machine.
+3. When the unit signals , remove dough.
+4. Pat dough into a greased 30cm ( 12 in ) round pizza pan.
+5. Let stand 10 minutes.
+6. Spread pizza sauce over dough.
+7. Preheat oven to 200 C / Gas mark 6.
+8. Sprinkle toppings over sauce ( such as basil and mozzarella for a simple margherita pizza ).
+9. Bake 15 to 20 minutes , or until crust is golden brown.
+must step 6 happen before step 7?
+========
+number of recipes: 2 and [(1, 2), (4, 5), (8, 9)]

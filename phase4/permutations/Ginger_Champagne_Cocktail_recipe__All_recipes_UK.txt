@@ -1,0 +1,6 @@
+========
+1. Place the ginger strips into a shaker and press to release the flavour.
+2. Add the ice cubes and vodka ; shake and strain into a champagne glass.
+3. Top with champagne to serve.
+========
+number of recipes: 0 and [(1, 2, 3)]

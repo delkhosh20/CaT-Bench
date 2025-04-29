@@ -1,0 +1,51 @@
+========
+1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.
+2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.
+3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.
+4. Process jars for 10 minutes in a water bath.
+5. Refrigerate jam once the seal is broken.
+must step 3 happen before step 4?
+========
+1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.
+2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.
+3. Process jars for 10 minutes in a water bath.
+4. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.
+5. Refrigerate jam once the seal is broken.
+must step 3 happen before step 4?
+========
+1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.
+2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.
+3. Process jars for 10 minutes in a water bath.
+4. Refrigerate jam once the seal is broken.
+5. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.
+must step 3 happen before step 5?
+========
+1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.
+2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.
+3. Process jars for 10 minutes in a water bath.
+4. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.
+5. Refrigerate jam once the seal is broken.
+must step 3 happen before step 4?
+========
+1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.
+2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.
+3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.
+4. Refrigerate jam once the seal is broken.
+5. Process jars for 10 minutes in a water bath.
+must step 3 happen before step 5?
+========
+1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.
+2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.
+3. Refrigerate jam once the seal is broken.
+4. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.
+5. Process jars for 10 minutes in a water bath.
+must step 4 happen before step 5?
+========
+1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.
+2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.
+3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.
+4. Refrigerate jam once the seal is broken.
+5. Process jars for 10 minutes in a water bath.
+must step 3 happen before step 5?
+========
+number of recipes: 6 and [(1, 2)]

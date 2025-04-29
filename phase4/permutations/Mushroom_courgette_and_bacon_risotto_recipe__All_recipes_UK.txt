@@ -1,0 +1,19 @@
+========
+1. In a saucepan , keep the chicken stock warm over low heat.
+2. In another saucepan , heat a drizzle of olive oil and saute the mushrooms until they 've browned and lost their water.
+3. Set aside.
+4. Add another drizzle of olive oil and fry courgettes until soft and golden.
+5. Set aside.
+6. Add 1/2 of the butter and fry shallots until soft.
+7. Add remaining butter , add rice stir to coat.
+8. Once rice has taken on a pale golden colour , add white wine , stirring continuously until absorbed.
+9. Add approximately 200ml of chicken stock to rice , stirring continuously until absorbed.
+10. Repeat adding approximately 200ml of chicken stock at a time until the liquid is absorbed.
+11. Rice should be soft but al dente.
+12. While repeating the stock process , fry diced bacon in a separate pan and mix into the rice at the end.
+13. Add cheese , salt and pepper to taste , and stir in.
+14. Reheat courgettes and mushrooms , either microwave or in saucepan , and add at the end.
+15. Serve with a side salad.
+must step 8 happen before step 11?
+========
+number of recipes: 0 and [(2, 3), (2, 4, 5), (4, 6, 7), (9, 10), (12, 13, 14, 15)]

@@ -1,0 +1,10 @@
+========
+1. Mix together the sugar , water , jam and cornflour in a medium large saucepan.
+2. Boil for one minute.
+3. Remove from heat.
+4. Stir in the sliced strawberries , and toss until well coated.
+5. Pour into the digestive biscuit base.
+6. Chill until well set.
+7. Serve topped with whipped cream.
+========
+number of recipes: 0 and [(1, 2, 3, 4, 5, 6, 7)]

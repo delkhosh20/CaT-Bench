@@ -1,0 +1,18 @@
+========
+1. Make the marinade by mixing together the sugar , salt , soy sauce and cornflour slurry.
+2. Mix in the pork , let marinate for 15 minutes.
+3. Meanwhile , blanch the cabbage and carrots in boiling water for 3 minutes.
+4. Rinse under cold water to cool.
+5. In a small bowl , mix together the hoisin sauce , oyster sauce , sugar and shaoxing wine to make the sauce.
+6. Set aside.
+7. In a large frying pan , heat 1 tablespoon oil over high heat.
+8. Stir-fry the pork until done , 4-5 minutes.
+9. Set aside.
+10. Heat the same frying pan with 1 tablespoon oil over high heat.
+11. Stir-fry the garlic and shallots until fragrant , 3-4 minutes.
+12. Stir in the onion and salt , cook until soft , 3-4 minutes.
+13. Stir in the cabbage , carrots , water chestnuts , green pepper , pork and sauce.
+14. Heat through for about 2-3 minutes.
+15. Serve.
+========
+number of recipes: 0 and [(1, 2), (3, 4), (5, 4), (5, 6), (7, 8, 9), (10, 11, 12, 13, 14, 15)]

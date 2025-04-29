@@ -1,0 +1,15 @@
+========
+1. Blend the onions , garlic , ginger and chilli in a blender or liquidiser , or chop very finely.
+2. Cut each thigh into 4 pieces , heat the oil in a large frying pan and add the chicken.
+3. Cook over a high heat until evenly browned.
+4. Remove from pan and place in slow cooker.
+5. Add the butter to the pan and when melted add the onion mixture.
+6. Cook over moderate heat for 3 minutes.
+7. Add all the spices and cook for a further minute.
+8. Mix in chicken stock , sugar and salt.
+9. Bring to the boil and then transfer to slow cooker pouring over chicken.
+10. Cover and cook for 5 - 7 hours on Low ( or 3 hours on high ).
+11. Add the cream and ground up nuts.
+12. Serve with rice and naan bread.
+========
+number of recipes: 0 and [(2, 3, 4), (5, 6, 7, 8, 9, 10, 11, 12)]

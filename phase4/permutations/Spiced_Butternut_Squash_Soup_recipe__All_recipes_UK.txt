@@ -1,0 +1,59 @@
+========
+1. Preheat the oven to 190 C / Gas mark 6.
+2. Pour a small layer of water in a baking dish , or a swiss roll tin.
+3. Place the squash halves cut side down on the dish.
+4. Bake for about 40 minutes , or until a fork can easily pierce the flesh.
+5. Cool slightly , then remove the peel.
+6. Set aside.
+7. Melt the butter in a large pot over medium heat.
+8. Add the onion , leek and garlic , and saute for a few minutes , until tender.
+9. Pour the chicken stock into the pot.
+10. Add the potatoes , and bring to the boil.
+11. Cook for about 20 minutes , or until soft.
+12. Add the squash , and mash with the potatoes until chunks are small.
+13. Use an immersion hand blender to puree the soup , or transfer to a blender or food processor in batches , and puree until smooth.
+14. Return to the pot.
+15. Season the soup with cayenne pepper , allspice , nutmeg , ginger , salt and pepper , then stir in the sherry , cream and milk.
+16. Heat through , but do not boil.
+17. Ladle into bowls , and top with a dollop of soured cream if desired.
+must step 1 happen before step 2?
+========
+1. Pour a small layer of water in a baking dish , or a swiss roll tin.
+2. Preheat the oven to 190 C / Gas mark 6.
+3. Place the squash halves cut side down on the dish.
+4. Bake for about 40 minutes , or until a fork can easily pierce the flesh.
+5. Cool slightly , then remove the peel.
+6. Set aside.
+7. Melt the butter in a large pot over medium heat.
+8. Add the onion , leek and garlic , and saute for a few minutes , until tender.
+9. Pour the chicken stock into the pot.
+10. Add the potatoes , and bring to the boil.
+11. Cook for about 20 minutes , or until soft.
+12. Add the squash , and mash with the potatoes until chunks are small.
+13. Use an immersion hand blender to puree the soup , or transfer to a blender or food processor in batches , and puree until smooth.
+14. Return to the pot.
+15. Season the soup with cayenne pepper , allspice , nutmeg , ginger , salt and pepper , then stir in the sherry , cream and milk.
+16. Heat through , but do not boil.
+17. Ladle into bowls , and top with a dollop of soured cream if desired.
+must step 1 happen before step 2?
+========
+1. Pour a small layer of water in a baking dish , or a swiss roll tin.
+2. Preheat the oven to 190 C / Gas mark 6.
+3. Place the squash halves cut side down on the dish.
+4. Bake for about 40 minutes , or until a fork can easily pierce the flesh.
+5. Cool slightly , then remove the peel.
+6. Set aside.
+7. Melt the butter in a large pot over medium heat.
+8. Add the onion , leek and garlic , and saute for a few minutes , until tender.
+9. Pour the chicken stock into the pot.
+10. Add the potatoes , and bring to the boil.
+11. Cook for about 20 minutes , or until soft.
+12. Add the squash , and mash with the potatoes until chunks are small.
+13. Use an immersion hand blender to puree the soup , or transfer to a blender or food processor in batches , and puree until smooth.
+14. Return to the pot.
+15. Season the soup with cayenne pepper , allspice , nutmeg , ginger , salt and pepper , then stir in the sherry , cream and milk.
+16. Heat through , but do not boil.
+17. Ladle into bowls , and top with a dollop of soured cream if desired.
+must step 1 happen before step 2?
+========
+number of recipes: 2 and [(3, 4, 5, 6), (7, 8), (9, 10, 11, 12, 13, 14), (15, 16, 17)]

@@ -1,0 +1,14 @@
+========
+1. In a large saucepan over medium-high heat , saute the rice , onion , dill and mint for about 5 minutes , or until onion is soft.
+2. Pour in 1 litre of stock , reduce heat to low and simmer for another 10 to 15 minutes , or until rice is almost cooked.
+3. Stir in 1/2 of lemon juice and remove from heat.
+4. Take one leaf , shiny side down , and place 1 teaspoon of the rice mixture at the bottom ( stem ) end of the leaf.
+5. Fold both sides of the leaf towards the centre , roll up from the broad bottom to the top , and place into a 4-litre pot.
+6. Repeat with all leaves , leaving no gaps as leaves are placed in pot ( to prevent from opening while cooking ).
+7. Sprinkle with remaining lemon juice and with olive oil.
+8. Pour chicken stock over all to cover grape leaves.
+9. Cover pot and simmer for about 1 hour ( do not boil , because this will make the stuffing burst out of the leaves ).
+10. Remove from heat , remove cover and let cool for 1/2 hour.
+11. Transfer to serving dish and serve.
+========
+number of recipes: 0 and [(1, 2, 3), (5, 6, 7), (8, 9), (10, 11)]

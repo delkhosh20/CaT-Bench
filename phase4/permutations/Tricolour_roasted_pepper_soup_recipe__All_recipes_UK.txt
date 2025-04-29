@@ -1,0 +1,61 @@
+========
+1. Preheat oven to 190 C / Gas mark 5.
+2. Halve all peppers , remove seeds and peel garlic.
+3. Place peppers cut side up in shallow baking dish.
+4. Place one garlic clove in each half and squeeze lemon juice generously over peppers.
+5. Roast for 1 hour.
+6. Meanwhile pour vegetable stock into a 2 litre saucepan and add fennel seeds.
+7. Bring to the boil , cover and simmer.
+8. When peppers are done , remove from oven and set aside to cool.
+9. When cool enough to touch , peel skin from peppers.
+10. Sieve fennel seeds from stock and return to the boil.
+11. Add thyme and simmer 15 minutes , reducing amount of stock.
+12. Cut a large slice from each pepper and dice.
+13. Set aside for garnish.
+14. In a blender , process remaining peppers , garlic and 7 tablespoons stock just long enough to chop the peppers , but not purÃ©e them ; you want to see the different colours.
+15. Pour the blended peppers into the stock and stir well.
+16. Add black pepper to taste , then add diced peppers for garnish , and enjoy.
+17. Do not boil or cook any longer as the colours will fade.
+must step 1 happen before step 14?
+========
+1. Halve all peppers , remove seeds and peel garlic.
+2. Preheat oven to 190 C / Gas mark 5.
+3. Place peppers cut side up in shallow baking dish.
+4. Place one garlic clove in each half and squeeze lemon juice generously over peppers.
+5. Roast for 1 hour.
+6. Meanwhile pour vegetable stock into a 2 litre saucepan and add fennel seeds.
+7. Bring to the boil , cover and simmer.
+8. Roast for 1 hour.
+9. When peppers are done , remove from oven and set aside to cool.
+10. When cool enough to touch , peel skin from peppers.
+11. Sieve fennel seeds from stock and return to the boil.
+12. Add thyme and simmer 15 minutes , reducing amount of stock.
+13. Cut a large slice from each pepper and dice.
+14. Set aside for garnish.
+15. In a blender , process remaining peppers , garlic and 7 tablespoons stock just long enough to chop the peppers , but not purÃ©e them ; you want to see the different colours.
+16. Pour the blended peppers into the stock and stir well.
+17. Add black pepper to taste , then add diced peppers for garnish , and enjoy.
+18. Do not boil or cook any longer as the colours will fade.
+must step 2 happen before step 15?
+========
+1. Halve all peppers , remove seeds and peel garlic.
+2. Preheat oven to 190 C / Gas mark 5.
+3. Place peppers cut side up in shallow baking dish.
+4. Place one garlic clove in each half and squeeze lemon juice generously over peppers.
+5. Roast for 1 hour.
+6. Meanwhile pour vegetable stock into a 2 litre saucepan and add fennel seeds.
+7. Bring to the boil , cover and simmer.
+8. Roast for 1 hour.
+9. When peppers are done , remove from oven and set aside to cool.
+10. When cool enough to touch , peel skin from peppers.
+11. Sieve fennel seeds from stock and return to the boil.
+12. Add thyme and simmer 15 minutes , reducing amount of stock.
+13. Cut a large slice from each pepper and dice.
+14. Set aside for garnish.
+15. In a blender , process remaining peppers , garlic and 7 tablespoons stock just long enough to chop the peppers , but not purÃ©e them ; you want to see the different colours.
+16. Pour the blended peppers into the stock and stir well.
+17. Add black pepper to taste , then add diced peppers for garnish , and enjoy.
+18. Do not boil or cook any longer as the colours will fade.
+must step 2 happen before step 15?
+========
+number of recipes: 2 and [(3, 4, 5), (6, 7), (5, 8), (10, 11), (12, 13), (15, 16)]

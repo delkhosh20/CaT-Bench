@@ -1,0 +1,16 @@
+========
+1. In a large bowl , dissolve the sugar in warm water , and then stir in yeast.
+2. Allow to proof until yeast resembles a creamy foam.
+3. Mix salt and oil into the yeast mixture.
+4. Mix in flour about 125g at a time.
+5. Knead dough on a lightly floured surface until smooth.
+6. Place in a well oiled bowl , and turn dough to coat.
+7. Cover with a damp cloth.
+8. Allow to rise until doubled in bulk , about 1 hour.
+9. Punch dough down.
+10. Knead for a few minutes , and divide in half.
+11. Shape into loaves , and place into two well oiled 23x13cm ( 9x5 in ) loaf tins.
+12. Allow to rise for 30 minutes , or until dough has risen 2.5cm ( 1 in ) above tins.
+13. Bake in a preheated 180 C / Gas 4 oven for 30 minutes.
+========
+number of recipes: 0 and [(1, 2), (3, 4), (5, 6, 7, 8), (9, 10, 11, 12, 13)]

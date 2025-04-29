@@ -1,0 +1,65 @@
+========
+1. Boil the potatoes until tender.
+2. If you prefer , you can slice them rather than halve them.
+3. In the meantime , prepare the marinade with the remaining ingredients.
+4. Just mix it all together in a bowl.
+5. Add potatoes once they have cooled.
+6. Give it a good , but gentle , stir !
+7. Guten Appetit !
+must step 3 happen before step 7?
+========
+1. If you prefer , you can slice them rather than halve them.
+2. Boil the potatoes until tender.
+3. In the meantime , prepare the marinade with the remaining ingredients.
+4. Just mix it all together in a bowl.
+5. Add potatoes once they have cooled.
+6. Give it a good , but gentle , stir !
+7. Guten Appetit !
+must step 3 happen before step 7?
+========
+1. If you prefer , you can slice them rather than halve them.
+2. In the meantime , prepare the marinade with the remaining ingredients.
+3. Boil the potatoes until tender.
+4. Just mix it all together in a bowl.
+5. Add potatoes once they have cooled.
+6. Give it a good , but gentle , stir !
+7. Guten Appetit !
+must step 2 happen before step 7?
+========
+1. If you prefer , you can slice them rather than halve them.
+2. Boil the potatoes until tender.
+3. In the meantime , prepare the marinade with the remaining ingredients.
+4. Just mix it all together in a bowl.
+5. Add potatoes once they have cooled.
+6. Give it a good , but gentle , stir !
+7. Guten Appetit !
+must step 3 happen before step 7?
+========
+1. Boil the potatoes until tender.
+2. In the meantime , prepare the marinade with the remaining ingredients.
+3. If you prefer , you can slice them rather than halve them.
+4. Just mix it all together in a bowl.
+5. Add potatoes once they have cooled.
+6. Give it a good , but gentle , stir !
+7. Guten Appetit !
+must step 2 happen before step 7?
+========
+1. In the meantime , prepare the marinade with the remaining ingredients.
+2. Boil the potatoes until tender.
+3. If you prefer , you can slice them rather than halve them.
+4. Just mix it all together in a bowl.
+5. Add potatoes once they have cooled.
+6. Give it a good , but gentle , stir !
+7. Guten Appetit !
+must step 1 happen before step 7?
+========
+1. Boil the potatoes until tender.
+2. In the meantime , prepare the marinade with the remaining ingredients.
+3. If you prefer , you can slice them rather than halve them.
+4. Just mix it all together in a bowl.
+5. Add potatoes once they have cooled.
+6. Give it a good , but gentle , stir !
+7. Guten Appetit !
+must step 2 happen before step 7?
+========
+number of recipes: 6 and [(4, 5, 6)]

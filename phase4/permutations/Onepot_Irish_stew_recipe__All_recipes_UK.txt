@@ -1,0 +1,11 @@
+========
+1. Place the lamb in a large pot , cover with water and add a pinch of salt.
+2. Bring to the boil ; skim off any white fat that comes to the surface , then simmer on low heat for another 30 minutes.
+3. Add the onion and half of the potatoes and cook for 30 minutes until the potatoes are soft ; break them up and stir - this will thicken the stew.
+4. Add the remaining potatoes and carrots.
+5. Simmer for another 20-30 minutes until potatoes are cooked.
+6. Season well with salt and pepper to taste.
+7. Stir in fresh parsley or chopped leeks.
+8. Serve piping hot.
+========
+number of recipes: 0 and [(1, 2, 3, 4, 5, 6, 7, 8)]

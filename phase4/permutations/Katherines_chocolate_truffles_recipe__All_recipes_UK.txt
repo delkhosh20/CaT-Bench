@@ -1,0 +1,33 @@
+========
+1. Melt the chocolate flavour cake covering , either in the microwave or by placing in a bowl over a saucepan of simmering water.
+2. Be careful not to over-cook this or crystals will begin to form.
+3. Add the crumbs and flavourings to the melted cake covering and mix thoroughly.
+4. Leave to cool slightly.
+5. Shape the mixture into small balls.
+6. Sprinkle the coverings of your choice onto saucers and roll the balls in the coverings.
+7. If you want to drizzle with melted cake covering , melt as per the truffles.
+8. Place the uncovered truffles onto a wire rack and dip a teaspoon into the meted cake covering and drizzle over the truffles ( this could also be done using a piping bag ).
+9. Chill for 30 minutes and store in an airtight container.
+must step 2 happen before step 5?
+========
+1. Be careful not to over-cook this or crystals will begin to form.
+2. Melt the chocolate flavour cake covering , either in the microwave or by placing in a bowl over a saucepan of simmering water.
+3. Add the crumbs and flavourings to the melted cake covering and mix thoroughly.
+4. Leave to cool slightly.
+5. Shape the mixture into small balls.
+6. Sprinkle the coverings of your choice onto saucers and roll the balls in the coverings.
+7. If you want to drizzle with melted cake covering , melt as per the truffles.
+8. Chill for 30 minutes and store in an airtight container.
+must step 1 happen before step 5?
+========
+1. Be careful not to over-cook this or crystals will begin to form.
+2. Melt the chocolate flavour cake covering , either in the microwave or by placing in a bowl over a saucepan of simmering water.
+3. Add the crumbs and flavourings to the melted cake covering and mix thoroughly.
+4. Leave to cool slightly.
+5. Shape the mixture into small balls.
+6. Sprinkle the coverings of your choice onto saucers and roll the balls in the coverings.
+7. If you want to drizzle with melted cake covering , melt as per the truffles.
+8. Chill for 30 minutes and store in an airtight container.
+must step 1 happen before step 5?
+========
+number of recipes: 2 and [(3, 4), (7, 9), (6, 9), (8, 9)]

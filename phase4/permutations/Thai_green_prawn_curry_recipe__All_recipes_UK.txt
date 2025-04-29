@@ -1,0 +1,11 @@
+========
+1. Add all the paste ingredients into a food processor and blend to form a thick smooth paste or chop all the paste ingredients very finely and mix to blend.
+2. Heat the oil to very hot in a wok and stir fry the beans and baby corn for 40 seconds.
+3. Add the curry paste and then the coconut milk and bring to the boil.
+4. Turn down the heat slightly and simmer the curry for 5-7 minutes to reduce the consistency.
+5. Add the prawns and stir for 3-5 minutes.
+6. If the sauce becomes too thick add some water.
+7. If it 's too thin , reduce for a couple of minutes over a moderate heat.
+8. Serve immediately over hot fluffy jasmine rice.
+========
+number of recipes: 0 and [(2, 3, 4, 5, 6), (5, 7, 8), (6, 8)]

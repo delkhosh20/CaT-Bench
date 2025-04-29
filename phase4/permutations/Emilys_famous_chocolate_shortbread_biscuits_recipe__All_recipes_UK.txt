@@ -1,0 +1,47 @@
+========
+1. Preheat oven to 180 C / Gas mark 4.
+2. In a large bowl , stir together the icing sugar , cocoa , flour and salt until well blended.
+3. Cut in the butter until lumps are no larger than peas.
+4. Add eggs and vanilla ; mix until a stiff dough forms.
+5. It may take a minute to come together.
+6. On a lightly floured surface , roll out dough to.5cm thickness and cut into desired shapes using biscuit cutters.
+7. If the dough is too sticky , chill for a little bit.
+8. Place biscuits 5cm apart onto an ungreased baking tray.
+9. Bake for 8 to 10 minutes in the preheated oven , or until the surface appears dry.
+10. Allow biscuits to cool for a couple minutes on the baking tray before removing to wire racks to cool completely.
+11. When biscuits are completely cool , melt the chocolate over a double boiler or in the microwave.
+12. Stir frequently until smooth.
+13. Dip cookies or drizzle with the chocolate and place on greaseproof paper to set.
+must step 8 happen before step 11?
+========
+1. In a large bowl , stir together the icing sugar , cocoa , flour and salt until well blended.
+2. Preheat oven to 180 C / Gas mark 4.
+3. Cut in the butter until lumps are no larger than peas.
+4. Add eggs and vanilla ; mix until a stiff dough forms.
+5. It may take a minute to come together.
+6. On a lightly floured surface , roll out dough to.5cm thickness and cut into desired shapes using biscuit cutters.
+7. If the dough is too sticky , chill for a little bit.
+8. Place biscuits 5cm apart onto an ungreased baking tray.
+9. Bake for 8 to 10 minutes in the preheated oven , or until the surface appears dry.
+10. Allow biscuits to cool for a couple minutes on the baking tray before removing to wire racks to cool completely.
+11. When biscuits are completely cool , melt the chocolate over a double boiler or in the microwave.
+12. Stir frequently until smooth.
+13. Dip cookies or drizzle with the chocolate and place on greaseproof paper to set.
+must step 8 happen before step 11?
+========
+1. In a large bowl , stir together the icing sugar , cocoa , flour and salt until well blended.
+2. Preheat oven to 180 C / Gas mark 4.
+3. Cut in the butter until lumps are no larger than peas.
+4. Add eggs and vanilla ; mix until a stiff dough forms.
+5. It may take a minute to come together.
+6. On a lightly floured surface , roll out dough to.5cm thickness and cut into desired shapes using biscuit cutters.
+7. If the dough is too sticky , chill for a little bit.
+8. Place biscuits 5cm apart onto an ungreased baking tray.
+9. Bake for 8 to 10 minutes in the preheated oven , or until the surface appears dry.
+10. Allow biscuits to cool for a couple minutes on the baking tray before removing to wire racks to cool completely.
+11. When biscuits are completely cool , melt the chocolate over a double boiler or in the microwave.
+12. Stir frequently until smooth.
+13. Dip cookies or drizzle with the chocolate and place on greaseproof paper to set.
+must step 8 happen before step 11?
+========
+number of recipes: 2 and [(3, 4), (2, 4), (8, 9), (11, 12)]

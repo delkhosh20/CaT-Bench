@@ -1,0 +1,47 @@
+========
+1. Cook the pasta in a large saucepan of lightly salted boiling water for 10-12 minutes.
+2. Drain well in a colander.
+3. Place the pasta in a large mixing bowl and toss well with the olive oil.
+4. Drain the tuna and use a fork to roughly break it into flakes.
+5. Put the tuna into a blender or food processor.
+6. Add the lemon juice to taste , capers or wine vinegar , and mayonnaise and blend together until smooth and creamy.
+7. Add to the pasta and stir together until all the ingredients are evenly mixed.
+8. De-seed the pepper and then finely dice.
+9. Finely dice the cucumber without removing the skin.
+10. Add the pepper , cucumber and sweetcorn to the pasta and toss together.
+11. Spoon into a serving dish.
+12. Remove the shell from the hard-boiled eggs and cut into quarters.
+13. Arrange the wedges decoratively over the salad , then serve.
+must step 3 happen before step 9?
+========
+1. Cook the pasta in a large saucepan of lightly salted boiling water for 10-12 minutes.
+2. Drain well in a colander.
+3. Drain the tuna and use a fork to roughly break it into flakes.
+4. Place the pasta in a large mixing bowl and toss well with the olive oil.
+5. Put the tuna into a blender or food processor.
+6. Add the lemon juice to taste , capers or wine vinegar , and mayonnaise and blend together until smooth and creamy.
+7. Add to the pasta and stir together until all the ingredients are evenly mixed.
+8. De-seed the pepper and then finely dice.
+9. Finely dice the cucumber without removing the skin.
+10. Add the pepper , cucumber and sweetcorn to the pasta and toss together.
+11. Spoon into a serving dish.
+12. Remove the shell from the hard-boiled eggs and cut into quarters.
+13. Arrange the wedges decoratively over the salad , then serve.
+must step 4 happen before step 9?
+========
+1. Cook the pasta in a large saucepan of lightly salted boiling water for 10-12 minutes.
+2. Drain well in a colander.
+3. Drain the tuna and use a fork to roughly break it into flakes.
+4. Place the pasta in a large mixing bowl and toss well with the olive oil.
+5. Put the tuna into a blender or food processor.
+6. Add the lemon juice to taste , capers or wine vinegar , and mayonnaise and blend together until smooth and creamy.
+7. Add to the pasta and stir together until all the ingredients are evenly mixed.
+8. De-seed the pepper and then finely dice.
+9. Finely dice the cucumber without removing the skin.
+10. Add the pepper , cucumber and sweetcorn to the pasta and toss together.
+11. Spoon into a serving dish.
+12. Remove the shell from the hard-boiled eggs and cut into quarters.
+13. Arrange the wedges decoratively over the salad , then serve.
+must step 4 happen before step 9?
+========
+number of recipes: 2 and [(1, 2), (5, 6, 7), (10, 11), (12, 13)]

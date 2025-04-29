@@ -1,0 +1,14 @@
+========
+1. In a small bowl , thoroughly mix the passata and bicarbonate of soda.
+2. Grease a 25cm bundt or fluted cake ring tin.
+3. Preheat the oven to 180 C / Gas 4.
+4. In a mixing bowl , combine flour , sugar , baking powder , spices and salt.
+5. Mix in passata mixture.
+6. Stir in eggs , oil , chopped walnuts , sultanas and orange juice.
+7. Mix well.
+8. Pour mixture into greased tin.
+9. Bake for 45 to 55 minutes.
+10. Cool cake in tin for 15 minutes , and then turn out on serving plate.
+11. Dust with icing sugar or cover with icing , if you prefer.
+========
+number of recipes: 0 and [(1, 2), (4, 5, 6, 7), (8, 9), (10, 11)]

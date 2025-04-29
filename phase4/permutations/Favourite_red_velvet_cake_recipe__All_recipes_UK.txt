@@ -1,0 +1,65 @@
+========
+1. Grease two 23cm round cake tins.
+2. Preheat oven to 180 C / Gas 4.
+3. Make a paste with the cocoa and food colouring.
+4. Set aside.
+5. Combine the buttermilk , salt and 1 teaspoon vanilla.
+6. Set aside.
+7. In a large bowl , cream together the butter and sugar until light and fluffy.
+8. Beat in the eggs one at a time , then stir in the cocoa mixture.
+9. Beat in the buttermilk mixture alternately with the flour , mixing each time.
+10. Stir together bicarbonate of soda and vinegar , then gently fold this into the cake mixture.
+11. Pour the mixture evenly into the 2 cake tins.
+12. Bake in the preheated oven for 30 minutes , or until a skewer inserted into the centre of the cake comes out clean.
+13. Allow to cool completely before frosting.
+14. Refrigerate until ready to serve.
+15. To make icing : In a saucepan , combine the milk and flour.
+16. Cook over low heat , stirring constantly , until mixture thickens.
+17. Set aside to cool completely.
+18. Cream together butter , 200g sugar and 1 teaspoon vanilla until light and fluffy , then stir in the cooled milk and flour mixture , beating until icing reaches spreading consistency.
+19. Decorate as much or as little as you like !
+must step 1 happen before step 2?
+========
+1. Preheat oven to 180 C / Gas 4.
+2. Grease two 23cm round cake tins.
+3. Make a paste with the cocoa and food colouring.
+4. Set aside.
+5. Combine the buttermilk , salt and 1 teaspoon vanilla.
+6. Set aside.
+7. In a large bowl , cream together the butter and sugar until light and fluffy.
+8. Beat in the eggs one at a time , then stir in the cocoa mixture.
+9. Beat in the buttermilk mixture alternately with the flour , mixing each time.
+10. Stir together bicarbonate of soda and vinegar , then gently fold this into the cake mixture.
+11. Pour the mixture evenly into the 2 cake tins.
+12. Bake in the preheated oven for 30 minutes , or until a skewer inserted into the centre of the cake comes out clean.
+13. Allow to cool completely before frosting.
+14. Refrigerate until ready to serve.
+15. To make icing : In a saucepan , combine the milk and flour.
+16. Cook over low heat , stirring constantly , until mixture thickens.
+17. Set aside to cool completely.
+18. Cream together butter , 200g sugar and 1 teaspoon vanilla until light and fluffy , then stir in the cooled milk and flour mixture , beating until icing reaches spreading consistency.
+19. Decorate as much or as little as you like !
+must step 1 happen before step 2?
+========
+1. Preheat oven to 180 C / Gas 4.
+2. Grease two 23cm round cake tins.
+3. Make a paste with the cocoa and food colouring.
+4. Set aside.
+5. Combine the buttermilk , salt and 1 teaspoon vanilla.
+6. Set aside.
+7. In a large bowl , cream together the butter and sugar until light and fluffy.
+8. Beat in the eggs one at a time , then stir in the cocoa mixture.
+9. Beat in the buttermilk mixture alternately with the flour , mixing each time.
+10. Stir together bicarbonate of soda and vinegar , then gently fold this into the cake mixture.
+11. Pour the mixture evenly into the 2 cake tins.
+12. Bake in the preheated oven for 30 minutes , or until a skewer inserted into the centre of the cake comes out clean.
+13. Allow to cool completely before frosting.
+14. Refrigerate until ready to serve.
+15. To make icing : In a saucepan , combine the milk and flour.
+16. Cook over low heat , stirring constantly , until mixture thickens.
+17. Set aside to cool completely.
+18. Cream together butter , 200g sugar and 1 teaspoon vanilla until light and fluffy , then stir in the cooled milk and flour mixture , beating until icing reaches spreading consistency.
+19. Decorate as much or as little as you like !
+must step 1 happen before step 2?
+========
+number of recipes: 2 and [(3, 4), (5, 6), (7, 8, 9), (11, 12, 13, 14), (15, 16, 17), (18, 19), (14, 19)]

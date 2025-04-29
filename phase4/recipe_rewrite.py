@@ -57,7 +57,7 @@ def find_dep_steps(): #find steps(sentences) that are dependent
     
     index = 0
     while True:
-        if index+1 == len(list_dep):
+        if index+1 >= len(list_dep):
             break
         
         current = list_dep[index]
@@ -128,15 +128,15 @@ def one_move_permutations_with_chains(lst):
         prev = chain_index + 1
     zones.append((prev, n))  # after the last chain
 
-    print(f"Zones: {zones}")
+    # print(f"Zones: {zones}")
 
     # For each zone
     for start, end in zones:
         zone = lst[start:end]
-        print(f"Processing zone: {zone}")
+        # print(f"Processing zone: {zone}")
 
         if len(zone) <= 1:
-            print(" -> Skipping (not enough elements)")
+            # print(" -> Skipping (not enough elements)")
             continue
 
         # Move one number at a time within the zone
@@ -150,7 +150,7 @@ def one_move_permutations_with_chains(lst):
                     # reconstruct the full list
                     new_lst = lst[:start] + new_zone + lst[end:]
                     permutation.append(new_lst)
-        print(permutation)
+        # print(permutation)
         return permutation
 
 def main():
@@ -175,13 +175,14 @@ def main():
             output3 = []
 
         n = 0
-        with open(f"permutations/{base}1.txt", "w") as file:
-            file.write("======== Original Recipe ========\n")
+        with open(f"permutations/{base}.txt", "w") as file:
+            file.write("========\n")
             for i in range(1, len(step) + 1):
                 file.write(f"{i}. {step[i]}\n")
             if len(uniques) > 1:
                 random_elements = random.sample(uniques, 2)
-                # print(formatted_steps)
+                random_elements.sort()
+                file.write(f"must step {random_elements[0]} happen before step {random_elements[1]}?\n")
 
             for out in output3:
                 file.write("========\n")

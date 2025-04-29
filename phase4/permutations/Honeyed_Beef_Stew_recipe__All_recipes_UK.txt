@@ -1,0 +1,13 @@
+========
+1. Preheat oven to 180 C / Gas mark 4.
+2. In a large pot over medium high heat , heat the olive oil and quickly brown the beef pieces on all sides.
+3. Place the onion , green pepper , celery and carrots into the pot and fry for 5 minutes , stirring occasionally.
+4. Remove from the heat.
+5. In a mixing bowl , combine the honey , lemon juice , mustard , ketchup , water , salt and pepper.
+6. Mix thoroughly.
+7. Transfer the meat and vegetables to a 2 litre casserole.
+8. Pour the ketchup mixture over the meat and vegetables.
+9. Bake in a preheated oven for 2 to 2 1/2 hours or until meat is tender.
+must step 1 happen before step 7?
+========
+number of recipes: 0 and [(2, 3, 4), (5, 6), (8, 9)]

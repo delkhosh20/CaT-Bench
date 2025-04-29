@@ -1,0 +1,41 @@
+========
+1. Place potatoes into large pot and fill with enough water to cover.
+2. Bring to the boil and cook until tender , about 20 minutes.
+3. Drain well.
+4. Return to very low heat and allow the potatoes to dry out for a few minutes.
+5. ( It helps if you place a clean tea towel over the potatoes to absorb any remaining moisture. )
+6. Meanwhile , heat the milk and spring onions gently in a saucepan until warm.
+7. Mash the potatoes , salt and butter together until smooth.
+8. Stir in the milk and spring onion until evenly mixed.
+9. Season with freshly ground black pepper.
+10. Serve piping hot in bowls.
+11. Set out some extra butter for individuals to add to their servings.
+must step 5 happen before step 6?
+========
+1. Place potatoes into large pot and fill with enough water to cover.
+2. Bring to the boil and cook until tender , about 20 minutes.
+3. Drain well.
+4. Return to very low heat and allow the potatoes to dry out for a few minutes.
+5. Meanwhile , heat the milk and spring onions gently in a saucepan until warm.
+6. ( It helps if you place a clean tea towel over the potatoes to absorb any remaining moisture. )
+7. Mash the potatoes , salt and butter together until smooth.
+8. Stir in the milk and spring onion until evenly mixed.
+9. Season with freshly ground black pepper.
+10. Serve piping hot in bowls.
+11. Set out some extra butter for individuals to add to their servings.
+must step 5 happen before step 6?
+========
+1. Place potatoes into large pot and fill with enough water to cover.
+2. Bring to the boil and cook until tender , about 20 minutes.
+3. Drain well.
+4. Return to very low heat and allow the potatoes to dry out for a few minutes.
+5. Meanwhile , heat the milk and spring onions gently in a saucepan until warm.
+6. ( It helps if you place a clean tea towel over the potatoes to absorb any remaining moisture. )
+7. Mash the potatoes , salt and butter together until smooth.
+8. Stir in the milk and spring onion until evenly mixed.
+9. Season with freshly ground black pepper.
+10. Serve piping hot in bowls.
+11. Set out some extra butter for individuals to add to their servings.
+must step 5 happen before step 6?
+========
+number of recipes: 2 and [(1, 2, 3, 4), (7, 8, 9, 10, 11)]

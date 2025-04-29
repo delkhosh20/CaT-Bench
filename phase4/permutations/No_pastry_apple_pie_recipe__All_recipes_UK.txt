@@ -1,0 +1,35 @@
+========
+1. Preheat oven to 180 C / Gas 4.
+2. Lightly grease a 23cm pie dish with margarine.
+3. Fill 2/3 of the dish with sliced apples.
+4. Sprinkle with cinnamon and 1 teaspoon sugar.
+5. In a medium bowl , mix 200g sugar with the melted margarine.
+6. Stir in pecans , flour , egg and salt.
+7. Mix well.
+8. Spread mixture over the apples.
+9. Bake in preheated oven for 65 minutes , or until golden brown.
+must step 1 happen before step 2?
+========
+1. Lightly grease a 23cm pie dish with margarine.
+2. Preheat oven to 180 C / Gas 4.
+3. Fill 2/3 of the dish with sliced apples.
+4. Sprinkle with cinnamon and 1 teaspoon sugar.
+5. In a medium bowl , mix 200g sugar with the melted margarine.
+6. Stir in pecans , flour , egg and salt.
+7. Mix well.
+8. Spread mixture over the apples.
+9. Bake in preheated oven for 65 minutes , or until golden brown.
+must step 1 happen before step 2?
+========
+1. Lightly grease a 23cm pie dish with margarine.
+2. Preheat oven to 180 C / Gas 4.
+3. Fill 2/3 of the dish with sliced apples.
+4. Sprinkle with cinnamon and 1 teaspoon sugar.
+5. In a medium bowl , mix 200g sugar with the melted margarine.
+6. Stir in pecans , flour , egg and salt.
+7. Mix well.
+8. Spread mixture over the apples.
+9. Bake in preheated oven for 65 minutes , or until golden brown.
+must step 1 happen before step 2?
+========
+number of recipes: 2 and [(3, 4), (5, 6, 7), (8, 9)]

@@ -1,0 +1,7 @@
+========
+1. In a large plastic bowl with a lid , combine rocket , cherry tomatoes , pinenuts , oil , vinegar , and Parmesan cheese.
+2. Season with salt and pepper to taste.
+3. Cover , and shake to mix.
+4. Divide salad onto plates , and top with slices of avocado.
+========
+number of recipes: 0 and [(1, 2, 3)]

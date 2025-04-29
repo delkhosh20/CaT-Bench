@@ -1,0 +1,6 @@
+========
+1. Place the banana , grapes , yoghurt , apple and spinach into a blender or food processor.
+2. Cover , and blend until smooth , stopping frequently to push down anything stuck to the sides.
+3. Pour into glasses and serve.
+========
+number of recipes: 0 and [(1, 2, 3)]

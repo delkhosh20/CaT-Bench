@@ -1,0 +1,39 @@
+========
+1. Preheat your oven to 160 C / Gas 3 and grease and line two 20cm sandwich tins.
+2. Mix the flour , caster sugar , butter , eggs , baking powder and lemon zest until mixture is smooth.
+3. Divide mixture evenly between the sandwich tins and smooth out with the back of a spoon.
+4. Bake in oven for 30-35 minutes or until the sponge springs up when pressed lightly and no indentation remains.
+5. Do not open the oven until at least 30 minutes has elapsed.
+6. While the cakes are warm , turn out onto cake rack for cooling.
+7. For the icing : In a mixing bowl , beat together the icing sugar , 30g butter , vanilla , salt and milk until smooth.
+8. Place a cake layer on a serving plate.
+9. Spread with raspberry preserves.
+10. Top with second layer ; spread the icing over the top of the cake.
+11. Decorate the top of the cake with fresh raspberries.
+must step 2 happen before step 11?
+========
+1. Mix the flour , caster sugar , butter , eggs , baking powder and lemon zest until mixture is smooth.
+2. Preheat your oven to 160 C / Gas 3 and grease and line two 20cm sandwich tins.
+3. Divide mixture evenly between the sandwich tins and smooth out with the back of a spoon.
+4. Bake in oven for 30-35 minutes or until the sponge springs up when pressed lightly and no indentation remains.
+5. While the cakes are warm , turn out onto cake rack for cooling.
+6. For the icing : In a mixing bowl , beat together the icing sugar , 30g butter , vanilla , salt and milk until smooth.
+7. Place a cake layer on a serving plate.
+8. Spread with raspberry preserves.
+9. Top with second layer ; spread the icing over the top of the cake.
+10. Decorate the top of the cake with fresh raspberries.
+must step 1 happen before step 10?
+========
+1. Mix the flour , caster sugar , butter , eggs , baking powder and lemon zest until mixture is smooth.
+2. Preheat your oven to 160 C / Gas 3 and grease and line two 20cm sandwich tins.
+3. Divide mixture evenly between the sandwich tins and smooth out with the back of a spoon.
+4. Bake in oven for 30-35 minutes or until the sponge springs up when pressed lightly and no indentation remains.
+5. While the cakes are warm , turn out onto cake rack for cooling.
+6. For the icing : In a mixing bowl , beat together the icing sugar , 30g butter , vanilla , salt and milk until smooth.
+7. Place a cake layer on a serving plate.
+8. Spread with raspberry preserves.
+9. Top with second layer ; spread the icing over the top of the cake.
+10. Decorate the top of the cake with fresh raspberries.
+must step 1 happen before step 10?
+========
+number of recipes: 2 and [(3, 4, 6), (8, 9, 10)]

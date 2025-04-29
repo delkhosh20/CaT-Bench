@@ -1,0 +1,10 @@
+========
+1. Place the chicken , carrots , celery and onion in a large soup pot ; cover with cold water.
+2. Heat and simmer , uncovered , until the chicken meat falls off of the bones ( skim off foam every so often ).
+3. Take everything out of the pot ; sieve the stock.
+4. Pick the meat off of the bones and chop the carrots , celery and onion.
+5. Season with salt and pepper to taste.
+6. Return the chicken , carrots , celery and onion to the pot , stir together , and serve.
+must step 3 happen before step 6?
+========
+number of recipes: 0 and [(1, 2), (4, 5)]

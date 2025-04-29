@@ -1,0 +1,51 @@
+========
+1. Slice bread in half lengthways.
+2. Drizzle olive oil on both cut sides.
+3. Sprinkle both sides with Parmesan cheese , basil and oregano.
+4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.
+5. Cover with top layer , and cut into 4 servings.
+must step 1 happen before step 3?
+========
+1. Drizzle olive oil on both cut sides.
+2. Slice bread in half lengthways.
+3. Sprinkle both sides with Parmesan cheese , basil and oregano.
+4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.
+5. Cover with top layer , and cut into 4 servings.
+must step 2 happen before step 3?
+========
+1. Drizzle olive oil on both cut sides.
+2. Sprinkle both sides with Parmesan cheese , basil and oregano.
+3. Slice bread in half lengthways.
+4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.
+5. Cover with top layer , and cut into 4 servings.
+must step 2 happen before step 3?
+========
+1. Drizzle olive oil on both cut sides.
+2. Slice bread in half lengthways.
+3. Sprinkle both sides with Parmesan cheese , basil and oregano.
+4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.
+5. Cover with top layer , and cut into 4 servings.
+must step 2 happen before step 3?
+========
+1. Slice bread in half lengthways.
+2. Sprinkle both sides with Parmesan cheese , basil and oregano.
+3. Drizzle olive oil on both cut sides.
+4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.
+5. Cover with top layer , and cut into 4 servings.
+must step 1 happen before step 2?
+========
+1. Sprinkle both sides with Parmesan cheese , basil and oregano.
+2. Slice bread in half lengthways.
+3. Drizzle olive oil on both cut sides.
+4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.
+5. Cover with top layer , and cut into 4 servings.
+must step 1 happen before step 2?
+========
+1. Slice bread in half lengthways.
+2. Sprinkle both sides with Parmesan cheese , basil and oregano.
+3. Drizzle olive oil on both cut sides.
+4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.
+5. Cover with top layer , and cut into 4 servings.
+must step 1 happen before step 2?
+========
+number of recipes: 6 and [(4, 5)]

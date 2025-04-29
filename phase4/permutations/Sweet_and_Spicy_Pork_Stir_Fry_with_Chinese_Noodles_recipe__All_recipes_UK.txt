@@ -1,0 +1,44 @@
+========
+1. Fill a large pot with lightly salted water and bring to a rolling boil over high heat.
+2. Once the water is boiling , stir in the Chinese noodles , and return to the boil.
+3. Cook the noodles uncovered , stirring occasionally , until cooked through , but still firm to the bite , about 5 minutes.
+4. Drain well.
+5. Whisk together the 3 tablespoons soy sauce , 180ml sweet chilli sauce , 1/2 teaspoon garlic granules , the ground ginger and the sesame oil in a large bowl ; add the noodles and toss to coat ; set aside.
+6. Whisk together the 120ml soy sauce and 1/2 teaspoon garlic granules in a large bowl ; add the pork and stir to coat.
+7. Allow to marinate for 5 minutes.
+8. Heat the cooking oil in a wok or a large , deep frying pan over medium-high heat.
+9. Add the pork , onions , and crushed chilli flakes to the oil ; cook until the pork is browned completely.
+10. Stir in 3 tablespoons sweet chilli sauce , cabbage , celery , carrots and peppers ; cook and stir until vegetables are completely heated , about 5 minutes.
+11. Whisk together the cornflour and water and add to the stir fry , stirring until the mixture thickens.
+12. Serve the stir-fry over the noodles.
+must step 5 happen before step 12?
+========
+1. Fill a large pot with lightly salted water and bring to a rolling boil over high heat.
+2. Once the water is boiling , stir in the Chinese noodles , and return to the boil.
+3. Cook the noodles uncovered , stirring occasionally , until cooked through , but still firm to the bite , about 5 minutes.
+4. Drain well.
+5. Whisk together the 3 tablespoons soy sauce , 180ml sweet chilli sauce , 1/2 teaspoon garlic granules , the ground ginger and the sesame oil in a large bowl ; add the noodles and toss to coat ; set aside.
+6. Whisk together the 120ml soy sauce and 1/2 teaspoon garlic granules in a large bowl ; add the pork and stir to coat.
+7. Allow to marinate for 5 minutes.
+8. Heat the cooking oil in a wok or a large , deep frying pan over medium-high heat.
+9. Add the pork , onions , and crushed chilli flakes to the oil ; cook until the pork is browned completely.
+10. Stir in 3 tablespoons sweet chilli sauce , cabbage , celery , carrots and peppers ; cook and stir until vegetables are completely heated , about 5 minutes.
+11. Serve the stir-fry over the noodles.
+12. Whisk together the cornflour and water and add to the stir fry , stirring until the mixture thickens.
+must step 5 happen before step 11?
+========
+1. Fill a large pot with lightly salted water and bring to a rolling boil over high heat.
+2. Once the water is boiling , stir in the Chinese noodles , and return to the boil.
+3. Cook the noodles uncovered , stirring occasionally , until cooked through , but still firm to the bite , about 5 minutes.
+4. Drain well.
+5. Whisk together the 3 tablespoons soy sauce , 180ml sweet chilli sauce , 1/2 teaspoon garlic granules , the ground ginger and the sesame oil in a large bowl ; add the noodles and toss to coat ; set aside.
+6. Whisk together the 120ml soy sauce and 1/2 teaspoon garlic granules in a large bowl ; add the pork and stir to coat.
+7. Allow to marinate for 5 minutes.
+8. Heat the cooking oil in a wok or a large , deep frying pan over medium-high heat.
+9. Add the pork , onions , and crushed chilli flakes to the oil ; cook until the pork is browned completely.
+10. Stir in 3 tablespoons sweet chilli sauce , cabbage , celery , carrots and peppers ; cook and stir until vegetables are completely heated , about 5 minutes.
+11. Serve the stir-fry over the noodles.
+12. Whisk together the cornflour and water and add to the stir fry , stirring until the mixture thickens.
+must step 5 happen before step 11?
+========
+number of recipes: 2 and [(1, 2), (3, 4), (6, 7), (9, 10)]

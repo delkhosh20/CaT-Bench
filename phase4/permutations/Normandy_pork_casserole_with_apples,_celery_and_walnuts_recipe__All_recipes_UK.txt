@@ -1,0 +1,17 @@
+========
+1. Preheat the oven to 160C ( 325F , gas mark 3 ).
+2. Heat the oil in a flameproof casserole , add the pork and fry , stirring frequently , for 5 minutes or until browned on all sides.
+3. Add the celery and onion and fry gently for about 10 minutes or until softened.
+4. Pour in the cider or apple juice and add the bay leaf.
+5. Season with salt and pepper to taste.
+6. Bring to the boil , then cover the casserole and transfer to the oven.
+7. Cook for 1 1/4 hours or until the pork is tender.
+8. About 40 minutes before the pork is ready , put the rice in an ovenproof dish and pour over the boiling stock.
+9. Stir well , then cover and put into the oven to cook with the pork.
+10. About 25 minutes before the end of the cooking time , quarter and core the apples but do not peel them.
+11. Slice the quarters thickly , then add to the pork and continue cooking.
+12. Meanwhile , heat a small frying pan over a moderate heat , add the walnuts and cook , stirring , until lightly toasted.
+13. When the pork is tender , stir in the walnuts and taste for seasoning.
+14. Garnish with the chopped celery leaves and serve hot , with the rice.
+========
+number of recipes: 0 and [(2, 3, 4, 5, 6, 7), (8, 9), (10, 11, 13, 14)]

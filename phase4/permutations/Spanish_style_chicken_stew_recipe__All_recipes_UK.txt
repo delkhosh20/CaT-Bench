@@ -1,0 +1,86 @@
+========
+1. Heat olive oil in a large saucepan over medium-high heat.
+2. Stir in onions and garlic , cook until the onion has softened and turned translucent.
+3. Pour in tomatoes , chickpeas and water ; season with paprika , chilli flakes , salt , and pepper.
+4. Stir in carrots and potatoes , then place chicken thighs skin-side up on top of the vegetables.
+5. Bring to a boil over high heat , then reduce heat to medium , cover and simmer until the chicken is tender , about 25 minutes.
+6. Preheat oven to 200 degrees C / gas mark 6.
+7. Remove chicken from the stew and set aside.
+8. Stir in the chorizo slices , then pour the stew into a baking dish.
+9. Place the chicken thighs on top , skin-side up.
+10. Bake in preheated oven until the stew has thickened and the chicken skin is crispy , about 15 minutes.
+must step 6 happen before step 7?
+========
+1. Heat olive oil in a large saucepan over medium-high heat.
+2. Stir in onions and garlic , cook until the onion has softened and turned translucent.
+3. Pour in tomatoes , chickpeas and water ; season with paprika , chilli flakes , salt , and pepper.
+4. Stir in carrots and potatoes , then place chicken thighs skin-side up on top of the vegetables.
+5. Bring to a boil over high heat , then reduce heat to medium , cover and simmer until the chicken is tender , about 25 minutes.
+6. Remove chicken from the stew and set aside.
+7. Preheat oven to 200 degrees C / gas mark 6.
+8. Stir in the chorizo slices , then pour the stew into a baking dish.
+9. Place the chicken thighs on top , skin-side up.
+10. Bake in preheated oven until the stew has thickened and the chicken skin is crispy , about 15 minutes.
+must step 6 happen before step 7?
+========
+1. Heat olive oil in a large saucepan over medium-high heat.
+2. Stir in onions and garlic , cook until the onion has softened and turned translucent.
+3. Pour in tomatoes , chickpeas and water ; season with paprika , chilli flakes , salt , and pepper.
+4. Stir in carrots and potatoes , then place chicken thighs skin-side up on top of the vegetables.
+5. Bring to a boil over high heat , then reduce heat to medium , cover and simmer until the chicken is tender , about 25 minutes.
+6. Remove chicken from the stew and set aside.
+7. Stir in the chorizo slices , then pour the stew into a baking dish.
+8. Preheat oven to 200 degrees C / gas mark 6.
+9. Place the chicken thighs on top , skin-side up.
+10. Bake in preheated oven until the stew has thickened and the chicken skin is crispy , about 15 minutes.
+must step 6 happen before step 8?
+========
+1. Heat olive oil in a large saucepan over medium-high heat.
+2. Stir in onions and garlic , cook until the onion has softened and turned translucent.
+3. Pour in tomatoes , chickpeas and water ; season with paprika , chilli flakes , salt , and pepper.
+4. Stir in carrots and potatoes , then place chicken thighs skin-side up on top of the vegetables.
+5. Bring to a boil over high heat , then reduce heat to medium , cover and simmer until the chicken is tender , about 25 minutes.
+6. Remove chicken from the stew and set aside.
+7. Preheat oven to 200 degrees C / gas mark 6.
+8. Stir in the chorizo slices , then pour the stew into a baking dish.
+9. Place the chicken thighs on top , skin-side up.
+10. Bake in preheated oven until the stew has thickened and the chicken skin is crispy , about 15 minutes.
+must step 6 happen before step 7?
+========
+1. Heat olive oil in a large saucepan over medium-high heat.
+2. Stir in onions and garlic , cook until the onion has softened and turned translucent.
+3. Pour in tomatoes , chickpeas and water ; season with paprika , chilli flakes , salt , and pepper.
+4. Stir in carrots and potatoes , then place chicken thighs skin-side up on top of the vegetables.
+5. Bring to a boil over high heat , then reduce heat to medium , cover and simmer until the chicken is tender , about 25 minutes.
+6. Preheat oven to 200 degrees C / gas mark 6.
+7. Stir in the chorizo slices , then pour the stew into a baking dish.
+8. Remove chicken from the stew and set aside.
+9. Place the chicken thighs on top , skin-side up.
+10. Bake in preheated oven until the stew has thickened and the chicken skin is crispy , about 15 minutes.
+must step 6 happen before step 8?
+========
+1. Heat olive oil in a large saucepan over medium-high heat.
+2. Stir in onions and garlic , cook until the onion has softened and turned translucent.
+3. Pour in tomatoes , chickpeas and water ; season with paprika , chilli flakes , salt , and pepper.
+4. Stir in carrots and potatoes , then place chicken thighs skin-side up on top of the vegetables.
+5. Bring to a boil over high heat , then reduce heat to medium , cover and simmer until the chicken is tender , about 25 minutes.
+6. Stir in the chorizo slices , then pour the stew into a baking dish.
+7. Preheat oven to 200 degrees C / gas mark 6.
+8. Remove chicken from the stew and set aside.
+9. Place the chicken thighs on top , skin-side up.
+10. Bake in preheated oven until the stew has thickened and the chicken skin is crispy , about 15 minutes.
+must step 7 happen before step 8?
+========
+1. Heat olive oil in a large saucepan over medium-high heat.
+2. Stir in onions and garlic , cook until the onion has softened and turned translucent.
+3. Pour in tomatoes , chickpeas and water ; season with paprika , chilli flakes , salt , and pepper.
+4. Stir in carrots and potatoes , then place chicken thighs skin-side up on top of the vegetables.
+5. Bring to a boil over high heat , then reduce heat to medium , cover and simmer until the chicken is tender , about 25 minutes.
+6. Preheat oven to 200 degrees C / gas mark 6.
+7. Stir in the chorizo slices , then pour the stew into a baking dish.
+8. Remove chicken from the stew and set aside.
+9. Place the chicken thighs on top , skin-side up.
+10. Bake in preheated oven until the stew has thickened and the chicken skin is crispy , about 15 minutes.
+must step 6 happen before step 8?
+========
+number of recipes: 6 and [(1, 2, 3, 4, 5), (9, 10)]

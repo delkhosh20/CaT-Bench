@@ -1,0 +1,6 @@
+========
+1. Place the sardines in a bowl and roughly mash with a fork.
+2. Add in all of the remaining ingredients and stir well.
+3. Enjoy !
+========
+number of recipes: 0 and [(1, 2)]

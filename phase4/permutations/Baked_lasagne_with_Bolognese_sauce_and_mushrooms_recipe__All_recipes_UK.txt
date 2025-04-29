@@ -1,0 +1,64 @@
+========
+1. In a pot melt the butter , add the flour and then pour the milk stirring constantly to avoid lumps.
+2. Season with salt and a little nutmeg then bring to boil
+3. cook for only a couple of minutes.
+4. Set aside.
+5. Heat a pan and sautÃ© chopped carrot , onion and celery in a little olive oil.
+6. Add the mixed minced beef and/or pork and a bay leaf ; stir.
+7. Once the meat has reached a brown colour , pour in the wine and let it reduce.
+8. Add the tomato puree
+9. ,
+10. cover with water and let cook for at least 30 minutes.
+11. Season with salt and pepper , remove the bay leaf and set aside.
+12. Clean the mushrooms , slice them finely and cook in a non-stick pan over medium heat.
+13. Set aside.
+14. Grease a baking dish with a little bit of butter.
+15. Spoon a layer of bÃ©chamel , then Bolognese sauce over the bottom of the dish.
+16. Top the first layer with lasagne sheets , then cover it with some sliced mushrooms and sprinkle with grated Parmesan.
+17. Repeat this procedure 5 times , altering layers of Bolognese sauce , lasagne , mushrooms and bÃ©chamel.
+18. Make sure to leave enough bÃ©chamel sauce to cover the top layer completely.
+19. Bake in a preheated oven at 220 C for 25-30 minutes.
+20. Let the lasagne rest for ten minutes before serving.
+must step 14 happen before step 15?
+========
+1. In a pot melt the butter , add the flour and then pour the milk stirring constantly to avoid lumps.
+2. Season with salt and a little nutmeg then bring to boil
+3. cook for only a couple of minutes.
+4. Set aside.
+5. Heat a pan and sautÃ© chopped carrot , onion and celery in a little olive oil.
+6. Add the mixed minced beef and/or pork and a bay leaf ; stir.
+7. Once the meat has reached a brown colour , pour in the wine and let it reduce.
+8. Add the tomato puree
+9. cover with water and let cook for at least 30 minutes.
+10. Season with salt and pepper , remove the bay leaf and set aside.
+11. Clean the mushrooms , slice them finely and cook in a non-stick pan over medium heat.
+12. Set aside.
+13. Spoon a layer of bÃ©chamel , then Bolognese sauce over the bottom of the dish.
+14. Grease a baking dish with a little bit of butter.
+15. Top the first layer with lasagne sheets , then cover it with some sliced mushrooms and sprinkle with grated Parmesan.
+16. Repeat this procedure 5 times , altering layers of Bolognese sauce , lasagne , mushrooms and bÃ©chamel.
+17. Bake in a preheated oven at 220 C for 25-30 minutes.
+18. Let the lasagne rest for ten minutes before serving.
+must step 13 happen before step 14?
+========
+1. In a pot melt the butter , add the flour and then pour the milk stirring constantly to avoid lumps.
+2. Season with salt and a little nutmeg then bring to boil
+3. cook for only a couple of minutes.
+4. Set aside.
+5. Heat a pan and sautÃ© chopped carrot , onion and celery in a little olive oil.
+6. Add the mixed minced beef and/or pork and a bay leaf ; stir.
+7. Once the meat has reached a brown colour , pour in the wine and let it reduce.
+8. Add the tomato puree
+9. cover with water and let cook for at least 30 minutes.
+10. Season with salt and pepper , remove the bay leaf and set aside.
+11. Clean the mushrooms , slice them finely and cook in a non-stick pan over medium heat.
+12. Set aside.
+13. Spoon a layer of bÃ©chamel , then Bolognese sauce over the bottom of the dish.
+14. Grease a baking dish with a little bit of butter.
+15. Top the first layer with lasagne sheets , then cover it with some sliced mushrooms and sprinkle with grated Parmesan.
+16. Repeat this procedure 5 times , altering layers of Bolognese sauce , lasagne , mushrooms and bÃ©chamel.
+17. Bake in a preheated oven at 220 C for 25-30 minutes.
+18. Let the lasagne rest for ten minutes before serving.
+must step 13 happen before step 14?
+========
+number of recipes: 2 and [(1, 2, 3, 4), (5, 6, 7, 8, 10, 11), (12, 13), (16, 17, 19, 20)]

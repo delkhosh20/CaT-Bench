@@ -1,0 +1,15 @@
+========
+1. Heat oven to 180 C / Gas 4.
+2. Break the chocolate into squares and melt it with the butter in a bowl over a saucepan of hot water.
+3. Take off the heat and leave to cool.
+4. Whisk the egg , egg yolk and sugar with an electric mixer until well mixed.
+5. Butter 2 ramekins , about 75mm in diameter.
+6. Dust well with the cocoa powder , then shake off any excess.
+7. Whisk the cooled chocolate mixture into the eggs and sugar mixture.
+8. Sift the flour over the mixture , then fold in.
+9. Divide between the 2 ramekins.
+10. Bake for 15 minutes in the preheated oven.
+11. Run a knife around the edge of each cake and turn out onto plates.
+must step 1 happen before step 4?
+========
+number of recipes: 0 and [(2, 3), (5, 6), (8, 9, 10)]

@@ -1,0 +1,12 @@
+========
+1. After roasting your turkey , remove it from the roasting tin and set aside to rest on a platter or cutting board.
+2. To make the turkey gravy , place the roasting tin over 2 burners on the hob on medium-high heat.
+3. Add wine and , using a wooden spoon , stir to loosen brown bits.
+4. Pass the contents of the tin through a large sieve into a saucepan.
+5. Add stock and bring to the boil.
+6. Whisk cornflour with water , then gradually whisk into pan juices.
+7. Bring to the boil , reduce heat to low and simmer until thickened.
+8. Season with salt and pepper to taste.
+9. Serve immediately.
+========
+number of recipes: 0 and [(2, 3), (4, 5), (6, 7, 8, 9), (1, 9)]

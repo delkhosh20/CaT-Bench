@@ -1,0 +1,12 @@
+========
+1. Melt the butter in a large saucepan over medium heat.
+2. Fry the onion in butter until soft , about 5 minutes.
+3. Add the parsnips , garlic and curry powder , and fry for a couple of minutes to release the flavours.
+4. Boil the water in the kettle and mix with stock cube in a separate jug.
+5. Add to pan and stir well.
+6. Simmer for 15 mins until parsnips are soft and easy to break with a wooden spoon.
+7. Take off the heat and blend with hand mixer or food processor.
+8. Stir in the cream and warm through.
+9. Season to taste and garnish with the chilli flakes or paprika.
+========
+number of recipes: 0 and [(2, 3), (4, 5, 6, 7, 8, 9)]

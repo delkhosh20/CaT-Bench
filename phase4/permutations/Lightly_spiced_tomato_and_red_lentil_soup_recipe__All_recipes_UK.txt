@@ -1,0 +1,15 @@
+========
+1. Heat the oil in a saucepan.
+2. Add the onion and cook over a low heat for 7-8 minutes , stirring occasionally , until beginning to soften.
+3. Stir in the celery and carrot and cook for 3 minutes , stirring frequently.
+4. Add the garlic , cumin and coriander and cook for a further minute , stirring constantly.
+5. Add the lentils , stock , tomatoes with their juice , tomato purÃ©e and bay leaf.
+6. Bring to the boil , reduce the heat , then half-cover the pan with a lid and simmer for 25-30 minutes until the lentils and vegetables are very soft.
+7. Meanwhile , stir the coriander into the yoghurt for the garnish.
+8. Remove the bay leaf from the soup.
+9. Blend the soup in the pan using a hand-held blender , or tip into a blender or food processor , process until smooth , then return the soup to the pan.
+10. Check the consistency ; it will be fairly thick , so if you prefer it thinner , dilute with a little more stock.
+11. Season to taste , then reheat until just bubbling.
+12. Serve drizzled with some of the coriander yoghurt and sprinkled with freshly ground black pepper.
+========
+number of recipes: 0 and [(1, 2, 3, 4, 5, 6), (8, 9, 10, 11, 12)]

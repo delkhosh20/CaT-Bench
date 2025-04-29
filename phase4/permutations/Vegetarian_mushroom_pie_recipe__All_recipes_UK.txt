@@ -1,0 +1,20 @@
+========
+1. Preheat oven to 180 C / Gas 4.
+2. Heat oil in a frying pan over medium-high heat.
+3. Add onions and mushrooms.
+4. Saute until browned.
+5. Stir in carrot.
+6. Pour in vegetable stock and stir.
+7. Bring to the boil , then cover and simmer for 8-10 minutes or until carrots are tender.
+8. Stir in soy sauce and balsamic vinegar.
+9. Sprinkle in flour and stir in.
+10. Simmer until sauce has thickened , about 1-2 minutes.
+11. Remove from heat and stir in thyme.
+12. Pour the pan contents into a pie dish.
+13. Cover with a sheet of pastry , trimming off any excess.
+14. In a small bowl , whisk egg and water to form an egg wash.
+15. Brush over the pastry.
+16. Bake in preheated oven for 40 minutes or until pastry is golden and puffy.
+must step 1 happen before step 14?
+========
+number of recipes: 0 and [(2, 3, 4, 5, 6, 7, 8, 9, 10, 11), (12, 13), (15, 16)]

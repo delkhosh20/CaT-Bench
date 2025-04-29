@@ -1,0 +1,12 @@
+========
+1. Preheat the oven to 180 C / Gas mark 4.
+2. In a large bowl , cream together the butter and sugar until smooth.
+3. Beat in the eggs one at a time , then stir in the vanilla.
+4. Combine the flour , cocoa , bicarbonate of soda and salt ; stir into the creamed mixture.
+5. Fold in the white chocolate chips.
+6. Drop by rounded teaspoonfuls onto ungreased baking trays.
+7. Bake for 8 to 10 minutes in the preheated oven , until cookies are set.
+8. Allow cookies to cool on baking tray for 5 minutes before removing to a wire rack to cool completely.
+must step 1 happen before step 8?
+========
+number of recipes: 0 and [(2, 3, 4, 5, 6, 7)]
