@@ -1,0 +1,18 @@
+[
+  {
+    "goal": "Katherines_chocolate_truffles_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Be careful not to over-cook this or crystals will begin to form.\n2. Melt the chocolate flavour cake covering , either in the microwave or by placing in a bowl over a saucepan of simmering water.\n3. Add the crumbs and flavourings to the melted cake covering and mix thoroughly.\n4. Leave to cool slightly.\n5. Shape the mixture into small balls.\n6. Sprinkle the coverings of your choice onto saucers and roll the balls in the coverings.\n7. If you want to drizzle with melted cake covering , melt as per the truffles.\n8. Chill for 30 minutes and store in an airtight container.",
+    "question": "must step 1 happen before step 5?",
+    "i": "1",
+    "j": "5",
+    "answer": "Yes, Step 1 must happen before Step 5."
+  },
+  {
+    "goal": "Katherines_chocolate_truffles_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Be careful not to over-cook this or crystals will begin to form.\n2. Melt the chocolate flavour cake covering , either in the microwave or by placing in a bowl over a saucepan of simmering water.\n3. Add the crumbs and flavourings to the melted cake covering and mix thoroughly.\n4. Leave to cool slightly.\n5. Shape the mixture into small balls.\n6. Sprinkle the coverings of your choice onto saucers and roll the balls in the coverings.\n7. If you want to drizzle with melted cake covering , melt as per the truffles.\n8. Chill for 30 minutes and store in an airtight container.",
+    "question": "must step 1 happen before step 5?",
+    "i": "1",
+    "j": "5",
+    "answer": "No, Step 1 is a caution about overcooking during the melting process (Step 2), which occurs before shaping the mixture into balls (Step 5)."
+  }
+]

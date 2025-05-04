@@ -1,0 +1,18 @@
+[
+  {
+    "goal": "Almost_no_fat_banana_bread_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Lightly grease a 20x10cm ( 8x4 in ) loaf tin.\n2. Preheat oven to 180 C / Gas mark 4.\n3. In a large bowl , stir together flour , sugar , baking powder , bicarbonate of soda and cinnamon.\n4. Add egg whites , bananas and apple purÃ©e ; stir just until combined.\n5. Pour batter into prepared tin.\n6. Bake in preheated oven for 50 to 55 minutes , until a skewer inserted into centre of loaf comes out clean.\n7. Turn out onto wire rack and allow to cool before slicing.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes, according to the procedure, Step 1 is listed before Step 2."
+  },
+  {
+    "goal": "Almost_no_fat_banana_bread_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Lightly grease a 20x10cm ( 8x4 in ) loaf tin.\n2. Preheat oven to 180 C / Gas mark 4.\n3. In a large bowl , stir together flour , sugar , baking powder , bicarbonate of soda and cinnamon.\n4. Add egg whites , bananas and apple purÃ©e ; stir just until combined.\n5. Pour batter into prepared tin.\n6. Bake in preheated oven for 50 to 55 minutes , until a skewer inserted into centre of loaf comes out clean.\n7. Turn out onto wire rack and allow to cool before slicing.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "no"
+  }
+]

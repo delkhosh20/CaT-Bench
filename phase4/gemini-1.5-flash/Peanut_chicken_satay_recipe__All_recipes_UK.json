@@ -1,0 +1,162 @@
+[
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place the chicken in the marinade and refrigerate.\n2. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n3. Let the chicken marinate at least 2 hours ; overnight is best.\n4. Preheat barbecue to high heat.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place the chicken in the marinade and refrigerate.\n2. Let the chicken marinate at least 2 hours ; overnight is best.\n3. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n4. Preheat barbecue to high heat.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place the chicken in the marinade and refrigerate.\n2. Let the chicken marinate at least 2 hours ; overnight is best.\n3. Preheat barbecue to high heat.\n4. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place the chicken in the marinade and refrigerate.\n2. Let the chicken marinate at least 2 hours ; overnight is best.\n3. Preheat barbecue to high heat.\n4. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.\n5. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place the chicken in the marinade and refrigerate.\n2. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n3. Let the chicken marinate at least 2 hours ; overnight is best.\n4. Preheat barbecue to high heat.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Let the chicken marinate at least 2 hours ; overnight is best.\n3. Place the chicken in the marinade and refrigerate.\n4. Preheat barbecue to high heat.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Let the chicken marinate at least 2 hours ; overnight is best.\n3. Preheat barbecue to high heat.\n4. Place the chicken in the marinade and refrigerate.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Let the chicken marinate at least 2 hours ; overnight is best.\n3. Preheat barbecue to high heat.\n4. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.\n5. Place the chicken in the marinade and refrigerate.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Let the chicken marinate at least 2 hours ; overnight is best.\n2. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n3. Place the chicken in the marinade and refrigerate.\n4. Preheat barbecue to high heat.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Let the chicken marinate at least 2 hours ; overnight is best.\n3. Place the chicken in the marinade and refrigerate.\n4. Preheat barbecue to high heat.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Place the chicken in the marinade and refrigerate.\n3. Preheat barbecue to high heat.\n4. Let the chicken marinate at least 2 hours ; overnight is best.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Place the chicken in the marinade and refrigerate.\n3. Preheat barbecue to high heat.\n4. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.\n5. Let the chicken marinate at least 2 hours ; overnight is best.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue to high heat.\n2. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n3. Place the chicken in the marinade and refrigerate.\n4. Let the chicken marinate at least 2 hours ; overnight is best.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 1 happen before step 5?",
+    "i": "1",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Preheat barbecue to high heat.\n3. Place the chicken in the marinade and refrigerate.\n4. Let the chicken marinate at least 2 hours ; overnight is best.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 2 happen before step 5?",
+    "i": "2",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Place the chicken in the marinade and refrigerate.\n3. Preheat barbecue to high heat.\n4. Let the chicken marinate at least 2 hours ; overnight is best.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Place the chicken in the marinade and refrigerate.\n3. Let the chicken marinate at least 2 hours ; overnight is best.\n4. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.\n5. Preheat barbecue to high heat.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.\n2. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n3. Place the chicken in the marinade and refrigerate.\n4. Let the chicken marinate at least 2 hours ; overnight is best.\n5. Preheat barbecue to high heat.",
+    "question": "must step 1 happen before step 5?",
+    "i": "1",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.\n3. Place the chicken in the marinade and refrigerate.\n4. Let the chicken marinate at least 2 hours ; overnight is best.\n5. Preheat barbecue to high heat.",
+    "question": "must step 2 happen before step 5?",
+    "i": "2",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Place the chicken in the marinade and refrigerate.\n3. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.\n4. Let the chicken marinate at least 2 hours ; overnight is best.\n5. Preheat barbecue to high heat.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Place the chicken in the marinade and refrigerate.\n3. Let the chicken marinate at least 2 hours ; overnight is best.\n4. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.\n5. Preheat barbecue to high heat.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  }
+]

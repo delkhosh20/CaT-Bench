@@ -1,0 +1,26 @@
+# after line22
+    original_match = re.search(r"======== Original Recipe ========\s*(.*?)\s*========", content, re.DOTALL)
+    if not original_match:
+        print(f"[SKIPPED] No original recipe found in {filename}")
+        continue
+
+    original_recipe = original_match.group(1).strip()
+
+# line 82
+            # Try to extract the JSON block
+            # The original response is like
+            #  ```json
+            # {
+            #   "binary_answer": "yes",
+            #   "why_answer": "You need to line the tin with baking parchment before arranging the apples in it."
+            # }
+            # ```
+            # But we need to remove "```json" and "```"
+            # match = re.search(r'\{.*\}', answer, re.DOTALL)
+            # json_str = match.group()
+            # print(json_str)
+            
+            # Try parsing the answer into JSON
+            # answer_json = json.loads(json_str)
+            # binary_answer = answer_json.get("binary_answer", "")
+            # why_answer = answer_json.get("why_answer", "")

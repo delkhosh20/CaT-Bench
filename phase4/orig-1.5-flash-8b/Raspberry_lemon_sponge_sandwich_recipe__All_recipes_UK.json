@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat your oven to 160 C / Gas 3 and grease and line two 20cm sandwich tins.\n2. Mix the flour , caster sugar , butter , eggs , baking powder and lemon zest until mixture is smooth.\n3. Divide mixture evenly between the sandwich tins and smooth out with the back of a spoon.\n4. Bake in oven for 30-35 minutes or until the sponge springs up when pressed lightly and no indentation remains.\n5. Do not open the oven until at least 30 minutes has elapsed.\n6. While the cakes are warm , turn out onto cake rack for cooling.\n7. For the icing : In a mixing bowl , beat together the icing sugar , 30g butter , vanilla , salt and milk until smooth.\n8. Place a cake layer on a serving plate.\n9. Spread with raspberry preserves.\n10. Top with second layer ; spread the icing over the top of the cake.\n11. Decorate the top of the cake with fresh raspberries.",
+    "question": "must step 2 happen before step 11?",
+    "i": "2",
+    "j": "11",
+    "answer": "No."
+  }
+]

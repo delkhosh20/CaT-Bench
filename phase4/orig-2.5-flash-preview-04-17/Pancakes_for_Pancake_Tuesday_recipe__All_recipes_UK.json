@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Pancakes_for_Pancake_Tuesday_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Sift the flour and salt into a mixing bowl.\n2. Break the eggs into a bowl and then add to flour.\n3. Pour in half of the milk and whisk briskly.\n4. Add the remaining milk and whisk until the batter is smooth.\n5. Heat an 8 inch pan over a low heat.\n6. Add a small knob of butter and swirl the pan to coat the bottom.\n7. Use a ladel to spoon the pancake batter into the pan , then tilt the pan to spread the mixture out evenly.\n8. As it sets , shake the pan to see if the pancake is loose , then flip it over with a palette knife.\n9. Cook the other side for 30 seconds -then shake again to see if it 's loose.\n10. Slide onto a warm plate , sprinkle over some sugar and a squeeze of lemon juice - then eat immediately !\n11. Cook the rest of the pancakes , one at a time but remember to melt a small knob of butter before adding the batter.",
+    "question": "must step 1 happen before step 11?",
+    "i": "1",
+    "j": "11",
+    "answer": "Yes, Step 1 must happen before Step 11."
+  }
+]

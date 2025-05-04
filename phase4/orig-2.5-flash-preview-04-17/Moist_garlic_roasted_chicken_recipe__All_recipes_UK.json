@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n4. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 6?",
+    "i": "4",
+    "j": "6",
+    "answer": "Yes, Step 4 must happen before Step 6."
+  }
+]

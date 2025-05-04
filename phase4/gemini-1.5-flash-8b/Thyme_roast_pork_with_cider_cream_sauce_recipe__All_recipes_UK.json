@@ -1,0 +1,50 @@
+[
+  {
+    "goal": "Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Once pork joint is cleaned , rub salt into the skin of the pork to help create a crisp crackling.\n2. Preheat the oven to 200 C / gas 6.\n3. Put the thyme on the base of a roasting tin with the pork on top ; roast for 45 minutes.\n4. Parboil the parsnips for 5 minutes , adding them to the roasting tin when the 45 minutes is up , making sure you cover them in some of the pork 's cooking juices.\n5. Roast for a further 45 minutes.\n6. Remove pork and parsnips from oven and leave to rest for 10 minutes.\n7. Remove thyme from roasting tray along with any excess fat.\n8. Add cider to the meat juices , and boil for 2-3 minutes.\n9. Stir in the cream , heat through but do not boil.\n10. Slice the pork loin and serve with the parsnips and cider cream.\n11. Enjoy !",
+    "question": "must step 2 happen before step 7?",
+    "i": "2",
+    "j": "7",
+    "answer": "Yes, preheating the oven (Step 2) must occur before removing thyme from the roasting tray (Step 7)."
+  },
+  {
+    "goal": "Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Once pork joint is cleaned , rub salt into the skin of the pork to help create a crisp crackling.\n2. Put the thyme on the base of a roasting tin with the pork on top ; roast for 45 minutes.\n3. Preheat the oven to 200 C / gas 6.\n4. Parboil the parsnips for 5 minutes , adding them to the roasting tin when the 45 minutes is up , making sure you cover them in some of the pork 's cooking juices.\n5. Roast for a further 45 minutes.\n6. Remove pork and parsnips from oven and leave to rest for 10 minutes.\n7. Remove thyme from roasting tray along with any excess fat.\n8. Add cider to the meat juices , and boil for 2-3 minutes.\n9. Stir in the cream , heat through but do not boil.\n10. Slice the pork loin and serve with the parsnips and cider cream.\n11. Enjoy !",
+    "question": "must step 3 happen before step 7?",
+    "i": "3",
+    "j": "7",
+    "answer": "Yes, preheating the oven (Step 3) must occur before removing the thyme (Step 7)."
+  },
+  {
+    "goal": "Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Once pork joint is cleaned , rub salt into the skin of the pork to help create a crisp crackling.\n2. Preheat the oven to 200 C / gas 6.\n3. Put the thyme on the base of a roasting tin with the pork on top ; roast for 45 minutes.\n4. Parboil the parsnips for 5 minutes , adding them to the roasting tin when the 45 minutes is up , making sure you cover them in some of the pork 's cooking juices.\n5. Roast for a further 45 minutes.\n6. Remove pork and parsnips from oven and leave to rest for 10 minutes.\n7. Remove thyme from roasting tray along with any excess fat.\n8. Add cider to the meat juices , and boil for 2-3 minutes.\n9. Stir in the cream , heat through but do not boil.\n10. Slice the pork loin and serve with the parsnips and cider cream.\n11. Enjoy !",
+    "question": "must step 2 happen before step 7?",
+    "i": "2",
+    "j": "7",
+    "answer": "Yes, preheating the oven in Step 2 must occur before removing the thyme in Step 7."
+  },
+  {
+    "goal": "Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat the oven to 200 C / gas 6.\n2. Put the thyme on the base of a roasting tin with the pork on top ; roast for 45 minutes.\n3. Once pork joint is cleaned , rub salt into the skin of the pork to help create a crisp crackling.\n4. Parboil the parsnips for 5 minutes , adding them to the roasting tin when the 45 minutes is up , making sure you cover them in some of the pork 's cooking juices.\n5. Roast for a further 45 minutes.\n6. Remove pork and parsnips from oven and leave to rest for 10 minutes.\n7. Remove thyme from roasting tray along with any excess fat.\n8. Add cider to the meat juices , and boil for 2-3 minutes.\n9. Stir in the cream , heat through but do not boil.\n10. Slice the pork loin and serve with the parsnips and cider cream.\n11. Enjoy !",
+    "question": "must step 1 happen before step 7?",
+    "i": "1",
+    "j": "7",
+    "answer": "Yes, preheating the oven must occur before removing the thyme from the roasting tray."
+  },
+  {
+    "goal": "Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the thyme on the base of a roasting tin with the pork on top ; roast for 45 minutes.\n2. Preheat the oven to 200 C / gas 6.\n3. Once pork joint is cleaned , rub salt into the skin of the pork to help create a crisp crackling.\n4. Parboil the parsnips for 5 minutes , adding them to the roasting tin when the 45 minutes is up , making sure you cover them in some of the pork 's cooking juices.\n5. Roast for a further 45 minutes.\n6. Remove pork and parsnips from oven and leave to rest for 10 minutes.\n7. Remove thyme from roasting tray along with any excess fat.\n8. Add cider to the meat juices , and boil for 2-3 minutes.\n9. Stir in the cream , heat through but do not boil.\n10. Slice the pork loin and serve with the parsnips and cider cream.\n11. Enjoy !",
+    "question": "must step 2 happen before step 7?",
+    "i": "2",
+    "j": "7",
+    "answer": "Yes, preheating the oven (Step 2) must occur before removing the thyme from the roasting tray (Step 7)."
+  },
+  {
+    "goal": "Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat the oven to 200 C / gas 6.\n2. Put the thyme on the base of a roasting tin with the pork on top ; roast for 45 minutes.\n3. Once pork joint is cleaned , rub salt into the skin of the pork to help create a crisp crackling.\n4. Parboil the parsnips for 5 minutes , adding them to the roasting tin when the 45 minutes is up , making sure you cover them in some of the pork 's cooking juices.\n5. Roast for a further 45 minutes.\n6. Remove pork and parsnips from oven and leave to rest for 10 minutes.\n7. Remove thyme from roasting tray along with any excess fat.\n8. Add cider to the meat juices , and boil for 2-3 minutes.\n9. Stir in the cream , heat through but do not boil.\n10. Slice the pork loin and serve with the parsnips and cider cream.\n11. Enjoy !",
+    "question": "must step 1 happen before step 7?",
+    "i": "1",
+    "j": "7",
+    "answer": "Yes, preheating the oven (Step 1) must occur before removing the thyme from the roasting tray (Step 7)."
+  }
+]

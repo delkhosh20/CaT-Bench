@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Almond_and_apple_cake_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat the oven to 170 C / Gas mark 3.\n2. Brush around 22cm ( base measurement ) cake tin with melted butter to grease.\n3. Line base and side with baking parchment.\n4. Beat butter , caster sugar and vanilla in a bowl for 8 mins or till pale and creamy ( by hand or electric beater ).\n5. Add the eggs , 1 at a time , beating well after each addition.\n6. Stir in ground almonds.\n7. Add half the flour and half the milk.\n8. Use a wooden spoon to stir until well combined.\n9. Repeat remaining flour and milk.\n10. Arrange the apple , slightly overlapping , over the base of the prepared tin.\n11. Spoon mixture into the tin and smooth the surface.\n12. Bake in the oven for 30-35 mins or until a skewer inserted into the centre comes out clean.\n13. Set aside in the pan for 10 mins to cool slightly before turning onto a serving plate.\n14. Serve warm.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes."
+  }
+]

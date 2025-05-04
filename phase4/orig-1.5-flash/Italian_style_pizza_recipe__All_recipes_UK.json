@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Italian_style_pizza_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put all the ingredients for the dough except for the semolina into a breadmaker in the order listed.\n2. Add your toppings but DO N'T OVERLOAD the pizza !\n3. I like to add peppers and Parma ham or smoked chorizo slices.\n4. Top with a handful of grated Cheddar for that golden brown toasted cheese colour.\n5. Cook in the oven until the cheese is melted and golden , 5 to 8 minutes.\n6. Switch it on to the pizza setting and wait for it to finish ( about 45 minutes , depending on the model ).\n7. Prepare your toppings as you wait for the dough to finish.\n8. For the sauce , crush or very finely slice the garlic and add to the sieved tomatoes and oil.\n9. Alternately you can blitz all the ingredients in a mini blender.\n10. 10 minutes before the dough is done , turn your oven on as hot as it will go and allow it to heat up fully.\n11. When the bread maker is finished , tip the dough onto a well floured surface and divide it into 3 parts for 40cm pizzas or 4 for 30cm pizzas.\n12. Roll out as thinly as possible.\n13. Sprinkle the base with semolina and flip onto your tray.\n14. Trim off any overhangs with a sharp knife.\n15. Repeat with the other dough balls.\n16. At this point you can also freeze the unrolled dough balls for future use.\n17. Just put some olive oil in a bag and spread it around on the inside , then store the dough ball in the sealed bag in the freezer.\n18. Defrost thoroughly before using.\n19. Add 2 tablespoons of the sauce to a 12 inch pizza and 3 to a 15 inch pizza.\n20. Do NOT be tempted to add more or the base will go limp and soggy !\n21. Next add 50 to 60g of grated mozzarella.\n22. Again , go easy on the cheese to stop the oil from making the base soggy.",
+    "question": "must step 21 happen before step 22?",
+    "i": "21",
+    "j": "22",
+    "answer": "Yes."
+  }
+]

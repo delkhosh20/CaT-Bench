@@ -1,0 +1,162 @@
+[
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. The apples should be soft but not purÃ©ed.\n5. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n6. Put the apples into the serving dish and allow to cool.\n7. Set the temperature of the oven to 150 C / gas 2.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 4 happen before step 8?",
+    "i": "4",
+    "j": "8",
+    "answer": "Yes, Step 4 must happen before Step 8."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. The apples should be soft but not purÃ©ed.\n5. Put the apples into the serving dish and allow to cool.\n6. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n7. Set the temperature of the oven to 150 C / gas 2.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 4 happen before step 8?",
+    "i": "4",
+    "j": "8",
+    "answer": "Yes, Step 4 which describes the desired consistency of the stewed apples happens before the crumble topping is made in Step 8."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. The apples should be soft but not purÃ©ed.\n5. Put the apples into the serving dish and allow to cool.\n6. Set the temperature of the oven to 150 C / gas 2.\n7. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 4 happen before step 8?",
+    "i": "4",
+    "j": "8",
+    "answer": "no"
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. The apples should be soft but not purÃ©ed.\n5. Put the apples into the serving dish and allow to cool.\n6. Set the temperature of the oven to 150 C / gas 2.\n7. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n8. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 4 happen before step 7?",
+    "i": "4",
+    "j": "7",
+    "answer": "no"
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. The apples should be soft but not purÃ©ed.\n5. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n6. Put the apples into the serving dish and allow to cool.\n7. Set the temperature of the oven to 150 C / gas 2.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 4 happen before step 8?",
+    "i": "4",
+    "j": "8",
+    "answer": "Yes, Step 4, which describes the state of the stewed apples, must happen before Step 8, which is making the crumble topping."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. Put the apples into the serving dish and allow to cool.\n6. The apples should be soft but not purÃ©ed.\n7. Set the temperature of the oven to 150 C / gas 2.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 6 happen before step 8?",
+    "i": "6",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. Put the apples into the serving dish and allow to cool.\n6. Set the temperature of the oven to 150 C / gas 2.\n7. The apples should be soft but not purÃ©ed.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 7 happen before step 8?",
+    "i": "7",
+    "j": "8",
+    "answer": "No, Step 7 does not must happen before Step 8."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. Put the apples into the serving dish and allow to cool.\n6. Set the temperature of the oven to 150 C / gas 2.\n7. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n8. The apples should be soft but not purÃ©ed.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 7 happen before step 8?",
+    "i": "7",
+    "j": "8",
+    "answer": "No, Step 7 (making the crumble topping) does not necessarily have to happen before Step 8 (checking the apple consistency), as Step 8 is a check on the apples prepared in earlier steps."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Put the apples into the serving dish and allow to cool.\n5. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n6. The apples should be soft but not purÃ©ed.\n7. Set the temperature of the oven to 150 C / gas 2.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 6 happen before step 8?",
+    "i": "6",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. Put the apples into the serving dish and allow to cool.\n6. The apples should be soft but not purÃ©ed.\n7. Set the temperature of the oven to 150 C / gas 2.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 6 happen before step 8?",
+    "i": "6",
+    "j": "8",
+    "answer": "Yes, based on the sequential listing in the procedure, Step 6 is presented before Step 8."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. The apples should be soft but not purÃ©ed.\n6. Set the temperature of the oven to 150 C / gas 2.\n7. Put the apples into the serving dish and allow to cool.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 5 happen before step 8?",
+    "i": "5",
+    "j": "8",
+    "answer": "No, Step 5, which describes the state of the cooked apples, does not strictly have to happen before Step 8, which is making the crumble topping."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. The apples should be soft but not purÃ©ed.\n6. Set the temperature of the oven to 150 C / gas 2.\n7. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n8. Put the apples into the serving dish and allow to cool.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 5 happen before step 7?",
+    "i": "5",
+    "j": "7",
+    "answer": "No."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Set the temperature of the oven to 150 C / gas 2.\n5. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n6. The apples should be soft but not purÃ©ed.\n7. Put the apples into the serving dish and allow to cool.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 6 happen before step 8?",
+    "i": "6",
+    "j": "8",
+    "answer": "Yes, Step 6 must happen before Step 8 as Step 6 is a check on the apples before they are put in the serving dish (Step 7), while Step 8 is making the crumble topping which is added after the apples are in the dish (Step 9)."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. Set the temperature of the oven to 150 C / gas 2.\n6. The apples should be soft but not purÃ©ed.\n7. Put the apples into the serving dish and allow to cool.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 6 happen before step 8?",
+    "i": "6",
+    "j": "8",
+    "answer": "Yes, Step 6 must happen before Step 8 according to the procedure as written."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. The apples should be soft but not purÃ©ed.\n6. Set the temperature of the oven to 150 C / gas 2.\n7. Put the apples into the serving dish and allow to cool.\n8. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 5 happen before step 8?",
+    "i": "5",
+    "j": "8",
+    "answer": "yes"
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. The apples should be soft but not purÃ©ed.\n6. Put the apples into the serving dish and allow to cool.\n7. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n8. Set the temperature of the oven to 150 C / gas 2.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 5 happen before step 7?",
+    "i": "5",
+    "j": "7",
+    "answer": "Yes, Step 5 must happen before Step 7 as described in the procedure."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n5. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n6. The apples should be soft but not purÃ©ed.\n7. Put the apples into the serving dish and allow to cool.\n8. Set the temperature of the oven to 150 C / gas 2.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 4 happen before step 6?",
+    "i": "4",
+    "j": "6",
+    "answer": "no"
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n6. The apples should be soft but not purÃ©ed.\n7. Put the apples into the serving dish and allow to cool.\n8. Set the temperature of the oven to 150 C / gas 2.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 5 happen before step 6?",
+    "i": "5",
+    "j": "6",
+    "answer": "No, Step 6 describes the desired state of the apples after stewing, which can be checked at various points (like Step 4) and is independent of making the crumble topping in Step 5."
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. The apples should be soft but not purÃ©ed.\n6. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n7. Put the apples into the serving dish and allow to cool.\n8. Set the temperature of the oven to 150 C / gas 2.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 5 happen before step 6?",
+    "i": "5",
+    "j": "6",
+    "answer": "no"
+  },
+  {
+    "goal": "Perfect_apple_crumble_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover.\n2. Allow to stew gently for half an hour , stirring occasionally with a wooden spoon.\n3. Keep checking as they can easily burn at the beginning.\n4. Check that the fruit is cooked by mashing it a bit with a wooden spoon.\n5. The apples should be soft but not purÃ©ed.\n6. Put the apples into the serving dish and allow to cool.\n7. Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency.\n8. Set the temperature of the oven to 150 C / gas 2.\n9. Cover the stewed apples with the crumble topping , without pressing down.\n10. Bake for approximately 30 minutes or until the crumble is golden brown and crunchy.\n11. Spoon a helping of crumble into a dish and serve with cream or ice cream.",
+    "question": "must step 5 happen before step 7?",
+    "i": "5",
+    "j": "7",
+    "answer": "No"
+  }
+]

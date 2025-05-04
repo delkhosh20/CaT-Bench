@@ -1,0 +1,18 @@
+[
+  {
+    "goal": "Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Mix the flour , caster sugar , butter , eggs , baking powder and lemon zest until mixture is smooth.\n2. Preheat your oven to 160 C / Gas 3 and grease and line two 20cm sandwich tins.\n3. Divide mixture evenly between the sandwich tins and smooth out with the back of a spoon.\n4. Bake in oven for 30-35 minutes or until the sponge springs up when pressed lightly and no indentation remains.\n5. While the cakes are warm , turn out onto cake rack for cooling.\n6. For the icing : In a mixing bowl , beat together the icing sugar , 30g butter , vanilla , salt and milk until smooth.\n7. Place a cake layer on a serving plate.\n8. Spread with raspberry preserves.\n9. Top with second layer ; spread the icing over the top of the cake.\n10. Decorate the top of the cake with fresh raspberries.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes, Step 1 must happen before Step 10."
+  },
+  {
+    "goal": "Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Mix the flour , caster sugar , butter , eggs , baking powder and lemon zest until mixture is smooth.\n2. Preheat your oven to 160 C / Gas 3 and grease and line two 20cm sandwich tins.\n3. Divide mixture evenly between the sandwich tins and smooth out with the back of a spoon.\n4. Bake in oven for 30-35 minutes or until the sponge springs up when pressed lightly and no indentation remains.\n5. While the cakes are warm , turn out onto cake rack for cooling.\n6. For the icing : In a mixing bowl , beat together the icing sugar , 30g butter , vanilla , salt and milk until smooth.\n7. Place a cake layer on a serving plate.\n8. Spread with raspberry preserves.\n9. Top with second layer ; spread the icing over the top of the cake.\n10. Decorate the top of the cake with fresh raspberries.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes, Step 1 must happen before Step 10."
+  }
+]

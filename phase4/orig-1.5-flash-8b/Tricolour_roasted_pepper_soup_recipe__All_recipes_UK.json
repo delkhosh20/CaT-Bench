@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Tricolour_roasted_pepper_soup_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 190 C / Gas mark 5.\n2. Halve all peppers , remove seeds and peel garlic.\n3. Place peppers cut side up in shallow baking dish.\n4. Place one garlic clove in each half and squeeze lemon juice generously over peppers.\n5. Roast for 1 hour.\n6. Meanwhile pour vegetable stock into a 2 litre saucepan and add fennel seeds.\n7. Bring to the boil , cover and simmer.\n8. When peppers are done , remove from oven and set aside to cool.\n9. When cool enough to touch , peel skin from peppers.\n10. Sieve fennel seeds from stock and return to the boil.\n11. Add thyme and simmer 15 minutes , reducing amount of stock.\n12. Cut a large slice from each pepper and dice.\n13. Set aside for garnish.\n14. In a blender , process remaining peppers , garlic and 7 tablespoons stock just long enough to chop the peppers , but not purÃ©e them ; you want to see the different colours.\n15. Pour the blended peppers into the stock and stir well.\n16. Add black pepper to taste , then add diced peppers for garnish , and enjoy.\n17. Do not boil or cook any longer as the colours will fade.",
+    "question": "must step 1 happen before step 14?",
+    "i": "1",
+    "j": "14",
+    "answer": "Yes, preheating the oven in Step 1 must occur before roasting the peppers in Step 14."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Blackberry_preserve_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a stockpot , combine the blackberries , sugar , lemon juice and salt.\n2. Bring to a rolling boil , and cook stirring frequently for 15 to 20 minutes , or until the temperature of the mixture has reached 105 degrees C.\n3. Transfer the mixture to hot sterile jars , leaving 1cm headspace , and seal.\n4. Process jars for 10 minutes in a water bath.\n5. Refrigerate jam once the seal is broken.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "answer": "Yes."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "goal": "Tricolour_roasted_pepper_soup_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Halve all peppers , remove seeds and peel garlic.\n2. Preheat oven to 190 C / Gas mark 5.\n3. Place peppers cut side up in shallow baking dish.\n4. Place one garlic clove in each half and squeeze lemon juice generously over peppers.\n5. Roast for 1 hour.\n6. Meanwhile pour vegetable stock into a 2 litre saucepan and add fennel seeds.\n7. Bring to the boil , cover and simmer.\n8. Roast for 1 hour.\n9. When peppers are done , remove from oven and set aside to cool.\n10. When cool enough to touch , peel skin from peppers.\n11. Sieve fennel seeds from stock and return to the boil.\n12. Add thyme and simmer 15 minutes , reducing amount of stock.\n13. Cut a large slice from each pepper and dice.\n14. Set aside for garnish.\n15. In a blender , process remaining peppers , garlic and 7 tablespoons stock just long enough to chop the peppers , but not purÃ©e them ; you want to see the different colours.\n16. Pour the blended peppers into the stock and stir well.\n17. Add black pepper to taste , then add diced peppers for garnish , and enjoy.\n18. Do not boil or cook any longer as the colours will fade.",
+    "question": "must step 2 happen before step 15?",
+    "i": "2",
+    "j": "15",
+    "answer": "No, Step 2 (preheating the oven) must happen before Step 15 (blending the peppers)."
+  },
+  {
+    "goal": "Tricolour_roasted_pepper_soup_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Halve all peppers , remove seeds and peel garlic.\n2. Preheat oven to 190 C / Gas mark 5.\n3. Place peppers cut side up in shallow baking dish.\n4. Place one garlic clove in each half and squeeze lemon juice generously over peppers.\n5. Roast for 1 hour.\n6. Meanwhile pour vegetable stock into a 2 litre saucepan and add fennel seeds.\n7. Bring to the boil , cover and simmer.\n8. Roast for 1 hour.\n9. When peppers are done , remove from oven and set aside to cool.\n10. When cool enough to touch , peel skin from peppers.\n11. Sieve fennel seeds from stock and return to the boil.\n12. Add thyme and simmer 15 minutes , reducing amount of stock.\n13. Cut a large slice from each pepper and dice.\n14. Set aside for garnish.\n15. In a blender , process remaining peppers , garlic and 7 tablespoons stock just long enough to chop the peppers , but not purÃ©e them ; you want to see the different colours.\n16. Pour the blended peppers into the stock and stir well.\n17. Add black pepper to taste , then add diced peppers for garnish , and enjoy.\n18. Do not boil or cook any longer as the colours will fade.",
+    "question": "must step 2 happen before step 15?",
+    "i": "2",
+    "j": "15",
+    "answer": "No, Step 2 (preheating the oven) must happen before Step 1, (halving and seeding the peppers)."
+  }
+]

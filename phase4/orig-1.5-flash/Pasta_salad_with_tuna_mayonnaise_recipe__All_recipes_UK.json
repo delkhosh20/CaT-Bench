@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Pasta_salad_with_tuna_mayonnaise_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Cook the pasta in a large saucepan of lightly salted boiling water for 10-12 minutes.\n2. Drain well in a colander.\n3. Place the pasta in a large mixing bowl and toss well with the olive oil.\n4. Drain the tuna and use a fork to roughly break it into flakes.\n5. Put the tuna into a blender or food processor.\n6. Add the lemon juice to taste , capers or wine vinegar , and mayonnaise and blend together until smooth and creamy.\n7. Add to the pasta and stir together until all the ingredients are evenly mixed.\n8. De-seed the pepper and then finely dice.\n9. Finely dice the cucumber without removing the skin.\n10. Add the pepper , cucumber and sweetcorn to the pasta and toss together.\n11. Spoon into a serving dish.\n12. Remove the shell from the hard-boiled eggs and cut into quarters.\n13. Arrange the wedges decoratively over the salad , then serve.",
+    "question": "must step 3 happen before step 9?",
+    "i": "3",
+    "j": "9",
+    "answer": "Yes."
+  }
+]

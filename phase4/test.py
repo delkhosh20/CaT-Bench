@@ -3,21 +3,35 @@ import json
 import re
 import google.generativeai as genai
 import time
+from datetime import datetime
 
 # 1. Configure Gemini
 genai.configure(api_key="AIzaSyD4TWYW506EJ7XgKw_OpWhOSKdWPs7POUQ")
-model = genai.GenerativeModel("gemini-1.5-pro-latest")
+model = genai.GenerativeModel("gemini-1.5-flash-8b")
+
+# 1.1 Read the daily requests number
+USAGE_FILE = "prompt_usage.json"
+PROMPT_LIMIT = 500
+
+# Load prompt usage data
+if os.path.exists(USAGE_FILE):
+    with open(USAGE_FILE, "r", encoding="utf-8") as f:
+        usage_data = json.load(f)
+    last_date = usage_data.get("date")
+    prompts_sent_today = usage_data.get("prompts_sent_today", 0)
+
+    # Check if it's a new day
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    if last_date != today_str:
+        prompts_sent_today = 0  # reset for the new day
+else:
+    prompts_sent_today = 0
+    today_str = datetime.now().strftime("%Y-%m-%d")
 
 # 2. Get filenames (without .txt)
-folder = "tested"
+folder = "permutations"
+files = [os.path.splitext(x)[0] for x in os.listdir("2.5-flash-preview-04-17") if x.endswith(".json")]
 
-#files = [os.path.splitext(x)[0] for x in os.listdir(folder) if x.endswith(".txt")]
-files = [
-    'Apple_Crumble_Pie_recipe__All_recipes_UK1',
-    'Best_crispy_roast_potatoes_recipe__All_recipes_UK1',
-    'Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK1',
-    'Blackberry_preserve_recipe__All_recipes_UK1'
-]
 
 # 3. Loop through each file
 for filename in files:
@@ -26,24 +40,16 @@ for filename in files:
 
     with open(txt_path, "r", encoding="utf-8") as f:
         content = f.read().strip()
-
-    # Extract the original recipe
-    original_match = re.search(r"======== Original Recipe ========\s*(.*?)\s*========", content, re.DOTALL)
-    if not original_match:
-        print(f"[SKIPPED] No original recipe found in {filename}")
-        continue
-
-    original_recipe = original_match.group(1).strip()
     
     # Find permutations (after the first "========")
     rest = content.split("========", 2)
-    if len(rest) < 3:
+    if len(rest) < 2:
         print(f"[SKIPPED] No permutations found in {filename}")
         continue
 
     # Split the rest into permutation blocks
-    permutation_blocks = rest[2].strip().split("========")
-
+    first_recipe_block = rest[1].strip()
+    permutation_blocks = [first_recipe_block]
     # Skip files that only have the original recipe
     if len(permutation_blocks) == 0:
         print(f"[SKIPPED] Only original recipe in {filename}")
@@ -55,7 +61,7 @@ for filename in files:
     # In this loop we are reading permutations of original recipe and use the model
     # to generate an answer based on a given prompt.
     # To avoid request limit error we are waiting 30s at the end of each loop.
-    for block in permutation_blocks[1:]: # This [1:] eliminates the first item in `permutation_blocks`, which is the original recipe
+    for block in permutation_blocks:
         lines = block.strip().split("\n")
         if len(lines) < 2:
             continue
@@ -89,51 +95,71 @@ Must Step {i} happen before Step {j}? Select between yes or no
         print(prompt)
 
         try:
+            prompts_sent_today += 1
+            
             # Give the prompt to model and extract an answer
             response = model.generate_content(prompt)
             answer = response.text.strip()
             
-            # Try to extract the JSON block
-            # The original response is like
-            #  ```json
-            # {
-            #   "binary_answer": "yes",
-            #   "why_answer": "You need to line the tin with baking parchment before arranging the apples in it."
-            # }
-            # ```
-            # But we need to remove "```json" and "```"
-            # match = re.search(r'\{.*\}', answer, re.DOTALL)
-            # json_str = match.group()
-            # print(json_str)
-            
-            # Try parsing the answer into JSON
-            # answer_json = json.loads(json_str)
-            # binary_answer = answer_json.get("binary_answer", "")
-            # why_answer = answer_json.get("why_answer", "")
         except Exception as e:
             print(e)
             answer = f"[ERROR] {str(e)}"
             # binary_answer = "[ERROR]"
             # why_answer = str(e)
-
-        results.append({
+            
+        tmp = {
             "goal": filename,
-            "original_recipe": original_recipe,
             "permuted_recipe": permuted_steps,
             "question": question_line,
             "i": i,
             "j": j,
             "answer": answer,
-        })
+        }
+            
+        json_path = os.path.join("orig-1.5-flash-8b", f"{filename}.json")
+
+        # If file exists, load the existing list; otherwise, start a new one
+        if os.path.exists(json_path):
+            with open(json_path, "r", encoding="utf-8") as f:
+                try:
+                    data = json.load(f)
+                    if not isinstance(data, list):
+                        data = []
+                except json.JSONDecodeError:
+                    data = []
+        else:
+            data = []
+
+        # Append the new item
+        data.append(tmp)
+
+        # Write the full list back to the file
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+            print(f"Saved: {filename}.json")
         
         # wait 30sec before next request
-        time.sleep(30)
+        time.sleep(10)
+        
+        # check the number of prompts
+        if prompts_sent_today >= PROMPT_LIMIT:
+            break
     
     # Save results
-    if results:
-        json_path = os.path.join(folder, f"pro.{filename}.json")
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(results, f, indent=2, ensure_ascii=False)
-        print(f"Saved: pro.{filename}.json")
-    else:
-        print(f"[SKIPPED] No valid permutations in {filename}")
+    # if results:
+    #     json_path = os.path.join(folder, f"pro.{filename}.json")
+    #     with open(json_path, "w", encoding="utf-8") as f:
+    #         json.dump(results, f, indent=2, ensure_ascii=False)
+    #     print(f"Saved: pro.{filename}.json")
+    # else:
+    #     print(f"[SKIPPED] No valid permutations in {filename}")
+
+# Save updated prompt count
+usage_data = {
+    "date": datetime.now().strftime("%Y-%m-%d"),
+    "prompts_sent_today": prompts_sent_today
+}
+
+with open(USAGE_FILE, "w", encoding="utf-8") as f:
+    json.dump(usage_data, f, indent=2)
+    print("Updated prompt usage log.")

@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Ultimate_sponge_cake_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 170 C / Gas 3.\n2. Sift together twice : flour , baking powder and salt.\n3. Pour back into sieve.\n4. In a large mixing bowl beat egg yolks and whole egg with an electric mixer until thick and lemon coloured ( about 5 minutes ).\n5. Gradually add sugar , beating after each addition.\n6. This should take about 10 minutes.\n7. Fold orange zest , orange juice and lemon extract into the egg mixture.\n8. Sift in dry ingredients and fold gently.\n9. Do not stir or beat.\n10. Add boiling water from the kettle and fold in quickly , just until liquid is blended.\n11. Pour cake mixture into an ungreased 25cm tube cake tin.\n12. Bake at 170 C / Gas 3 for 60 to 65 minutes.\n13. Turn cake over in tin on a wire rack and let cake hang for 1 hour or until cool.\n14. Loosen cake sides from tin with a spatula and shake loose.\n15. Dust top lightly with icine sugar or ice with Orange Buttercream Icing.",
+    "question": "must step 13 happen before step 14?",
+    "i": "13",
+    "j": "14",
+    "answer": "Yes, step 13 (turning and cooling the cake) must happen before step 14 (loosening and shaking the cake)."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n2. Preheat oven to 160 degrees C / gas mark 3.\n3. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n4. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 6?",
+    "i": "4",
+    "j": "6",
+    "answer": "Yes, Step 4 must happen before Step 6 because Step 4 uses half of the lemon slices, and Step 6 uses the remaining ones."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n2. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n3. Preheat oven to 160 degrees C / gas mark 3.\n4. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 6?",
+    "i": "4",
+    "j": "6",
+    "answer": "yes"
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n2. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. Preheat oven to 160 degrees C / gas mark 3.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 6?",
+    "i": "3",
+    "j": "6",
+    "answer": "Yes, Step 3 must happen before Step 6 because you need to use half the lemon slices in Step 3 before laying the remaining slices in Step 6."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n2. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n5. Preheat oven to 160 degrees C / gas mark 3.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 6?",
+    "i": "3",
+    "j": "6",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n2. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n5. Lay the remaining lemon slices over the breast.\n6. Preheat oven to 160 degrees C / gas mark 3.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n2. Preheat oven to 160 degrees C / gas mark 3.\n3. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n4. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 6?",
+    "i": "4",
+    "j": "6",
+    "answer": "Yes, Step 4 must happen before Step 6 because Step 4 prepares the chicken and places it on the paper, making it ready for the remaining lemon slices to be laid over the breast in Step 6."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n3. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n4. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 6?",
+    "i": "4",
+    "j": "6",
+    "answer": "Yes, Step 4 must happen before Step 6."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 6?",
+    "i": "3",
+    "j": "6",
+    "answer": "Yes, Step 3 must happen before Step 6 because Step 6 uses the *remaining* lemon slices after half have been used in Step 3."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n5. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 6?",
+    "i": "3",
+    "j": "6",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n5. Lay the remaining lemon slices over the breast.\n6. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes, Step 3 must happen before Step 5 as Step 3 uses the first half of the lemon slices for stuffing before the remaining slices can be used in Step 5."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n2. Preheat oven to 160 degrees C / gas mark 3.\n3. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n4. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 6?",
+    "i": "4",
+    "j": "6",
+    "answer": "Yes, Step 4 must happen before Step 6 because Step 6 uses the remaining lemon slices after Step 4 uses half of them."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n3. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n4. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 6?",
+    "i": "4",
+    "j": "6",
+    "answer": "Yes, Step 4 must happen before Step 6."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 6?",
+    "i": "3",
+    "j": "6",
+    "answer": "Yes, Step 3 must happen before Step 6 because Step 3 uses half of the lemon slices, and Step 6 uses the remaining lemon slices."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n5. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 6?",
+    "i": "3",
+    "j": "6",
+    "answer": "Yes, Step 3 must happen before Step 6 as Step 3 uses only half of the lemon slices, leaving the remaining for Step 6."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n5. Lay the remaining lemon slices over the breast.\n6. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "Yes, Step 3 must happen before Step 5 because Step 5 uses the \"remaining\" lemon slices after half were used in Step 3."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n2. Preheat oven to 160 degrees C / gas mark 3.\n3. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 1 happen before step 6?",
+    "i": "1",
+    "j": "6",
+    "answer": "Yes, Step 1 must happen before Step 6 so that there are \"remaining\" lemon slices available for Step 6 after half were used in Step 1."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n3. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 2 happen before step 6?",
+    "i": "2",
+    "j": "6",
+    "answer": "Yes, Step 2 must happen before Step 6 as you use half of the lemon slices in Step 2 and the remaining slices in Step 6."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 6?",
+    "i": "3",
+    "j": "6",
+    "answer": "Yes"
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n4. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n5. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 5 happen before step 6?",
+    "i": "5",
+    "j": "6",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n4. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n5. Lay the remaining lemon slices over the breast.\n6. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 5 happen before step 6?",
+    "i": "5",
+    "j": "6",
+    "answer": "No, Step 6 must happen before Step 5 because Step 6 uses half the lemon slices for stuffing, and Step 5 uses the remaining lemon slices."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n2. Preheat oven to 160 degrees C / gas mark 3.\n3. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 5 happen before step 6?",
+    "i": "5",
+    "j": "6",
+    "answer": "Yes, Step 5 must happen before Step 6 because Step 6 uses the \"remaining\" lemon slices, implying some were already used in Step 5."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n3. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 5 happen before step 6?",
+    "i": "5",
+    "j": "6",
+    "answer": "Yes, Step 5 must happen before Step 6."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 5 happen before step 6?",
+    "i": "5",
+    "j": "6",
+    "answer": "Yes, Step 5 must happen before Step 6 as you need to stuff the chicken with half the lemon slices before laying the remaining ones over the breast."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n4. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n5. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n6. Lay the remaining lemon slices over the breast.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 5 happen before step 6?",
+    "i": "5",
+    "j": "6",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n4. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n5. Lay the remaining lemon slices over the breast.\n6. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes, Step 4 must happen before Step 5 because Step 5 uses the remaining lemon slices after half are used in Step 4."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Lay the remaining lemon slices over the breast.\n2. Preheat oven to 160 degrees C / gas mark 3.\n3. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n6. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 1 happen before step 5?",
+    "i": "1",
+    "j": "5",
+    "answer": "No."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Lay the remaining lemon slices over the breast.\n3. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n6. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 2 happen before step 5?",
+    "i": "2",
+    "j": "5",
+    "answer": "No, Step 2 must happen after Step 5 because Step 5 uses half the lemon slices and Step 2 uses the remaining ones."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. Lay the remaining lemon slices over the breast.\n4. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n5. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n6. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "No."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n4. Lay the remaining lemon slices over the breast.\n5. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n6. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "No, Step 4 must happen after Step 5 because Step 5 prepares the chicken by stuffing it with *half* the lemon slices, allowing Step 4 to use the *remaining* slices."
+  },
+  {
+    "goal": "Moist_garlic_roasted_chicken_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 160 degrees C / gas mark 3.\n2. Place a large sheet of greaseproof or baking parchment into the middle of a roasting tray.\n3. It should be large enough to wrap around the chicken plus plenty of extra for folding over.\n4. Season the chicken with salt and pepper , stuff with half of the lemon slices and place breast side up in the middle of the paper.\n5. Lay the remaining lemon slices over the breast.\n6. Sprinkle garlic slices and thyme sprigs evenly over the chicken.\n7. Fold the paper over the chicken forming a loose parcel.\n8. Bake in the preheated oven until the chicken has cooked , about 1 1/2 to 2 hours or until the juices are no longer pink.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes, Step 4 must happen before Step 5."
+  }
+]

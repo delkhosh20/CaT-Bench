@@ -1,0 +1,50 @@
+[
+  {
+    "goal": "Masoor_dhal_curry_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the lentils in a pot with water to cover , and simmer covered until lentils are tender ( add more water if necessary ).\n2. Wash the lentils in cold water until the water runs clear ( this is very important or the lentils will lose texture ).\n3. While the lentils are cooking : In a large frying pan or saucepan , caramelise the onion in vegetable oil.\n4. While the onions are cooking , combine the curry paste , curry powder , turmeric , cumin , chilli powder , salt , sugar , garlic and ginger in a mixing bowl.\n5. Mix well.\n6. When the onions are cooked , add the curry mixture to the onions and cook over a high heat stirring constantly for 1 to 2 minutes.\n7. Stir in the passata and reduce heat , allow the curry base to simmer until the lentils are ready.\n8. When the lentils are tender , drain them briefly ( they should have absorbed most of the water but you do n't want the curry to be too wet ).\n9. Mix the curry base into the lentils and serve immediately.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "answer": "Yes, Step 2 (washing the lentils) must happen before Step 3 (caramelizing the onions)."
+  },
+  {
+    "goal": "Masoor_dhal_curry_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the lentils in a pot with water to cover , and simmer covered until lentils are tender ( add more water if necessary ).\n2. While the lentils are cooking : In a large frying pan or saucepan , caramelise the onion in vegetable oil.\n3. Wash the lentils in cold water until the water runs clear ( this is very important or the lentils will lose texture ).\n4. While the onions are cooking , combine the curry paste , curry powder , turmeric , cumin , chilli powder , salt , sugar , garlic and ginger in a mixing bowl.\n5. Mix well.\n6. When the onions are cooked , add the curry mixture to the onions and cook over a high heat stirring constantly for 1 to 2 minutes.\n7. Stir in the passata and reduce heat , allow the curry base to simmer until the lentils are ready.\n8. When the lentils are tender , drain them briefly ( they should have absorbed most of the water but you do n't want the curry to be too wet ).\n9. Mix the curry base into the lentils and serve immediately.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "answer": "Yes, caramelizing the onion in step 2 must happen before washing the lentils in step 3."
+  },
+  {
+    "goal": "Masoor_dhal_curry_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Put the lentils in a pot with water to cover , and simmer covered until lentils are tender ( add more water if necessary ).\n2. Wash the lentils in cold water until the water runs clear ( this is very important or the lentils will lose texture ).\n3. While the lentils are cooking : In a large frying pan or saucepan , caramelise the onion in vegetable oil.\n4. While the onions are cooking , combine the curry paste , curry powder , turmeric , cumin , chilli powder , salt , sugar , garlic and ginger in a mixing bowl.\n5. Mix well.\n6. When the onions are cooked , add the curry mixture to the onions and cook over a high heat stirring constantly for 1 to 2 minutes.\n7. Stir in the passata and reduce heat , allow the curry base to simmer until the lentils are ready.\n8. When the lentils are tender , drain them briefly ( they should have absorbed most of the water but you do n't want the curry to be too wet ).\n9. Mix the curry base into the lentils and serve immediately.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "answer": "Yes, Step 2 (washing the lentils) must happen before Step 3 (caramelizing the onions)."
+  },
+  {
+    "goal": "Masoor_dhal_curry_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Wash the lentils in cold water until the water runs clear ( this is very important or the lentils will lose texture ).\n2. While the lentils are cooking : In a large frying pan or saucepan , caramelise the onion in vegetable oil.\n3. Put the lentils in a pot with water to cover , and simmer covered until lentils are tender ( add more water if necessary ).\n4. While the onions are cooking , combine the curry paste , curry powder , turmeric , cumin , chilli powder , salt , sugar , garlic and ginger in a mixing bowl.\n5. Mix well.\n6. When the onions are cooked , add the curry mixture to the onions and cook over a high heat stirring constantly for 1 to 2 minutes.\n7. Stir in the passata and reduce heat , allow the curry base to simmer until the lentils are ready.\n8. When the lentils are tender , drain them briefly ( they should have absorbed most of the water but you do n't want the curry to be too wet ).\n9. Mix the curry base into the lentils and serve immediately.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes, washing the lentils must occur before caramelizing the onion."
+  },
+  {
+    "goal": "Masoor_dhal_curry_recipe__All_recipes_UK",
+    "permuted_recipe": "1. While the lentils are cooking : In a large frying pan or saucepan , caramelise the onion in vegetable oil.\n2. Wash the lentils in cold water until the water runs clear ( this is very important or the lentils will lose texture ).\n3. Put the lentils in a pot with water to cover , and simmer covered until lentils are tender ( add more water if necessary ).\n4. While the onions are cooking , combine the curry paste , curry powder , turmeric , cumin , chilli powder , salt , sugar , garlic and ginger in a mixing bowl.\n5. Mix well.\n6. When the onions are cooked , add the curry mixture to the onions and cook over a high heat stirring constantly for 1 to 2 minutes.\n7. Stir in the passata and reduce heat , allow the curry base to simmer until the lentils are ready.\n8. When the lentils are tender , drain them briefly ( they should have absorbed most of the water but you do n't want the curry to be too wet ).\n9. Mix the curry base into the lentils and serve immediately.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes, caramelizing the onion in Step 1 must happen before washing the lentils in Step 2."
+  },
+  {
+    "goal": "Masoor_dhal_curry_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Wash the lentils in cold water until the water runs clear ( this is very important or the lentils will lose texture ).\n2. While the lentils are cooking : In a large frying pan or saucepan , caramelise the onion in vegetable oil.\n3. Put the lentils in a pot with water to cover , and simmer covered until lentils are tender ( add more water if necessary ).\n4. While the onions are cooking , combine the curry paste , curry powder , turmeric , cumin , chilli powder , salt , sugar , garlic and ginger in a mixing bowl.\n5. Mix well.\n6. When the onions are cooked , add the curry mixture to the onions and cook over a high heat stirring constantly for 1 to 2 minutes.\n7. Stir in the passata and reduce heat , allow the curry base to simmer until the lentils are ready.\n8. When the lentils are tender , drain them briefly ( they should have absorbed most of the water but you do n't want the curry to be too wet ).\n9. Mix the curry base into the lentils and serve immediately.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes, washing the lentils must occur before caramelizing the onion."
+  }
+]

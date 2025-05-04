@@ -1,0 +1,50 @@
+[
+  {
+    "goal": "Lemon_drizzle_loaf_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Line a large loaf tin with a liner.\n2. Preheat the oven to 180 C / Gas 4.\n3. Alternatively you can grease with unsalted butter and line with baking paper , but a liner will produce far better results.\n4. Sift the flour , baking powder , sugar and cornflour into a large mixing bowl and beat with an electric hand whisk until evenly mixed.\n5. Add the butter , eggs , lemon zest and the 3 1/2 tablespoons lemon juice.\n6. Whisk again until fully combined and smooth.\n7. Pour the mixture into the pre-lined load tin and level the top with a spatula or the back of a spoon.\n8. Make the drizzle by stirring the caster sugar and the 5 tablespoons lemon juice together in a jug.\n9. Prick the surface of the cooled loaf all over with a fork.\n10. Pour the drizzle over the loaf and allow for it to set ( once set , the drizzle will be hard ) before removing the loaf from the tin and serving.\n11. Enjoy ! : )",
+    "question": "must step 1 happen before step 9?",
+    "i": "1",
+    "j": "9",
+    "answer": "Yes, Step 1 must happen before Step 9."
+  },
+  {
+    "goal": "Lemon_drizzle_loaf_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Line a large loaf tin with a liner.\n2. Alternatively you can grease with unsalted butter and line with baking paper , but a liner will produce far better results.\n3. Preheat the oven to 180 C / Gas 4.\n4. Sift the flour , baking powder , sugar and cornflour into a large mixing bowl and beat with an electric hand whisk until evenly mixed.\n5. Add the butter , eggs , lemon zest and the 3 1/2 tablespoons lemon juice.\n6. Whisk again until fully combined and smooth.\n7. Pour the mixture into the pre-lined load tin and level the top with a spatula or the back of a spoon.\n8. Make the drizzle by stirring the caster sugar and the 5 tablespoons lemon juice together in a jug.\n9. Prick the surface of the cooled loaf all over with a fork.\n10. Pour the drizzle over the loaf and allow for it to set ( once set , the drizzle will be hard ) before removing the loaf from the tin and serving.\n11. Enjoy ! : )",
+    "question": "must step 1 happen before step 9?",
+    "i": "1",
+    "j": "9",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Lemon_drizzle_loaf_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Line a large loaf tin with a liner.\n2. Preheat the oven to 180 C / Gas 4.\n3. Alternatively you can grease with unsalted butter and line with baking paper , but a liner will produce far better results.\n4. Sift the flour , baking powder , sugar and cornflour into a large mixing bowl and beat with an electric hand whisk until evenly mixed.\n5. Add the butter , eggs , lemon zest and the 3 1/2 tablespoons lemon juice.\n6. Whisk again until fully combined and smooth.\n7. Pour the mixture into the pre-lined load tin and level the top with a spatula or the back of a spoon.\n8. Make the drizzle by stirring the caster sugar and the 5 tablespoons lemon juice together in a jug.\n9. Prick the surface of the cooled loaf all over with a fork.\n10. Pour the drizzle over the loaf and allow for it to set ( once set , the drizzle will be hard ) before removing the loaf from the tin and serving.\n11. Enjoy ! : )",
+    "question": "must step 1 happen before step 9?",
+    "i": "1",
+    "j": "9",
+    "answer": "Yes, Step 1 must happen before Step 9."
+  },
+  {
+    "goal": "Lemon_drizzle_loaf_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat the oven to 180 C / Gas 4.\n2. Alternatively you can grease with unsalted butter and line with baking paper , but a liner will produce far better results.\n3. Line a large loaf tin with a liner.\n4. Sift the flour , baking powder , sugar and cornflour into a large mixing bowl and beat with an electric hand whisk until evenly mixed.\n5. Add the butter , eggs , lemon zest and the 3 1/2 tablespoons lemon juice.\n6. Whisk again until fully combined and smooth.\n7. Pour the mixture into the pre-lined load tin and level the top with a spatula or the back of a spoon.\n8. Make the drizzle by stirring the caster sugar and the 5 tablespoons lemon juice together in a jug.\n9. Prick the surface of the cooled loaf all over with a fork.\n10. Pour the drizzle over the loaf and allow for it to set ( once set , the drizzle will be hard ) before removing the loaf from the tin and serving.\n11. Enjoy ! : )",
+    "question": "must step 3 happen before step 9?",
+    "i": "3",
+    "j": "9",
+    "answer": "Yes, Step 3 must happen before Step 9 as you need to line the tin before baking the loaf which is then cooled and pricked."
+  },
+  {
+    "goal": "Lemon_drizzle_loaf_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Alternatively you can grease with unsalted butter and line with baking paper , but a liner will produce far better results.\n2. Preheat the oven to 180 C / Gas 4.\n3. Line a large loaf tin with a liner.\n4. Sift the flour , baking powder , sugar and cornflour into a large mixing bowl and beat with an electric hand whisk until evenly mixed.\n5. Add the butter , eggs , lemon zest and the 3 1/2 tablespoons lemon juice.\n6. Whisk again until fully combined and smooth.\n7. Pour the mixture into the pre-lined load tin and level the top with a spatula or the back of a spoon.\n8. Make the drizzle by stirring the caster sugar and the 5 tablespoons lemon juice together in a jug.\n9. Prick the surface of the cooled loaf all over with a fork.\n10. Pour the drizzle over the loaf and allow for it to set ( once set , the drizzle will be hard ) before removing the loaf from the tin and serving.\n11. Enjoy ! : )",
+    "question": "must step 3 happen before step 9?",
+    "i": "3",
+    "j": "9",
+    "answer": "Yes, Step 3 must happen before Step 9 as the loaf needs to be baked in the lined tin before it can be cooled and pricked."
+  },
+  {
+    "goal": "Lemon_drizzle_loaf_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat the oven to 180 C / Gas 4.\n2. Alternatively you can grease with unsalted butter and line with baking paper , but a liner will produce far better results.\n3. Line a large loaf tin with a liner.\n4. Sift the flour , baking powder , sugar and cornflour into a large mixing bowl and beat with an electric hand whisk until evenly mixed.\n5. Add the butter , eggs , lemon zest and the 3 1/2 tablespoons lemon juice.\n6. Whisk again until fully combined and smooth.\n7. Pour the mixture into the pre-lined load tin and level the top with a spatula or the back of a spoon.\n8. Make the drizzle by stirring the caster sugar and the 5 tablespoons lemon juice together in a jug.\n9. Prick the surface of the cooled loaf all over with a fork.\n10. Pour the drizzle over the loaf and allow for it to set ( once set , the drizzle will be hard ) before removing the loaf from the tin and serving.\n11. Enjoy ! : )",
+    "question": "must step 3 happen before step 9?",
+    "i": "3",
+    "j": "9",
+    "answer": "Yes, Step 3 must happen before Step 9."
+  }
+]

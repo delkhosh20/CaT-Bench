@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Peanut_chicken_satay_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce.\n2. Place the chicken in the marinade and refrigerate.\n3. Let the chicken marinate at least 2 hours ; overnight is best.\n4. Preheat barbecue to high heat.\n5. Thread the chicken onto bamboo skewers , then cook for 5 minutes per side.",
+    "question": "must step 4 happen before step 5?",
+    "i": "4",
+    "j": "5",
+    "answer": "Yes."
+  }
+]

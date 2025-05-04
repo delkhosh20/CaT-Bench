@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Katherines_chocolate_truffles_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Melt the chocolate flavour cake covering , either in the microwave or by placing in a bowl over a saucepan of simmering water.\n2. Be careful not to over-cook this or crystals will begin to form.\n3. Add the crumbs and flavourings to the melted cake covering and mix thoroughly.\n4. Leave to cool slightly.\n5. Shape the mixture into small balls.\n6. Sprinkle the coverings of your choice onto saucers and roll the balls in the coverings.\n7. If you want to drizzle with melted cake covering , melt as per the truffles.\n8. Place the uncovered truffles onto a wire rack and dip a teaspoon into the meted cake covering and drizzle over the truffles ( this could also be done using a piping bag ).\n9. Chill for 30 minutes and store in an airtight container.",
+    "question": "must step 2 happen before step 5?",
+    "i": "2",
+    "j": "5",
+    "answer": "Yes."
+  }
+]

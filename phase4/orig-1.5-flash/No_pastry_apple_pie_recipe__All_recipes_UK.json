@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "No_pastry_apple_pie_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 180 C / Gas 4.\n2. Lightly grease a 23cm pie dish with margarine.\n3. Fill 2/3 of the dish with sliced apples.\n4. Sprinkle with cinnamon and 1 teaspoon sugar.\n5. In a medium bowl , mix 200g sugar with the melted margarine.\n6. Stir in pecans , flour , egg and salt.\n7. Mix well.\n8. Spread mixture over the apples.\n9. Bake in preheated oven for 65 minutes , or until golden brown.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes."
+  }
+]

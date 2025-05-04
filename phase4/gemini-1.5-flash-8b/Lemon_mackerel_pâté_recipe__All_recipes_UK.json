@@ -1,0 +1,242 @@
+[
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. This will make a coarse-textured pÃ¢tÃ©.\n4. Mash all the ingredients together with a fork.\n5. For a smooth version , combine the ingredients in a food processor and process.\n6. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 4 happen before step 8?",
+    "i": "4",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. This will make a coarse-textured pÃ¢tÃ©.\n4. For a smooth version , combine the ingredients in a food processor and process.\n5. Mash all the ingredients together with a fork.\n6. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 5 happen before step 8?",
+    "i": "5",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. This will make a coarse-textured pÃ¢tÃ©.\n4. For a smooth version , combine the ingredients in a food processor and process.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. Mash all the ingredients together with a fork.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 6 happen before step 8?",
+    "i": "6",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. This will make a coarse-textured pÃ¢tÃ©.\n4. For a smooth version , combine the ingredients in a food processor and process.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n7. Mash all the ingredients together with a fork.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 7 happen before step 8?",
+    "i": "7",
+    "j": "8",
+    "answer": "Yes, Step 7 (mashing ingredients) must occur before Step 8 (topping with parsley)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. This will make a coarse-textured pÃ¢tÃ©.\n4. For a smooth version , combine the ingredients in a food processor and process.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n7. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n8. Mash all the ingredients together with a fork.",
+    "question": "must step 7 happen before step 8?",
+    "i": "7",
+    "j": "8",
+    "answer": "No, step 7 (topping with parsley) should happen *just before* serving, while step 8 (mashing) is an earlier step in the process."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. This will make a coarse-textured pÃ¢tÃ©.\n4. Mash all the ingredients together with a fork.\n5. For a smooth version , combine the ingredients in a food processor and process.\n6. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 4 happen before step 8?",
+    "i": "4",
+    "j": "8",
+    "answer": "Yes, mashing the ingredients (Step 4) must occur before spooning the pâté into ramekins (Step 7)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. For a smooth version , combine the ingredients in a food processor and process.\n5. This will make a coarse-textured pÃ¢tÃ©.\n6. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No, step 3 (mashing) must happen before step 8 (spoon the pâté), but step 8 happens *after* step 7 (chilling)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. For a smooth version , combine the ingredients in a food processor and process.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. This will make a coarse-textured pÃ¢tÃ©.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. For a smooth version , combine the ingredients in a food processor and process.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n7. This will make a coarse-textured pÃ¢tÃ©.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. For a smooth version , combine the ingredients in a food processor and process.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n7. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n8. This will make a coarse-textured pÃ¢tÃ©.",
+    "question": "must step 3 happen before step 7?",
+    "i": "3",
+    "j": "7",
+    "answer": "Yes, mashing the ingredients together (step 3) must happen before topping the pâté with parsley (step 7)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. For a smooth version , combine the ingredients in a food processor and process.\n4. Mash all the ingredients together with a fork.\n5. This will make a coarse-textured pÃ¢tÃ©.\n6. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 4 happen before step 8?",
+    "i": "4",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. For a smooth version , combine the ingredients in a food processor and process.\n5. This will make a coarse-textured pÃ¢tÃ©.\n6. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "Yes, mashing the ingredients in step 3 is a step that must happen before covering and chilling in step 8."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No, Step 3 (mashing ingredients) must happen before Step 8 (placing pâté in ramekins)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n7. For a smooth version , combine the ingredients in a food processor and process.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No, Step 3 (mashing ingredients) precedes Step 8 (topping with parsley)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n7. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n8. For a smooth version , combine the ingredients in a food processor and process.",
+    "question": "must step 3 happen before step 7?",
+    "i": "3",
+    "j": "7",
+    "answer": "Yes, mashing the ingredients together (step 3) must happen before topping the pâté with parsley (step 7)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n4. Mash all the ingredients together with a fork.\n5. This will make a coarse-textured pÃ¢tÃ©.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 4 happen before step 8?",
+    "i": "4",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n5. This will make a coarse-textured pÃ¢tÃ©.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No, step 3 (mashing ingredients) happens before step 8 (placing pâté in ramekins)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "Yes, mashing the ingredients in step 3 is required before spooning the pâté into ramekins in step 8."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. For a smooth version , combine the ingredients in a food processor and process.\n6. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n7. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. For a smooth version , combine the ingredients in a food processor and process.\n6. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n7. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n8. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.",
+    "question": "must step 3 happen before step 7?",
+    "i": "3",
+    "j": "7",
+    "answer": "Yes, mashing the ingredients (step 3) must occur before topping with parsley (step 7)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n4. Mash all the ingredients together with a fork.\n5. This will make a coarse-textured pÃ¢tÃ©.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 4 happen before step 8?",
+    "i": "4",
+    "j": "8",
+    "answer": "No, step 4 (mashing ingredients) comes before step 7 (tasting and adding lemon juice), which comes before step 8 (adding parsley)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n5. This will make a coarse-textured pÃ¢tÃ©.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No, Step 3 (mashing ingredients) must happen before Step 8 (tasting and adding more lemon juice)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. For a smooth version , combine the ingredients in a food processor and process.\n6. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n7. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "No, Step 3 (mashing the ingredients) happens before Step 7 (tasting and adding more lemon juice)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. For a smooth version , combine the ingredients in a food processor and process.\n6. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n7. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n8. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.",
+    "question": "must step 3 happen before step 7?",
+    "i": "3",
+    "j": "7",
+    "answer": "No, Step 3 (mashing ingredients) happens before Step 7 (topping with parsley)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n4. Mash all the ingredients together with a fork.\n5. This will make a coarse-textured pÃ¢tÃ©.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n8. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n5. This will make a coarse-textured pÃ¢tÃ©.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n8. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.",
+    "question": "must step 3 happen before step 4?",
+    "i": "3",
+    "j": "4",
+    "answer": "Yes, mashing the ingredients together (step 3) must occur before adding the parsley sprig (step 4)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n6. For a smooth version , combine the ingredients in a food processor and process.\n7. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n8. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.",
+    "question": "must step 3 happen before step 5?",
+    "i": "3",
+    "j": "5",
+    "answer": "No."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. For a smooth version , combine the ingredients in a food processor and process.\n6. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n7. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n8. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.",
+    "question": "must step 3 happen before step 6?",
+    "i": "3",
+    "j": "6",
+    "answer": "No, Step 3 (mashing ingredients) happens before Step 6 (garnish and serve)."
+  },
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. For a smooth version , combine the ingredients in a food processor and process.\n6. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n7. Just before serving , top each with a sprig of parsley and serve with lemon wedges.\n8. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.",
+    "question": "must step 3 happen before step 7?",
+    "i": "3",
+    "j": "7",
+    "answer": "Yes, mashing the ingredients (step 3) must occur before topping with parsley (step 7)."
+  }
+]

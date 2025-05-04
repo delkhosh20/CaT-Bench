@@ -1,0 +1,18 @@
+[
+  {
+    "goal": "Homemade_pizza_base_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Add ingredients in the order suggested by your manufacturer.\n2. Set for dough setting and start machine.\n3. When the unit signals , remove dough.\n4. Pat dough into a greased 30cm ( 12 in ) round pizza pan.\n5. Let stand 10 minutes.\n6. Spread pizza sauce over dough.\n7. Preheat oven to 200 C / Gas mark 6.\n8. Sprinkle toppings over sauce ( such as basil and mozzarella for a simple margherita pizza ).\n9. Bake 15 to 20 minutes , or until crust is golden brown.",
+    "question": "must step 6 happen before step 7?",
+    "i": "6",
+    "j": "7",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Homemade_pizza_base_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Add ingredients in the order suggested by your manufacturer.\n2. Set for dough setting and start machine.\n3. When the unit signals , remove dough.\n4. Pat dough into a greased 30cm ( 12 in ) round pizza pan.\n5. Let stand 10 minutes.\n6. Spread pizza sauce over dough.\n7. Preheat oven to 200 C / Gas mark 6.\n8. Sprinkle toppings over sauce ( such as basil and mozzarella for a simple margherita pizza ).\n9. Bake 15 to 20 minutes , or until crust is golden brown.",
+    "question": "must step 6 happen before step 7?",
+    "i": "6",
+    "j": "7",
+    "answer": "Yes, according to the numbered steps in the procedure, Step 6 happens before Step 7."
+  }
+]

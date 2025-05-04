@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Sweet_and_Spicy_Pork_Stir_Fry_with_Chinese_Noodles_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Fill a large pot with lightly salted water and bring to a rolling boil over high heat.\n2. Once the water is boiling , stir in the Chinese noodles , and return to the boil.\n3. Cook the noodles uncovered , stirring occasionally , until cooked through , but still firm to the bite , about 5 minutes.\n4. Drain well.\n5. Whisk together the 3 tablespoons soy sauce , 180ml sweet chilli sauce , 1/2 teaspoon garlic granules , the ground ginger and the sesame oil in a large bowl ; add the noodles and toss to coat ; set aside.\n6. Whisk together the 120ml soy sauce and 1/2 teaspoon garlic granules in a large bowl ; add the pork and stir to coat.\n7. Allow to marinate for 5 minutes.\n8. Heat the cooking oil in a wok or a large , deep frying pan over medium-high heat.\n9. Add the pork , onions , and crushed chilli flakes to the oil ; cook until the pork is browned completely.\n10. Stir in 3 tablespoons sweet chilli sauce , cabbage , celery , carrots and peppers ; cook and stir until vegetables are completely heated , about 5 minutes.\n11. Whisk together the cornflour and water and add to the stir fry , stirring until the mixture thickens.\n12. Serve the stir-fry over the noodles.",
+    "question": "must step 5 happen before step 12?",
+    "i": "5",
+    "j": "12",
+    "answer": "Yes."
+  }
+]

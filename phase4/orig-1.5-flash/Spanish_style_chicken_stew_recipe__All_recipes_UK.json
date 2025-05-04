@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Spanish_style_chicken_stew_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Heat olive oil in a large saucepan over medium-high heat.\n2. Stir in onions and garlic , cook until the onion has softened and turned translucent.\n3. Pour in tomatoes , chickpeas and water ; season with paprika , chilli flakes , salt , and pepper.\n4. Stir in carrots and potatoes , then place chicken thighs skin-side up on top of the vegetables.\n5. Bring to a boil over high heat , then reduce heat to medium , cover and simmer until the chicken is tender , about 25 minutes.\n6. Preheat oven to 200 degrees C / gas mark 6.\n7. Remove chicken from the stew and set aside.\n8. Stir in the chorizo slices , then pour the stew into a baking dish.\n9. Place the chicken thighs on top , skin-side up.\n10. Bake in preheated oven until the stew has thickened and the chicken skin is crispy , about 15 minutes.",
+    "question": "must step 6 happen before step 7?",
+    "i": "6",
+    "j": "7",
+    "answer": "Yes."
+  }
+]

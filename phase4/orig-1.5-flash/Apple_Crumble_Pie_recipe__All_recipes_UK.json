@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Apple_Crumble_Pie_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat oven to 200 C / Gas 6.\n2. Arrange apple slices in unbaked pastry case.\n3. Mix 100g sugar and cinnamon ; sprinkle over apples.\n4. Mix 5 tbsp sugar with flour ; rub in butter until crumbly.\n5. Spoon mixture over apples.\n6. Bake in preheated oven for 35 to 40 minutes , or until apples are soft and top is lightly browned.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "answer": "Yes."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "goal": "Garlic_roast_potatoes_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Meanwhile preheat the oven to 240 degrees C / Gas 9.\n2. Par-boil the potatoes by adding boiling water , covering them and boiling for 5 minutes.\n3. Drain the potatoes and dry on some kitchen paper to remove excess water.\n4. Place the potatoes and peeled garlic cloves in a roasting tin or ovenproof dish.\n5. Add olive oil or melted goose fat and toss the diced potatoes around to coat.\n6. Sprinkle over the rosemary and season with salt and pepper.\n7. Roast in hot oven for 20 minutes or until golden and crispy",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "No, Step 1 does not strictly need to happen before Step 2."
+  },
+  {
+    "goal": "Garlic_roast_potatoes_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Meanwhile preheat the oven to 240 degrees C / Gas 9.\n2. Drain the potatoes and dry on some kitchen paper to remove excess water.\n3. Par-boil the potatoes by adding boiling water , covering them and boiling for 5 minutes.\n4. Place the potatoes and peeled garlic cloves in a roasting tin or ovenproof dish.\n5. Add olive oil or melted goose fat and toss the diced potatoes around to coat.\n6. Sprinkle over the rosemary and season with salt and pepper.\n7. Roast in hot oven for 20 minutes or until golden and crispy",
+    "question": "must step 1 happen before step 3?",
+    "i": "1",
+    "j": "3",
+    "answer": "yes"
+  },
+  {
+    "goal": "Garlic_roast_potatoes_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Meanwhile preheat the oven to 240 degrees C / Gas 9.\n2. Par-boil the potatoes by adding boiling water , covering them and boiling for 5 minutes.\n3. Drain the potatoes and dry on some kitchen paper to remove excess water.\n4. Place the potatoes and peeled garlic cloves in a roasting tin or ovenproof dish.\n5. Add olive oil or melted goose fat and toss the diced potatoes around to coat.\n6. Sprinkle over the rosemary and season with salt and pepper.\n7. Roast in hot oven for 20 minutes or until golden and crispy",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "no"
+  },
+  {
+    "goal": "Garlic_roast_potatoes_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Par-boil the potatoes by adding boiling water , covering them and boiling for 5 minutes.\n2. Drain the potatoes and dry on some kitchen paper to remove excess water.\n3. Meanwhile preheat the oven to 240 degrees C / Gas 9.\n4. Place the potatoes and peeled garlic cloves in a roasting tin or ovenproof dish.\n5. Add olive oil or melted goose fat and toss the diced potatoes around to coat.\n6. Sprinkle over the rosemary and season with salt and pepper.\n7. Roast in hot oven for 20 minutes or until golden and crispy",
+    "question": "must step 1 happen before step 3?",
+    "i": "1",
+    "j": "3",
+    "answer": "no"
+  },
+  {
+    "goal": "Garlic_roast_potatoes_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Drain the potatoes and dry on some kitchen paper to remove excess water.\n2. Par-boil the potatoes by adding boiling water , covering them and boiling for 5 minutes.\n3. Meanwhile preheat the oven to 240 degrees C / Gas 9.\n4. Place the potatoes and peeled garlic cloves in a roasting tin or ovenproof dish.\n5. Add olive oil or melted goose fat and toss the diced potatoes around to coat.\n6. Sprinkle over the rosemary and season with salt and pepper.\n7. Roast in hot oven for 20 minutes or until golden and crispy",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "answer": "no"
+  },
+  {
+    "goal": "Garlic_roast_potatoes_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Par-boil the potatoes by adding boiling water , covering them and boiling for 5 minutes.\n2. Drain the potatoes and dry on some kitchen paper to remove excess water.\n3. Meanwhile preheat the oven to 240 degrees C / Gas 9.\n4. Place the potatoes and peeled garlic cloves in a roasting tin or ovenproof dish.\n5. Add olive oil or melted goose fat and toss the diced potatoes around to coat.\n6. Sprinkle over the rosemary and season with salt and pepper.\n7. Roast in hot oven for 20 minutes or until golden and crispy",
+    "question": "must step 1 happen before step 3?",
+    "i": "1",
+    "j": "3",
+    "answer": "Yes"
+  }
+]

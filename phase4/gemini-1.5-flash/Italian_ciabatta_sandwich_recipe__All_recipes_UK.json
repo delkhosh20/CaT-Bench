@@ -1,0 +1,50 @@
+[
+  {
+    "goal": "Italian_ciabatta_sandwich_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Drizzle olive oil on both cut sides.\n2. Slice bread in half lengthways.\n3. Sprinkle both sides with Parmesan cheese , basil and oregano.\n4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.\n5. Cover with top layer , and cut into 4 servings.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Italian_ciabatta_sandwich_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Drizzle olive oil on both cut sides.\n2. Sprinkle both sides with Parmesan cheese , basil and oregano.\n3. Slice bread in half lengthways.\n4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.\n5. Cover with top layer , and cut into 4 servings.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Italian_ciabatta_sandwich_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Drizzle olive oil on both cut sides.\n2. Slice bread in half lengthways.\n3. Sprinkle both sides with Parmesan cheese , basil and oregano.\n4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.\n5. Cover with top layer , and cut into 4 servings.",
+    "question": "must step 2 happen before step 3?",
+    "i": "2",
+    "j": "3",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Italian_ciabatta_sandwich_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Slice bread in half lengthways.\n2. Sprinkle both sides with Parmesan cheese , basil and oregano.\n3. Drizzle olive oil on both cut sides.\n4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.\n5. Cover with top layer , and cut into 4 servings.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Italian_ciabatta_sandwich_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Sprinkle both sides with Parmesan cheese , basil and oregano.\n2. Slice bread in half lengthways.\n3. Drizzle olive oil on both cut sides.\n4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.\n5. Cover with top layer , and cut into 4 servings.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Italian_ciabatta_sandwich_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Slice bread in half lengthways.\n2. Sprinkle both sides with Parmesan cheese , basil and oregano.\n3. Drizzle olive oil on both cut sides.\n4. On the bottom half , layer black and green olives , then the salami , ham , provolone and mozzarella.\n5. Cover with top layer , and cut into 4 servings.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes."
+  }
+]

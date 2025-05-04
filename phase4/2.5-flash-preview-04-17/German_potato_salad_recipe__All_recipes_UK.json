@@ -1,0 +1,50 @@
+[
+  {
+    "goal": "German_potato_salad_recipe__All_recipes_UK",
+    "permuted_recipe": "1. If you prefer , you can slice them rather than halve them.\n2. Boil the potatoes until tender.\n3. In the meantime , prepare the marinade with the remaining ingredients.\n4. Just mix it all together in a bowl.\n5. Add potatoes once they have cooled.\n6. Give it a good , but gentle , stir !\n7. Guten Appetit !",
+    "question": "must step 3 happen before step 7?",
+    "i": "3",
+    "j": "7",
+    "answer": "yes"
+  },
+  {
+    "goal": "German_potato_salad_recipe__All_recipes_UK",
+    "permuted_recipe": "1. If you prefer , you can slice them rather than halve them.\n2. In the meantime , prepare the marinade with the remaining ingredients.\n3. Boil the potatoes until tender.\n4. Just mix it all together in a bowl.\n5. Add potatoes once they have cooled.\n6. Give it a good , but gentle , stir !\n7. Guten Appetit !",
+    "question": "must step 2 happen before step 7?",
+    "i": "2",
+    "j": "7",
+    "answer": "yes"
+  },
+  {
+    "goal": "German_potato_salad_recipe__All_recipes_UK",
+    "permuted_recipe": "1. If you prefer , you can slice them rather than halve them.\n2. Boil the potatoes until tender.\n3. In the meantime , prepare the marinade with the remaining ingredients.\n4. Just mix it all together in a bowl.\n5. Add potatoes once they have cooled.\n6. Give it a good , but gentle , stir !\n7. Guten Appetit !",
+    "question": "must step 3 happen before step 7?",
+    "i": "3",
+    "j": "7",
+    "answer": "yes"
+  },
+  {
+    "goal": "German_potato_salad_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Boil the potatoes until tender.\n2. In the meantime , prepare the marinade with the remaining ingredients.\n3. If you prefer , you can slice them rather than halve them.\n4. Just mix it all together in a bowl.\n5. Add potatoes once they have cooled.\n6. Give it a good , but gentle , stir !\n7. Guten Appetit !",
+    "question": "must step 2 happen before step 7?",
+    "i": "2",
+    "j": "7",
+    "answer": "Yes."
+  },
+  {
+    "goal": "German_potato_salad_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In the meantime , prepare the marinade with the remaining ingredients.\n2. Boil the potatoes until tender.\n3. If you prefer , you can slice them rather than halve them.\n4. Just mix it all together in a bowl.\n5. Add potatoes once they have cooled.\n6. Give it a good , but gentle , stir !\n7. Guten Appetit !",
+    "question": "must step 1 happen before step 7?",
+    "i": "1",
+    "j": "7",
+    "answer": "Yes, Step 1 must happen before Step 7."
+  },
+  {
+    "goal": "German_potato_salad_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Boil the potatoes until tender.\n2. In the meantime , prepare the marinade with the remaining ingredients.\n3. If you prefer , you can slice them rather than halve them.\n4. Just mix it all together in a bowl.\n5. Add potatoes once they have cooled.\n6. Give it a good , but gentle , stir !\n7. Guten Appetit !",
+    "question": "must step 2 happen before step 7?",
+    "i": "2",
+    "j": "7",
+    "answer": "Yes, Step 2 must happen before Step 7."
+  }
+]

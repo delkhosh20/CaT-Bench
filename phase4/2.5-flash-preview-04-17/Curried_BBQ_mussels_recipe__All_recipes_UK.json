@@ -1,0 +1,490 @@
+[
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Arrange four large sheets of foil on a flat surface.\n3. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes, Step 1 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes, Step 1 must happen before Step 10 because Step 1 creates the curry mixture used earlier in the procedure, while Step 10 is a final step after cooking."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes, Step 1 must happen before Step 10 according to the procedure."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes, Step 1 must happen before Step 10 as the mixture prepared in Step 1 is used to flavour the mussels before they are cooked in Step 9, and Step 10 occurs after cooking."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes, Step 1 must happen before Step 10 because the mixture created in Step 1 is used to prepare the mussels before they are cooked, and Step 10 involves checking the mussels after they have cooked."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 9?",
+    "i": "1",
+    "j": "9",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.\n11. Preheat barbecue for medium-high heat and lightly oil the cooking grate.",
+    "question": "must step 1 happen before step 9?",
+    "i": "1",
+    "j": "9",
+    "answer": "Yes, Step 1 must happen before Step 9."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n2. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 1 happen before step 10?",
+    "i": "1",
+    "j": "10",
+    "answer": "Yes, Step 1 must happen before Step 10 because the mixture made in Step 1 is used to prepare the mussels before cooking and discarding."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 4 happen before step 10?",
+    "i": "4",
+    "j": "10",
+    "answer": "Yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 5 happen before step 10?",
+    "i": "5",
+    "j": "10",
+    "answer": "Yes, Step 5 must happen before Step 10 because the curry mixture made in Step 5 is applied to the mussels before they are cooked in Step 9, which precedes the discarding step."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 6 happen before step 10?",
+    "i": "6",
+    "j": "10",
+    "answer": "Yes, Step 6 must happen before Step 10 because the curry mixture is added to the mussels before they are cooked, and Step 10 occurs after cooking."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 7 happen before step 10?",
+    "i": "7",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 8 happen before step 10?",
+    "i": "8",
+    "j": "10",
+    "answer": "Yes, Step 8 must happen before Step 10 according to the procedure."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 9 happen before step 10?",
+    "i": "9",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 9 happen before step 10?",
+    "i": "9",
+    "j": "10",
+    "answer": "Yes, according to the given procedure, Step 9 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.\n11. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.",
+    "question": "must step 9 happen before step 11?",
+    "i": "9",
+    "j": "11",
+    "answer": "no"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Arrange four large sheets of foil on a flat surface.\n2. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Arrange four large sheets of foil on a flat surface.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Arrange four large sheets of foil on a flat surface.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Arrange four large sheets of foil on a flat surface.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Arrange four large sheets of foil on a flat surface.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Arrange four large sheets of foil on a flat surface.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10 as the curry mixture prepared in Step 2 is used before cooking the mussels which is followed by Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Arrange four large sheets of foil on a flat surface.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Arrange four large sheets of foil on a flat surface.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Arrange four large sheets of foil on a flat surface.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 9?",
+    "i": "2",
+    "j": "9",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.\n11. Arrange four large sheets of foil on a flat surface.",
+    "question": "must step 2 happen before step 9?",
+    "i": "2",
+    "j": "9",
+    "answer": "Yes, Step 2 must happen before Step 9."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Divide the mussels into four even portions and place one portion on each piece of foil.\n2. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Arrange four large sheets of foil on a flat surface.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Divide the mussels into four even portions and place one portion on each piece of foil.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Arrange four large sheets of foil on a flat surface.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "Yes, Step 3 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Divide the mussels into four even portions and place one portion on each piece of foil.\n4. Arrange four large sheets of foil on a flat surface.\n5. Dot the mussels with the curry mixture.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Dot the mussels with the curry mixture.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10 as the curry mixture made in Step 2 is used to prepare the mussels before they are cooked, and Step 10 occurs after cooking."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Divide the mussels into four even portions and place one portion on each piece of foil.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Divide the mussels into four even portions and place one portion on each piece of foil.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Divide the mussels into four even portions and place one portion on each piece of foil.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Divide the mussels into four even portions and place one portion on each piece of foil.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Divide the mussels into four even portions and place one portion on each piece of foil.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 9?",
+    "i": "2",
+    "j": "9",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Dot the mussels with the curry mixture.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.\n11. Divide the mussels into four even portions and place one portion on each piece of foil.",
+    "question": "must step 2 happen before step 9?",
+    "i": "2",
+    "j": "9",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Dot the mussels with the curry mixture.\n2. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Arrange four large sheets of foil on a flat surface.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Dot the mussels with the curry mixture.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Arrange four large sheets of foil on a flat surface.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Dot the mussels with the curry mixture.\n4. Arrange four large sheets of foil on a flat surface.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10 as Step 2 prepares ingredients used in earlier steps, while Step 10 occurs after cooking is complete."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Dot the mussels with the curry mixture.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Sprinkle the red pepper and parsley over the top of each portion.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Dot the mussels with the curry mixture.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10 because Step 2 prepares the mixture used to cook the mussels, while Step 10 is a final step after cooking to discard any unopened mussels."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Dot the mussels with the curry mixture.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Dot the mussels with the curry mixture.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Dot the mussels with the curry mixture.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10 because the mixture prepared in Step 2 is used in Step 9, which happens before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Dot the mussels with the curry mixture.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 9?",
+    "i": "2",
+    "j": "9",
+    "answer": "Yes, Step 2 must happen before Step 9 because the mixture prepared in Step 2 is used in Step 10, which follows Step 9."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.\n11. Dot the mussels with the curry mixture.",
+    "question": "must step 2 happen before step 9?",
+    "i": "2",
+    "j": "9",
+    "answer": "No."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Sprinkle the red pepper and parsley over the top of each portion.\n2. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Arrange four large sheets of foil on a flat surface.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Dot the mussels with the curry mixture.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "Yes, step 3 must happen before step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Sprinkle the red pepper and parsley over the top of each portion.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Arrange four large sheets of foil on a flat surface.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Dot the mussels with the curry mixture.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "Yes, Step 3 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Sprinkle the red pepper and parsley over the top of each portion.\n4. Arrange four large sheets of foil on a flat surface.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Dot the mussels with the curry mixture.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "yes"
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Sprinkle the red pepper and parsley over the top of each portion.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Dot the mussels with the curry mixture.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Sprinkle the red pepper and parsley over the top of each portion.\n6. Dot the mussels with the curry mixture.\n7. Top each with lime slices.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Top each with lime slices.\n7. Sprinkle the red pepper and parsley over the top of each portion.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Sprinkle the red pepper and parsley over the top of each portion.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes, Step 2 must happen before Step 10."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Sprinkle the red pepper and parsley over the top of each portion.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 10?",
+    "i": "2",
+    "j": "10",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Sprinkle the red pepper and parsley over the top of each portion.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 2 happen before step 9?",
+    "i": "2",
+    "j": "9",
+    "answer": "Yes, Step 2 must happen before Step 9 because the mixture prepared in Step 2 is used to season the mussels before they are cooked in Step 8, and Step 9 happens after cooking."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n2. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n3. Arrange four large sheets of foil on a flat surface.\n4. Divide the mussels into four even portions and place one portion on each piece of foil.\n5. Dot the mussels with the curry mixture.\n6. Top each with lime slices.\n7. Wrap foil tightly around the portions.\n8. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n9. Discard any mussels which do not open.\n10. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.\n11. Sprinkle the red pepper and parsley over the top of each portion.",
+    "question": "must step 2 happen before step 9?",
+    "i": "2",
+    "j": "9",
+    "answer": "Yes."
+  },
+  {
+    "goal": "Curried_BBQ_mussels_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Top each with lime slices.\n2. Preheat barbecue for medium-high heat and lightly oil the cooking grate.\n3. Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl.\n4. Arrange four large sheets of foil on a flat surface.\n5. Divide the mussels into four even portions and place one portion on each piece of foil.\n6. Dot the mussels with the curry mixture.\n7. Sprinkle the red pepper and parsley over the top of each portion.\n8. Wrap foil tightly around the portions.\n9. Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes.\n10. Discard any mussels which do not open.\n11. Transfer the mussels to small bowls and garnish each with a lime wedge to serve.",
+    "question": "must step 3 happen before step 10?",
+    "i": "3",
+    "j": "10",
+    "answer": "Yes, Step 3 must happen before Step 10."
+  }
+]

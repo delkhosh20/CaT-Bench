@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Spiced_Butternut_Squash_Soup_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Preheat the oven to 190 C / Gas mark 6.\n2. Pour a small layer of water in a baking dish , or a swiss roll tin.\n3. Place the squash halves cut side down on the dish.\n4. Bake for about 40 minutes , or until a fork can easily pierce the flesh.\n5. Cool slightly , then remove the peel.\n6. Set aside.\n7. Melt the butter in a large pot over medium heat.\n8. Add the onion , leek and garlic , and saute for a few minutes , until tender.\n9. Pour the chicken stock into the pot.\n10. Add the potatoes , and bring to the boil.\n11. Cook for about 20 minutes , or until soft.\n12. Add the squash , and mash with the potatoes until chunks are small.\n13. Use an immersion hand blender to puree the soup , or transfer to a blender or food processor in batches , and puree until smooth.\n14. Return to the pot.\n15. Season the soup with cayenne pepper , allspice , nutmeg , ginger , salt and pepper , then stir in the sherry , cream and milk.\n16. Heat through , but do not boil.\n17. Ladle into bowls , and top with a dollop of soured cream if desired.",
+    "question": "must step 1 happen before step 2?",
+    "i": "1",
+    "j": "2",
+    "answer": "Yes, the oven must be preheated before the baking dish can be prepared."
+  }
+]

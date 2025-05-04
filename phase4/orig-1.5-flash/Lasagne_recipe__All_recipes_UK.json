@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Lasagne_recipe__All_recipes_UK",
+    "permuted_recipe": "1. In a casserole , cook sausage , mince , onion and garlic over medium heat until well browned.\n2. Stir in chopped tomatoes , tomato puree , passata and water.\n3. Season with sugar , basil , fennel seeds , Italian herbs , 1 tablespoon salt , pepper and 2 tablespoons parsley.\n4. Simmer , covered , for about 1 1/2 hours , stirring occasionally.\n5. Bring a large pot of lightly salted water to the boil.\n6. Cook lasagne sheets in boiling water for 8 to 10 minutes.\n7. Drain sheets , and rinse with cold water.\n8. In a mixing bowl , combine ricotta cheese with egg , remaining parsley and 1/2 teaspoon salt.\n9. Preheat oven to 190 C / Gas mark 5.\n10. To assemble , spread 375ml of meat sauce in the bottom of a 22x33cm ( 9x13 in ) baking dish.\n11. Arrange 6 lasagne sheets lengthways over meat sauce.\n12. Spread with 1/2 of the ricotta cheese mixture.\n13. Top with 1/3 of the mozzarella cheese slices.\n14. Spoon another 375ml of meat sauce over mozzarella , and sprinkle with 1/3 of the Parmesan cheese.\n15. Repeat layers , and top with remaining mozzarella and Parmesan cheese.\n16. Cover with aluminium foil ( to prevent sticking , either grease the foil with oil , or make sure the foil does not touch the cheese ).\n17. Bake in preheated oven for 25 minutes.\n18. Remove foil , and bake an additional 25 minutes.\n19. Cool for 15 minutes before serving.",
+    "question": "must step 6 happen before step 7?",
+    "i": "6",
+    "j": "7",
+    "answer": "Yes."
+  }
+]

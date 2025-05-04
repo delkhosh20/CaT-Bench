@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Clone_of_a_cinnabon_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Place ingredients for dough in the pan of the bread machine in the order recommended by the manufacturer.\n2. Select dough cycle ; press Start.\n3. After the dough has doubled in size turn it out onto a lightly floured surface , cover and let rest for 10 minutes.\n4. In a small bowl , combine brown sugar / cinnamon.\n5. Roll dough into a 40x50cm ( 18x20 in ) rectangle.\n6. Spread dough with 75g butter and sprinkle evenly with sugar / cinnamon mixture.\n7. Roll up dough and cut into 12 slices.\n8. Place buns in a lightly greased 23x33cm ( 9x13 in ) baking tin.\n9. Cover and let rise until nearly doubled , about 30 minutes.\n10. Meanwhile , preheat oven to 200 C / Gas mark 6.\n11. Bake buns in preheated oven until golden brown , about 15 minutes.\n12. While buns are baking , beat together cream cheese , 50g butter , icing sugar , vanilla and salt.\n13. Spread icing on warm rolls before serving.",
+    "question": "must step 4 happen before step 11?",
+    "i": "4",
+    "j": "11",
+    "answer": "No, combining the brown sugar and cinnamon in Step 4 happens before rolling out the dough in Step 6, which precedes baking in Step 11."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "goal": "Lemon_mackerel_pâté_recipe__All_recipes_UK",
+    "permuted_recipe": "1. Using a fork , break up the mackerel fillets into large pieces and place in a bowl.\n2. Add the fromage frais , lemon zest , half of the lemon juice , the peppercorns , chives and parsley.\n3. Mash all the ingredients together with a fork.\n4. This will make a coarse-textured pÃ¢tÃ©.\n5. For a smooth version , combine the ingredients in a food processor and process.\n6. Taste the pÃ¢tÃ© and stir in more lemon juice if necessary.\n7. Spoon the pÃ¢tÃ© into 4 ramekins , cover with cling film and chill for 30 minutes.\n8. Just before serving , top each with a sprig of parsley and serve with lemon wedges.",
+    "question": "must step 3 happen before step 8?",
+    "i": "3",
+    "j": "8",
+    "answer": "Yes, Step 3 must happen before Step 8 because you need to make the pâté before you can serve it."
+  }
+]
