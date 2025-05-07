@@ -1,0 +1,1350 @@
+
+File: Slowbraised_beef_and_barley_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 1
+  Accuracy: 16.67%
+  Incorrectly answered questions:
+    1. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, according to the procedure, Step 3 is listed before Step 8.
+    2. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes.
+    3. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8 according to the provided procedure.
+    4. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, according to the procedure, Step 3 happens before Step 7.
+    5. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes.
+
+File: Tricolour_roasted_pepper_soup_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Tricolour_roasted_pepper_soup_recipe__All_recipes_UK
+       Question: must step 2 happen before step 15?
+       Answer: Yes, Step 2 must happen before Step 15 because the peppers processed in Step 15 are first roasted in the oven preheated in Step 2.
+    2. Goal: Tricolour_roasted_pepper_soup_recipe__All_recipes_UK
+       Question: must step 2 happen before step 15?
+       Answer: Yes, Step 2 must happen before Step 15 because the peppers are roasted in the preheated oven (Step 5 and 8) before being processed in the blender (Step 15).
+
+File: Homemade_pizza_base_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Homemade_pizza_base_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: Yes.
+    2. Goal: Homemade_pizza_base_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: Yes, according to the numbered steps in the procedure, Step 6 happens before Step 7.
+
+File: Pancakes_for_Pancake_Tuesday_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Pancakes_for_Pancake_Tuesday_recipe__All_recipes_UK
+       Question: must step 1 happen before step 11?
+       Answer: Yes, Step 1 must happen before Step 11 as Step 1 is the first step in preparing the batter which is required for cooking the pancakes in Step 11.
+    2. Goal: Pancakes_for_Pancake_Tuesday_recipe__All_recipes_UK
+       Question: must step 1 happen before step 11?
+       Answer: Yes, Step 1 must happen before Step 11 to make the pancake batter that is cooked in Step 11.
+
+File: Spanish_style_chicken_stew_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 2
+  Accuracy: 33.33%
+  Incorrectly answered questions:
+    1. Goal: Spanish_style_chicken_stew_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes, Step 6 must happen before Step 8 according to the listed procedure steps.
+    2. Goal: Spanish_style_chicken_stew_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: Yes, the procedure lists Step 6 immediately before Step 7, indicating it should be performed first.
+    3. Goal: Spanish_style_chicken_stew_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes, Step 6 must happen before Step 8 to ensure the oven is preheated for the final baking step.
+    4. Goal: Spanish_style_chicken_stew_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes, Step 6 must happen before Step 8 as listed in the procedure for preparing the stew for baking.
+
+File: Best_crispy_roast_potatoes_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 6
+  Accuracy: 100.00%
+
+File: Almond_and_apple_cake_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Almond_and_apple_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: yes
+    2. Goal: Almond_and_apple_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10 because Step 1 prepares the tin which is then used in Step 10.
+    3. Goal: Almond_and_apple_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes.
+    4. Goal: Almond_and_apple_cake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: yes
+    5. Goal: Almond_and_apple_cake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes, Step 3 must happen before Step 10.
+    6. Goal: Almond_and_apple_cake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes.
+
+File: Lemon_drizzle_loaf_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: Yes, Step 1 must happen before Step 9.
+    2. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: Yes.
+    3. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: Yes, Step 1 must happen before Step 9.
+    4. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 3 happen before step 9?
+       Answer: Yes, Step 3 must happen before Step 9 as you need to line the tin before baking the loaf which is then cooled and pricked.
+    5. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 3 happen before step 9?
+       Answer: Yes, Step 3 must happen before Step 9 as the loaf needs to be baked in the lined tin before it can be cooled and pricked.
+    6. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 3 happen before step 9?
+       Answer: Yes, Step 3 must happen before Step 9.
+
+File: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: Yes, Step 2 must happen before Step 7.
+    2. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes.
+    3. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: Yes.
+    4. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 1 happen before step 7?
+       Answer: Yes, Step 1 must happen before Step 7.
+    5. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: Yes, Step 2 must happen before Step 7.
+    6. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 1 happen before step 7?
+       Answer: Yes, Step 1 must happen before Step 7.
+
+File: Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10.
+    2. Goal: Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10.
+
+File: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 4
+  Accuracy: 66.67%
+  Incorrectly answered questions:
+    1. Goal: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes.
+    2. Goal: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: yes
+
+File: Clone_of_a_cinnabon_recipe__All_recipes_UK.json
+  Total questions: 20
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 3 happen before step 11?
+       Answer: Yes.
+    2. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 3 happen before step 11?
+       Answer: Yes, Step 3 must happen before Step 11 as the mixture prepared in Step 3 is used on the dough before the buns are baked.
+    3. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 3 happen before step 11?
+       Answer: Yes, Step 3 must happen before Step 11 because the sugar/cinnamon mixture prepared in Step 3 is used in Step 5, which occurs before the baking in Step 11.
+    4. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 3 happen before step 11?
+       Answer: Yes, Step 3 must happen before Step 11 because the brown sugar/cinnamon mixture prepared in Step 3 is used to fill the buns which are then baked in Step 11.
+    5. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 3 happen before step 11?
+       Answer: Yes, Step 3 must happen before Step 11.
+    6. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 5 happen before step 11?
+       Answer: Yes.
+    7. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 6 happen before step 11?
+       Answer: Yes, Step 6 must happen before Step 11 because the mixture prepared in Step 6 is used in Step 5, which occurs before Step 11.
+    8. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 7 happen before step 11?
+       Answer: Yes.
+    9. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 5 happen before step 11?
+       Answer: Yes.
+    10. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 5 happen before step 11?
+       Answer: Yes, Step 5 must happen before Step 11 because the sugar/cinnamon mixture prepared in Step 5 is needed as a filling for the buns before they are baked in Step 11.
+    11. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 4 happen before step 11?
+       Answer: Yes, Step 4 must happen before Step 11 because the sugar/cinnamon mixture prepared in Step 4 is used in Step 5, which is necessary before baking the buns in Step 11.
+    12. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 4 happen before step 11?
+       Answer: Yes, Step 4 must happen before Step 11 because the sugar/cinnamon mixture prepared in Step 4 is used in Step 5, which occurs before the buns are baked in Step 11.
+    13. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 5 happen before step 11?
+       Answer: Yes, Step 5 must happen before Step 11 as the mixture prepared in Step 5 is used in Step 3 which precedes baking in Step 11.
+    14. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 5 happen before step 11?
+       Answer: Yes, Step 5 must happen before Step 11.
+    15. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 4 happen before step 11?
+       Answer: Yes, Step 4 must happen before Step 11 as the ingredients combined in Step 4 are used in Step 5, which occurs prior to baking the buns in Step 11.
+    16. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 4 happen before step 11?
+       Answer: Yes, Step 4 must happen before Step 11 because the mixture prepared in Step 4 is applied to the dough in Step 7, which is done before baking in Step 11.
+    17. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 5 happen before step 11?
+       Answer: Yes, Step 5 must happen before Step 11 because the sugar/cinnamon mixture prepared in Step 5 is applied to the dough in Step 7, which occurs before baking in Step 11.
+    18. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 5 happen before step 11?
+       Answer: Yes, Step 5 must happen before Step 11 because the mixture prepared in Step 5 is used to fill the buns before they are baked in Step 11.
+    19. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 4 happen before step 11?
+       Answer: Yes.
+    20. Goal: Clone_of_a_cinnabon_recipe__All_recipes_UK
+       Question: must step 4 happen before step 11?
+       Answer: Yes, Step 4 must happen before Step 11 because the mixture prepared in Step 4 is used in Step 7, which occurs before baking in Step 11.
+
+File: Peanut_chicken_satay_recipe__All_recipes_UK.json
+  Total questions: 20
+  Correct (NO) answers: 4
+  Accuracy: 20.00%
+  Incorrectly answered questions:
+    1. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, Step 4 must happen before the cooking part of Step 5 can occur.
+    2. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: yes
+    3. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes.
+    4. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, Step 3 must happen before Step 4.
+    5. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes.
+    6. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes.
+    7. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 must happen before Step 5 because the barbecue needs to be hot to cook the chicken.
+    8. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, Step 3 must happen before Step 4.
+    9. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes.
+    10. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, Step 4 must happen before Step 5 to preheat the barbecue before cooking the chicken.
+    11. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 must happen before Step 5 because the barbecue needs to be preheated before the chicken can be cooked on it.
+    12. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: yes
+    13. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 1 happen before step 5?
+       Answer: Yes.
+    14. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 2 happen before step 5?
+       Answer: Yes.
+    15. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 must happen before Step 5.
+    16. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 1 happen before step 5?
+       Answer: Yes, based on the provided procedure, Step 1 happens before Step 5.
+
+File: Moist_garlic_roasted_chicken_recipe__All_recipes_UK.json
+  Total questions: 30
+  Correct (NO) answers: 5
+  Accuracy: 16.67%
+  Incorrectly answered questions:
+    1. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, Step 4 must happen before Step 6 because Step 4 uses half of the lemon slices, and Step 6 uses the remaining ones.
+    2. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: yes
+    3. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, Step 3 must happen before Step 6 because you need to use half the lemon slices in Step 3 before laying the remaining slices in Step 6.
+    4. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes.
+    5. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes.
+    6. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, Step 4 must happen before Step 6 because Step 4 prepares the chicken and places it on the paper, making it ready for the remaining lemon slices to be laid over the breast in Step 6.
+    7. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, Step 4 must happen before Step 6.
+    8. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, Step 3 must happen before Step 6 because Step 6 uses the *remaining* lemon slices after half have been used in Step 3.
+    9. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes.
+    10. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 must happen before Step 5 as Step 3 uses the first half of the lemon slices for stuffing before the remaining slices can be used in Step 5.
+    11. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, Step 4 must happen before Step 6 because Step 6 uses the remaining lemon slices after Step 4 uses half of them.
+    12. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, Step 4 must happen before Step 6.
+    13. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, Step 3 must happen before Step 6 because Step 3 uses half of the lemon slices, and Step 6 uses the remaining lemon slices.
+    14. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, Step 3 must happen before Step 6 as Step 3 uses only half of the lemon slices, leaving the remaining for Step 6.
+    15. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 must happen before Step 5 because Step 5 uses the "remaining" lemon slices after half were used in Step 3.
+    16. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 1 happen before step 6?
+       Answer: Yes, Step 1 must happen before Step 6 so that there are "remaining" lemon slices available for Step 6 after half were used in Step 1.
+    17. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 2 happen before step 6?
+       Answer: Yes, Step 2 must happen before Step 6 as you use half of the lemon slices in Step 2 and the remaining slices in Step 6.
+    18. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes
+    19. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes.
+    20. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, Step 5 must happen before Step 6 because Step 6 uses the "remaining" lemon slices, implying some were already used in Step 5.
+    21. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, Step 5 must happen before Step 6.
+    22. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, Step 5 must happen before Step 6 as you need to stuff the chicken with half the lemon slices before laying the remaining ones over the breast.
+    23. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes.
+    24. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, Step 4 must happen before Step 5 because Step 5 uses the remaining lemon slices after half are used in Step 4.
+    25. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, Step 4 must happen before Step 5.
+
+File: Perfect_apple_crumble_recipe__All_recipes_UK.json
+  Total questions: 20
+  Correct (NO) answers: 12
+  Accuracy: 60.00%
+  Incorrectly answered questions:
+    1. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4 must happen before Step 8.
+    2. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4 which describes the desired consistency of the stewed apples happens before the crumble topping is made in Step 8.
+    3. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4, which describes the state of the stewed apples, must happen before Step 8, which is making the crumble topping.
+    4. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes, based on the sequential listing in the procedure, Step 6 is presented before Step 8.
+    5. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes, Step 6 must happen before Step 8 as Step 6 is a check on the apples before they are put in the serving dish (Step 7), while Step 8 is making the crumble topping which is added after the apples are in the dish (Step 9).
+    6. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes, Step 6 must happen before Step 8 according to the procedure as written.
+    7. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: yes
+    8. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 5 happen before step 7?
+       Answer: Yes, Step 5 must happen before Step 7 as described in the procedure.
+
+File: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK.json
+  Total questions: 56
+  Correct (NO) answers: 24
+  Accuracy: 42.86%
+  Incorrectly answered questions:
+    1. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes.
+    2. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8 because the cooked spinach is needed for the pasta mixture that is layered into the baking dish after Step 8.
+    3. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, step 3 must happen before step 8 because the cooked spinach is combined with the pasta in step 6, and this mixture is layered in the baking dish starting after step 8.
+    4. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, Step 3 must happen before Step 7 because the cooked spinach from Step 3 is mixed with the pasta in Step 6, and that mixture is then placed into the baking dish prepared in Step 7.
+    5. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4 must happen before Step 8 as the spinach cooked in Step 4 is part of the pasta mixture layered in the baking dish after Step 8.
+    6. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 happens before Step 8 in the listed procedure steps.
+    7. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8 because the spinach cooked in Step 3 is part of the pasta mixture used after the sauce layer from Step 8.
+    8. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes.
+    9. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4 must happen before Step 8 because the cooked spinach from Step 4 is needed to create the pasta mixture in Step 7, which is then layered in the baking dish after Step 8.
+    10. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes.
+    11. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, according to the procedure, Step 3 happens before Step 8.
+    12. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes.
+    13. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8 because the cooked spinach is needed for the pasta mixture which is layered into the baking dish starting after Step 8.
+    14. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes.
+    15. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, Step 5 must happen before Step 8 because the cooked spinach from Step 5 is combined with other ingredients in Step 7 to create the pasta mixture used in Step 9, which follows Step 8.
+    16. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes, Step 7 must happen before Step 8 because the cooked spinach from Step 7 is needed in Step 6, and the mixture created in Step 6 is used starting in Step 9, which follows Step 8.
+    17. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes.
+    18. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes.
+    19. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, Step 5 must happen before Step 8 because the cooked spinach from Step 5 is mixed with the pasta in Step 7, and that mixture is layered into the baking dish after the sauce is added in Step 8.
+    20. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, Step 5 must happen before Step 8 because the cooked spinach from Step 5 is mixed with the pasta in Step 7, and that mixture is added to the baking dish in Step 9, which goes on top of the sauce added in Step 8.
+    21. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, Step 5 must happen before Step 8 as the spinach cooked in Step 5 is required for the pasta mixture used in Step 9, which occurs after Step 8.
+    22. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes.
+    23. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4 must happen before Step 8 because the cooked spinach is mixed with the pasta before the pasta mixture is added to the baking dish layered with sauce starting at Step 8.
+    24. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 7?
+       Answer: Yes.
+    25. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, Step 5 must happen before Step 8 because the cooked spinach is needed to prepare the pasta mixture in Step 1, and this mixture is used in steps 9 and 11 which follow Step 8.
+    26. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, Step 5 must happen before Step 8 for the pasta mixture to be prepared for layering.
+    27. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, Step 5 must happen before Step 8 because the cooked spinach is needed to create the pasta mixture that is layered into the baking dish after the initial sauce layer in Step 8.
+    28. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, according to the procedure, Step 4 is listed before Step 8.
+    29. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4 must happen before Step 8 because the cooked spinach from Step 4 is required for the pasta mixture used in steps that follow Step 8.
+    30. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 7?
+       Answer: Yes.
+    31. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, according to the procedure, Step 4 happens before Step 5.
+    32. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 7?
+       Answer: Yes, Step 4 must happen before Step 7 if you follow the steps in the order they are listed in the procedure.
+
+File: Apple_Crumble_Pie_recipe__All_recipes_UK.json
+  Total questions: 12
+  Correct (NO) answers: 1
+  Accuracy: 8.33%
+  Incorrectly answered questions:
+    1. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, Step 1 must happen before Step 3 because Step 3 involves sprinkling ingredients over the apples which are placed in Step 1.
+    2. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes.
+    3. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, Step 1 must happen before Step 2 because you need to arrange the apples before you can sprinkle ingredients over them.
+    4. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, Step 1 must happen before Step 3 because Step 3 involves sprinkling ingredients over the apples which are placed in Step 1.
+    5. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, Step 2 must happen before Step 3 according to the procedure.
+    6. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 2 happen before step 4?
+       Answer: yes
+    7. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, Step 1 must happen before Step 3 as it is listed first in the procedure.
+    8. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 2 happen before step 4?
+       Answer: yes, Step 2 must happen before Step 4 because Step 4 involves sprinkling a mixture over the apples which are placed in the pastry case in Step 2.
+    9. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: yes
+    10. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, Step 3 must happen before Step 4 so that the sugar and cinnamon mixture can be sprinkled over the apples arranged in the pastry case.
+    11. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 2 happen before step 4?
+       Answer: Yes.
+
+File: Spanishstyle_omelette_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Spanishstyle_omelette_recipe__All_recipes_UK
+       Question: must step 8 happen before step 9?
+       Answer: yes
+    2. Goal: Spanishstyle_omelette_recipe__All_recipes_UK
+       Question: must step 8 happen before step 10?
+       Answer: Yes, Step 8 must happen before Step 10 according to the numbered procedure provided.
+    3. Goal: Spanishstyle_omelette_recipe__All_recipes_UK
+       Question: must step 8 happen before step 9?
+       Answer: Yes, Step 8 must happen before Step 9 as it instructs to remove the pan from the heat before adding more ingredients to continue frying.
+    4. Goal: Spanishstyle_omelette_recipe__All_recipes_UK
+       Question: must step 8 happen before step 10?
+       Answer: Yes, Step 8 must happen before Step 10 according to the procedure.
+    5. Goal: Spanishstyle_omelette_recipe__All_recipes_UK
+       Question: must step 9 happen before step 10?
+       Answer: yes
+    6. Goal: Spanishstyle_omelette_recipe__All_recipes_UK
+       Question: must step 8 happen before step 10?
+       Answer: yes
+
+File: German_potato_salad_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: German_potato_salad_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: yes
+    2. Goal: German_potato_salad_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: yes
+    3. Goal: German_potato_salad_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: yes
+    4. Goal: German_potato_salad_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: Yes.
+    5. Goal: German_potato_salad_recipe__All_recipes_UK
+       Question: must step 1 happen before step 7?
+       Answer: Yes, Step 1 must happen before Step 7.
+    6. Goal: German_potato_salad_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: Yes, Step 2 must happen before Step 7.
+
+File: Curried_BBQ_mussels_recipe__All_recipes_UK.json
+  Total questions: 61
+  Correct (NO) answers: 3
+  Accuracy: 4.92%
+  Incorrectly answered questions:
+    1. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: yes
+    2. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10.
+    3. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10 because Step 1 creates the curry mixture used earlier in the procedure, while Step 10 is a final step after cooking.
+    4. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10 according to the procedure.
+    5. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes.
+    6. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10 as the mixture prepared in Step 1 is used to flavour the mussels before they are cooked in Step 9, and Step 10 occurs after cooking.
+    7. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes.
+    8. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10 because the mixture created in Step 1 is used to prepare the mussels before they are cooked, and Step 10 involves checking the mussels after they have cooked.
+    9. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: yes
+    10. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: Yes, Step 1 must happen before Step 9.
+    11. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10 because the mixture made in Step 1 is used to prepare the mussels before cooking and discarding.
+    12. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes.
+    13. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 4 happen before step 10?
+       Answer: Yes
+    14. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 5 happen before step 10?
+       Answer: Yes, Step 5 must happen before Step 10 because the curry mixture made in Step 5 is applied to the mussels before they are cooked in Step 9, which precedes the discarding step.
+    15. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 6 happen before step 10?
+       Answer: Yes, Step 6 must happen before Step 10 because the curry mixture is added to the mussels before they are cooked, and Step 10 occurs after cooking.
+    16. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 7 happen before step 10?
+       Answer: yes
+    17. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 8 happen before step 10?
+       Answer: Yes, Step 8 must happen before Step 10 according to the procedure.
+    18. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 9 happen before step 10?
+       Answer: yes
+    19. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 9 happen before step 10?
+       Answer: Yes, according to the given procedure, Step 9 must happen before Step 10.
+    20. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes.
+    21. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes.
+    22. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    23. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    24. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    25. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10 as the curry mixture prepared in Step 2 is used before cooking the mussels which is followed by Step 10.
+    26. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    27. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes.
+    28. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 9?
+       Answer: Yes.
+    29. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 9?
+       Answer: Yes, Step 2 must happen before Step 9.
+    30. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes.
+    31. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes, Step 3 must happen before Step 10.
+    32. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: yes
+    33. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10 as the curry mixture made in Step 2 is used to prepare the mussels before they are cooked, and Step 10 occurs after cooking.
+    34. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    35. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: yes
+    36. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: yes
+    37. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    38. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 9?
+       Answer: yes
+    39. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 9?
+       Answer: Yes.
+    40. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: yes
+    41. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes.
+    42. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10 as Step 2 prepares ingredients used in earlier steps, while Step 10 occurs after cooking is complete.
+    43. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: yes
+    44. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    45. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: yes
+    46. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10 because the mixture prepared in Step 2 is used in Step 9, which happens before Step 10.
+    47. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 9?
+       Answer: Yes, Step 2 must happen before Step 9 because the mixture prepared in Step 2 is used in Step 10, which follows Step 9.
+    48. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes, step 3 must happen before step 10.
+    49. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes, Step 3 must happen before Step 10.
+    50. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: yes
+    51. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes.
+    52. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    53. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    54. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes, Step 2 must happen before Step 10.
+    55. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 10?
+       Answer: Yes.
+    56. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 9?
+       Answer: Yes, Step 2 must happen before Step 9 because the mixture prepared in Step 2 is used to season the mussels before they are cooked in Step 8, and Step 9 happens after cooking.
+    57. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 9?
+       Answer: Yes.
+    58. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes, Step 3 must happen before Step 10.
+
+File: Masoor_dhal_curry_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 3
+  Accuracy: 50.00%
+  Incorrectly answered questions:
+    1. Goal: Masoor_dhal_curry_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, Step 2 must happen before Step 3 as they are listed sequentially in the procedure.
+    2. Goal: Masoor_dhal_curry_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, Step 1 must happen before Step 2.
+    3. Goal: Masoor_dhal_curry_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, Step 1 must happen before Step 2 because Step 1 prepares the lentils which begin cooking in Step 3, and Step 2 starts while the lentils are cooking.
+
+File: Garlic_roast_potatoes_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 4
+  Accuracy: 66.67%
+  Incorrectly answered questions:
+    1. Goal: Garlic_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: yes
+    2. Goal: Garlic_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes
+
+File: Italian_ciabatta_sandwich_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 1
+  Accuracy: 16.67%
+  Incorrectly answered questions:
+    1. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, Step 2 must happen before Step 3 as you need to slice the bread to have sides to sprinkle the ingredients on.
+    2. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes.
+    3. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes.
+    4. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: yes
+    5. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes
+
+File: Italian_style_pizza_recipe__All_recipes_UK.json
+  Total questions: 90
+  Correct (NO) answers: 9
+  Accuracy: 10.00%
+  Incorrectly answered questions:
+    1. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    2. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    3. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    4. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    5. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    6. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as Step 21 gives advice related to the action described in Step 20.
+    7. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    8. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    9. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    10. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 because Step 21 provides advice related to the action described in Step 20.
+    11. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20, which instructs to add mozzarella, must logically happen before Step 21, which provides advice on how to add that cheese.
+    12. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    13. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    14. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    15. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    16. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    17. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, according to the listed steps in the procedure, Step 20 must happen before Step 21.
+    18. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    19. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    20. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    21. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as the steps are listed sequentially in the procedure.
+    22. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as Step 21 is advice related to the action taken in Step 20.
+    23. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    24. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    25. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    26. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as Step 21 gives advice about the action described in Step 20.
+    27. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    28. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    29. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    30. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    31. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 describes the action of adding mozzarella, and Step 21 provides advice about that action, so Step 20 must happen before the advice in Step 21 is relevant.
+    32. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as it is listed sequentially in the procedure and Step 21 provides related advice.
+    33. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 happens before Step 21 as Step 20 instructs the action and Step 21 provides a related caution about that action.
+    34. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    35. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20, which is adding the grated mozzarella, must happen before Step 21, which provides advice about adding that cheese.
+    36. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    37. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    38. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    39. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    40. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    41. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    42. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    43. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    44. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 is listed and describes an action that precedes the advice given in Step 21 regarding that action.
+    45. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as Step 21 provides advice regarding the action described in Step 20.
+    46. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    47. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    48. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    49. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    50. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, based on the sequential numbering and the instruction "Next" preceding Step 20, Step 20 must happen before Step 21.
+    51. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as it is listed directly before it in the sequential steps of the procedure.
+    52. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes
+    53. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, according to the procedure, Step 20 must happen before Step 21.
+    54. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    55. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as Step 20 describes the action of adding mozzarella and Step 21 is a caution regarding that action.
+    56. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    57. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20, adding the mozzarella, must happen before the advice in Step 21 regarding adding the cheese is applicable.
+    58. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    59. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    60. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as Step 21 provides advice regarding the action described in Step 20.
+    61. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    62. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 according to the procedure.
+    63. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    64. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as written in this procedure.
+    65. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    66. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, based on the order listed in the procedure, Step 20 must happen before Step 21.
+    67. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    68. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes
+    69. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 happens before Step 21 as listed in the procedure.
+    70. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 according to the procedure's sequence and context.
+    71. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    72. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as Step 21 provides advice about the cheese added in Step 20.
+    73. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21 as Step 21 provides advice related to the cheese added in Step 20.
+    74. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    75. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    76. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    77. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    78. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: yes
+    79. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    80. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+    81. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 must happen before Step 21.
+
+File: Katherines_chocolate_truffles_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 1
+  Accuracy: 50.00%
+  Incorrectly answered questions:
+    1. Goal: Katherines_chocolate_truffles_recipe__All_recipes_UK
+       Question: must step 1 happen before step 5?
+       Answer: Yes, Step 1 must happen before Step 5.
+
+File: Sweet_and_Spicy_Pork_Stir_Fry_with_Chinese_Noodles_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 2
+  Accuracy: 100.00%
+
+File: Almost_no_fat_banana_bread_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 1
+  Accuracy: 50.00%
+  Incorrectly answered questions:
+    1. Goal: Almost_no_fat_banana_bread_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, according to the procedure, Step 1 is listed before Step 2.
+
+File: Blackberry_preserve_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, Step 3 must happen before Step 4 because Step 4 requires the jars to be hot and sterile, which is achieved by the process described in Step 3.
+    2. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes
+    3. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, Step 3 must happen before Step 4 so that the jars are hot and sterile before filling.
+    4. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 must happen before Step 5.
+    5. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, Step 4 must happen before Step 5.
+    6. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 must happen before Step 5.
+
+File: No_pastry_apple_pie_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 1
+  Accuracy: 50.00%
+  Incorrectly answered questions:
+    1. Goal: No_pastry_apple_pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, the procedure lists Step 1 before Step 2, indicating it should be performed first.
+
+File: Lemon_mackerel_pâté_recipe__All_recipes_UK.json
+  Total questions: 30
+  Correct (NO) answers: 3
+  Accuracy: 10.00%
+  Incorrectly answered questions:
+    1. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: yes
+    2. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, Step 5 must happen before Step 8 as Step 5 describes making the pâté and Step 8 describes serving it.
+    3. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes.
+    4. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes, the action described in Step 7, which is mashing the ingredients to create the pâté, must happen before the serving step.
+    5. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes.
+    6. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8.
+    7. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8.
+    8. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: yes
+    9. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes.
+    10. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4 must happen before Step 8 as Step 4 is part of preparing the pâté which must be completed before serving.
+    11. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8 as you need to make the pâté mixture before serving it.
+    12. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes.
+    13. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, Step 3 must happen before Step 7 according to the procedure.
+    14. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: yes
+    15. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8 as mashing the ingredients is part of making the pâté which is served in Step 8.
+    16. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8.
+    17. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8.
+    18. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, Step 3 must happen before Step 7 to create the pâté that is then served.
+    19. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4 must happen before Step 8.
+    20. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8.
+    21. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8.
+    22. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, Step 3 must happen before Step 8 as the pâté needs to be made before it can be served with garnish.
+    23. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, Step 3 must happen before Step 7 because you need to create the pâté before you can serve it.
+    24. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, Step 3 must happen before Step 4.
+    25. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 must happen before Step 5.
+    26. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, Step 3 must happen before Step 6.
+    27. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, Step 3 must happen before Step 7.
+
+File: Carrot_cake_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Carrot_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes.
+    2. Goal: Carrot_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, according to the sequential steps provided in the procedure, Step 1 must happen before Step 2.
+
+File: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK.json
+  Total questions: 20
+  Correct (NO) answers: 19
+  Accuracy: 95.00%
+  Incorrectly answered questions:
+    1. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 4?
+       Answer: Yes
+
+File: Spiced_Butternut_Squash_Soup_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 2
+  Accuracy: 100.00%
+
+File: Ultimate_sponge_cake_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Ultimate_sponge_cake_recipe__All_recipes_UK
+       Question: must step 12 happen before step 13?
+       Answer: Yes, Step 12 must happen before Step 13.
+    2. Goal: Ultimate_sponge_cake_recipe__All_recipes_UK
+       Question: must step 12 happen before step 14?
+       Answer: Yes
+    3. Goal: Ultimate_sponge_cake_recipe__All_recipes_UK
+       Question: must step 12 happen before step 13?
+       Answer: Yes, Step 12 must happen before Step 13 according to the procedure steps provided.
+    4. Goal: Ultimate_sponge_cake_recipe__All_recipes_UK
+       Question: must step 12 happen before step 14?
+       Answer: Yes, Step 12 must happen before Step 14 according to the procedure.
+    5. Goal: Ultimate_sponge_cake_recipe__All_recipes_UK
+       Question: must step 13 happen before step 14?
+       Answer: yes
+    6. Goal: Ultimate_sponge_cake_recipe__All_recipes_UK
+       Question: must step 12 happen before step 14?
+       Answer: Yes, Step 12 must happen before Step 14.
+
+File: Pasta_salad_with_tuna_mayonnaise_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Pasta_salad_with_tuna_mayonnaise_recipe__All_recipes_UK
+       Question: must step 4 happen before step 9?
+       Answer: Yes, Step 4 must happen before Step 9 according to the procedure provided.
+    2. Goal: Pasta_salad_with_tuna_mayonnaise_recipe__All_recipes_UK
+       Question: must step 4 happen before step 9?
+       Answer: Yes, step 4 must happen before step 9 according to the provided procedure.
+
+File: Lasagne_recipe__All_recipes_UK.json
+  Total questions: 30
+  Correct (NO) answers: 8
+  Accuracy: 26.67%
+  Incorrectly answered questions:
+    1. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 5 happen before step 7?
+       Answer: Yes, Step 5 must happen before Step 7.
+    2. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: yes
+    3. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: yes
+    4. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, Step 5 must happen before Step 6.
+    5. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, Step 5 must happen before Step 6.
+    6. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 5 happen before step 7?
+       Answer: Yes, Step 5 must happen before Step 7.
+    7. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: yes
+    8. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 9?
+       Answer: Yes, Step 6 must happen before Step 9 because Step 9 describes draining and rinsing the sheets that were cooked in Step 6.
+    9. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: yes
+    10. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: yes
+    11. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes.
+    12. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: Yes, Step 6 must happen before Step 7.
+    13. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: Yes, Step 6 must happen before Step 7.
+    14. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes.
+    15. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes, Step 7 must happen before Step 8.
+    16. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes, Step 6 must happen before Step 8 because you need to cook the lasagne sheets before draining and rinsing them.
+    17. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: Yes.
+    18. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes, Step 7 must happen before Step 8.
+    19. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes, Step 7 must happen before Step 8.
+    20. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes.
+    21. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: Yes, Step 6 must happen before Step 7.
+    22. Goal: Lasagne_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: yes

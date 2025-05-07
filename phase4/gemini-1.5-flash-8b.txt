@@ -1,0 +1,1047 @@
+
+File: Slowbraised_beef_and_barley_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 1
+  Accuracy: 16.67%
+  Incorrectly answered questions:
+    1. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes.
+    2. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes.
+    3. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes.
+    4. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes.
+    5. Goal: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes.
+
+File: Tricolour_roasted_pepper_soup_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 2
+  Accuracy: 100.00%
+
+File: Homemade_pizza_base_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Homemade_pizza_base_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: Yes, spreading the pizza sauce (Step 6) must occur before preheating the oven (Step 7).
+    2. Goal: Homemade_pizza_base_recipe__All_recipes_UK
+       Question: must step 6 happen before step 7?
+       Answer: Yes, spreading the sauce (Step 6) must occur before preheating the oven (Step 7).
+
+File: Pancakes_for_Pancake_Tuesday_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Pancakes_for_Pancake_Tuesday_recipe__All_recipes_UK
+       Question: must step 1 happen before step 11?
+       Answer: Yes, sifting the flour and salt must occur before cooking any of the remaining pancakes.
+    2. Goal: Pancakes_for_Pancake_Tuesday_recipe__All_recipes_UK
+       Question: must step 1 happen before step 11?
+       Answer: Yes, sifting the flour and salt must happen before cooking the rest of the pancakes.
+
+File: Spanish_style_chicken_stew_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 5
+  Accuracy: 83.33%
+  Incorrectly answered questions:
+    1. Goal: Spanish_style_chicken_stew_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes, preheating the oven in step 7 is a prerequisite to removing and placing the chicken in step 8.
+
+File: Best_crispy_roast_potatoes_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Best_crispy_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, potatoes must be cooked before the oven is preheated.
+    2. Goal: Best_crispy_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, Step 1 must occur before Step 3.
+    3. Goal: Best_crispy_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, potatoes must be cooked before the oven can be preheated.
+    4. Goal: Best_crispy_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, preheating the oven is necessary before cooking the potatoes.
+    5. Goal: Best_crispy_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, the oven must be preheated before the potatoes are cooked.
+    6. Goal: Best_crispy_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, the oven must be preheated before the potatoes can be boiled.
+
+File: Almond_and_apple_cake_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 3
+  Accuracy: 50.00%
+  Incorrectly answered questions:
+    1. Goal: Almond_and_apple_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, greasing the tin must happen before arranging the apples on it.
+    2. Goal: Almond_and_apple_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, greasing and lining the cake tin must occur before arranging the apples.
+    3. Goal: Almond_and_apple_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, greasing the cake tin must happen before arranging the apples.
+
+File: Lemon_drizzle_loaf_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: Yes, lining the loaf tin must happen before pricking the cooled loaf.
+    2. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: Yes, lining the loaf tin must happen before pricking the cooled loaf.
+    3. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: Yes, lining the loaf tin must occur before pricking the cooled loaf.
+    4. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 3 happen before step 9?
+       Answer: Yes, lining the loaf tin must happen before pricking the cooled loaf.
+    5. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 3 happen before step 9?
+       Answer: Yes, lining the loaf tin must occur before pricking the cooled loaf.
+    6. Goal: Lemon_drizzle_loaf_recipe__All_recipes_UK
+       Question: must step 3 happen before step 9?
+       Answer: Yes, lining the loaf tin must happen before pricking the cooled loaf.
+
+File: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: Yes, preheating the oven (Step 2) must occur before removing thyme from the roasting tray (Step 7).
+    2. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, preheating the oven (Step 3) must occur before removing the thyme (Step 7).
+    3. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: Yes, preheating the oven in Step 2 must occur before removing the thyme in Step 7.
+    4. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 1 happen before step 7?
+       Answer: Yes, preheating the oven must occur before removing the thyme from the roasting tray.
+    5. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: Yes, preheating the oven (Step 2) must occur before removing the thyme from the roasting tray (Step 7).
+    6. Goal: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+       Question: must step 1 happen before step 7?
+       Answer: Yes, preheating the oven (Step 1) must occur before removing the thyme from the roasting tray (Step 7).
+
+File: Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, mixing the ingredients in step 1 must happen before decorating the cake in step 10.
+    2. Goal: Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 (mixing ingredients) must happen before Step 10 (decorating with raspberries).
+
+File: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 1
+  Accuracy: 16.67%
+  Incorrectly answered questions:
+    1. Goal: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 (shaking the dressing) must happen before Step 5 (stirring the salad with the dressing).
+    2. Goal: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, step 3 must occur before step 4.
+    3. Goal: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, step 3 (shaking and pouring the dressing) must happen before step 5 (stirring the salad).
+    4. Goal: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, step 4 must happen before step 5 to coat the vegetables and beans with dressing.
+    5. Goal: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, Step 4 must happen before Step 5 to coat the salad ingredients with the dressing.
+
+File: Clone_of_a_cinnabon_recipe__All_recipes_UK.json
+  Total questions: 20
+  Correct (NO) answers: 20
+  Accuracy: 100.00%
+
+File: Peanut_chicken_satay_recipe__All_recipes_UK.json
+  Total questions: 20
+  Correct (NO) answers: 2
+  Accuracy: 10.00%
+  Incorrectly answered questions:
+    1. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked.
+    2. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked.
+    3. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked.
+    4. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked.
+    5. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken is cooked.
+    6. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked.
+    7. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked on skewers.
+    8. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, the barbecue must be preheated before the chicken can be threaded and cooked.
+    9. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked.
+    10. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken is cooked on it.
+    11. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked.
+    12. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked.
+    13. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 1 happen before step 5?
+       Answer: Yes, preheating the barbecue must occur before threading the chicken onto skewers.
+    14. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 2 happen before step 5?
+       Answer: Yes, preheating the barbecue must occur before cooking the marinated chicken on skewers.
+    15. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, the barbecue must be preheated before the chicken can be cooked.
+    16. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, threading the chicken onto skewers must occur before cooking it.
+    17. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 1 happen before step 5?
+       Answer: Yes, cooking the chicken (Step 1) must be completed before preheating the barbecue (Step 5).
+    18. Goal: Peanut_chicken_satay_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, threading the chicken onto skewers must occur before cooking it.
+
+File: Moist_garlic_roasted_chicken_recipe__All_recipes_UK.json
+  Total questions: 30
+  Correct (NO) answers: 4
+  Accuracy: 13.33%
+  Incorrectly answered questions:
+    1. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must occur before placing the remaining lemon slices.
+    2. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken (step 4) must precede placing the remaining lemon slices (step 6).
+    3. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must occur before placing the remaining lemon slices on the breast.
+    4. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must precede placing the remaining lemon slices.
+    5. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, seasoning and stuffing the chicken must occur before the remaining lemon slices are added.
+    6. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must occur before layering the remaining lemon slices.
+    7. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must precede placing the remaining lemon slices.
+    8. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must precede placing lemon slices over the breast.
+    9. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must occur before placing the remaining lemon slices on the breast.
+    10. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, seasoning and stuffing the chicken must occur before placing the remaining lemon slices.
+    11. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must precede placing the remaining lemon slices.
+    12. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must come before placing the remaining lemon slices.
+    13. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must precede placing the remaining lemon slices.
+    14. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must happen before placing the remaining lemon slices.
+    15. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, seasoning and stuffing the chicken must precede placing the remaining lemon slices.
+    16. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 1 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must precede placing the remaining lemon slices on the breast.
+    17. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 2 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken (Step 2) must precede placing the remaining lemon slices (Step 6).
+    18. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 3 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must occur before placing the remaining lemon slices on top.
+    19. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must happen before laying the remaining lemon slices.
+    20. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must occur before placing the remaining lemon slices over the breast.
+    21. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must occur before placing the remaining lemon slices over the breast.
+    22. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken with lemon slices must occur before layering the remaining lemon slices.
+    23. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, seasoning and stuffing the chicken must occur before laying the remaining lemon slices.
+    24. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, seasoning and stuffing the chicken must occur before placing the remaining lemon slices.
+    25. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 1 happen before step 5?
+       Answer: Yes, laying the lemon slices over the breast must occur before seasoning and stuffing the chicken.
+    26. Goal: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, seasoning and stuffing the chicken must precede laying the remaining lemon slices.
+
+File: Perfect_apple_crumble_recipe__All_recipes_UK.json
+  Total questions: 20
+  Correct (NO) answers: 15
+  Accuracy: 75.00%
+  Incorrectly answered questions:
+    1. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes, the crumble topping must be made (Step 7) before checking the apples for doneness (Step 8).
+    2. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, the apples must be cooked and cooled in step 5 before the crumble topping is made in step 8.
+    3. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 5 happen before step 7?
+       Answer: Yes, the apples must be cooked and cooled before the crumble topping is made.
+    4. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 5 happen before step 6?
+       Answer: Yes, the apples must be cooked and soft before the crumble topping is made.
+    5. Goal: Perfect_apple_crumble_recipe__All_recipes_UK
+       Question: must step 5 happen before step 7?
+       Answer: Yes, the apples must be cooked and cooled in Step 5 before the crumble topping is made in Step 7.
+
+File: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK.json
+  Total questions: 56
+  Correct (NO) answers: 9
+  Accuracy: 16.07%
+  Incorrectly answered questions:
+    1. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, cooking the spinach in step 4 must occur before the pasta sauce is added to the baking dish in step 8.
+    2. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, cooking the spinach in step 4 must happen before adding the sauce to the baking dish in step 8.
+    3. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, the spinach must be cooked before it can be combined with the pasta in step 8.
+    4. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, cooking the spinach must happen before adding it to the baking dish in step 8.
+    5. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, cooking the spinach (Step 3) must occur before adding the pasta sauce to the baking dish (Step 8).
+    6. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, cooking the spinach in step 3 must happen before layering it in the baking dish in step 7.
+    7. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, cooking the spinach in step 4 must happen before layering the pasta sauce in step 8.
+    8. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, cooking the spinach in step 4 must occur before layering it with the pasta sauce in step 8.
+    9. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, cooking the spinach in step 3 must happen before layering the pasta sauce in step 8.
+    10. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, cooking the spinach in step 3 must happen before covering the baking dish with pasta sauce in step 8.
+    11. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, cooking the spinach must occur before adding it to the baking dish.
+    12. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, Step 4 (cooking spinach) must happen before Step 8 (adding sauce to the baking dish).
+    13. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, cooking the spinach in step 3 must happen before layering it with pasta in step 8.
+    14. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, cooking the spinach in step 3 must happen before adding it to the pasta mixture in step 8.
+    15. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, cooking the spinach in step 3 must happen before layering the sauce in step 8.
+    16. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, cooking the spinach must happen before layering the pasta mixture in the baking dish.
+    17. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, cooking the spinach in step 3 must happen before covering the baking dish with sauce in step 7.
+    18. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 8?
+       Answer: Yes, the spinach must be cooked before it can be added to the pasta mixture in step 8.
+    19. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 2 happen before step 8?
+       Answer: Yes, cooking the spinach in step 2 must happen before layering it with the pasta in step 8.
+    20. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, cooking the spinach (Step 3) must happen before layering the pasta sauce in the baking dish (Step 8).
+    21. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach in step 5 must occur before layering the pasta sauce in step 8.
+    22. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 6 happen before step 8?
+       Answer: Yes, cooking the spinach in step 6 must happen before layering the pasta mixture in step 8.
+    23. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes, Step 7 (cooking spinach) must happen before Step 8 (putting sauce in the baking dish).
+    24. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach in step 5 must occur before layering it with the pasta sauce in step 8.
+    25. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach in step 5 must occur before covering the baking dish with pasta sauce in step 8.
+    26. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach (Step 5) must happen before layering the pasta mixture and sauce in the baking dish (Step 8).
+    27. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach in step 5 must occur before layering it with the pasta sauce in step 8.
+    28. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, cooking the spinach in step 4 must happen before adding the pasta sauce to the baking dish in step 8.
+    29. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, cooking the spinach in step 4 must happen before covering the baking dish in step 8.
+    30. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 7?
+       Answer: Yes, cooking the spinach in step 4 must happen before layering it with the pasta sauce in step 7.
+    31. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, step 5 (cooking spinach) must occur before step 8 (placing sauce in the baking dish).
+    32. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach (Step 5) must happen before layering the pasta sauce in the baking dish (Step 8).
+    33. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach must happen before adding it to the pasta sauce in the baking dish.
+    34. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach (Step 5) must happen before layering the pasta mixture and sauce in the baking dish (Step 8).
+    35. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 7?
+       Answer: Yes, cooking the spinach (Step 4) must happen before layering the pasta mixture in the baking dish (Step 7).
+    36. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach in step 5 must happen before covering the baking dish with sauce in step 8.
+    37. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 5 happen before step 8?
+       Answer: Yes, cooking the spinach (Step 5) must happen before adding the pasta sauce to the baking dish (Step 8).
+    38. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, cooking the spinach in step 4 must occur before covering the baking dish in step 8.
+    39. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, cooking the spinach (Step 4) must happen before placing the sauce in the baking dish (Step 8).
+    40. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 7?
+       Answer: Yes, cooking the spinach in step 4 must happen before covering the baking dish with pasta sauce in step 7.
+    41. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 5?
+       Answer: Yes, Step 1 (coating the dish with sauce) must happen before Step 5 (cooking spinach).
+    42. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 2 happen before step 5?
+       Answer: Yes, Step 2 (covering the baking dish) must occur before Step 5 (cooking spinach).
+    43. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, Step 3 (coating the dish with sauce) must occur before Step 5 (cooking the spinach).
+    44. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, Step 4 (covering the dish with sauce) must happen before Step 5 (cooking spinach).
+    45. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, the spinach must be cooked in step 4 before covering the baking dish with sauce in step 5.
+    46. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 6?
+       Answer: Yes, cooking the spinach in step 4 must occur before layering the pasta sauce in step 6.
+    47. Goal: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+       Question: must step 4 happen before step 7?
+       Answer: Yes, cooking the spinach in step 4 must happen before covering the baking dish with pasta sauce in step 7.
+
+File: Apple_Crumble_Pie_recipe__All_recipes_UK.json
+  Total questions: 12
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, arranging the apples in the pastry case must come before sprinkling the sugar and cinnamon mixture over them.
+    2. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, the apple slices must be arranged in the pastry case before the sugar and cinnamon mixture can be sprinkled over them.
+    3. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, the apple slices must be arranged in the pastry case before the sugar and cinnamon mixture is sprinkled over them.
+    4. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, arranging the apple slices in the pastry case must occur before sprinkling the sugar and cinnamon mixture over them.
+    5. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, the sugar and cinnamon mixture must be sprinkled on the apples before they are arranged in the pastry case.
+    6. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 2 happen before step 4?
+       Answer: Yes, the sugar and cinnamon mixture must be sprinkled over the apples before arranging the apple slices in the pastry case.
+    7. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, mixing the sugar and cinnamon (Step 1) must occur before arranging the apple slices (Step 3).
+    8. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, the sugar and cinnamon mixture must be sprinkled over the apples before arranging the apple slices in the pastry.
+    9. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 2 happen before step 4?
+       Answer: Yes, Step 2 (arranging apple slices) must happen before Step 4 (sprinkling sugar and cinnamon).
+    10. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, the apple slices must be arranged in the pastry case before the sugar and cinnamon mixture is sprinkled over them.
+    11. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, arranging the apple slices in the pastry case must happen before sprinkling the sugar and cinnamon mixture over them.
+    12. Goal: Apple_Crumble_Pie_recipe__All_recipes_UK
+       Question: must step 2 happen before step 4?
+       Answer: Yes, the apple slices must be arranged in the pastry case before the sugar and cinnamon mixture is sprinkled over them.
+
+File: Spanishstyle_omelette_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 4
+  Accuracy: 66.67%
+  Incorrectly answered questions:
+    1. Goal: Spanishstyle_omelette_recipe__All_recipes_UK
+       Question: must step 8 happen before step 9?
+       Answer: Yes, Step 8 (removing the pan from the heat) must happen before Step 9 (adding potatoes and peas).
+    2. Goal: Spanishstyle_omelette_recipe__All_recipes_UK
+       Question: must step 8 happen before step 9?
+       Answer: Yes, Step 8 (removing the pan from the heat) must occur before Step 9 (adding potatoes and peas).
+
+File: German_potato_salad_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 4
+  Accuracy: 66.67%
+  Incorrectly answered questions:
+    1. Goal: German_potato_salad_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, preparing the marinade in step 3 must happen before mixing everything together in step 4.
+    2. Goal: German_potato_salad_recipe__All_recipes_UK
+       Question: must step 2 happen before step 7?
+       Answer: Yes, preparing the marinade in step 2 must happen before mixing everything together in step 7.
+
+File: Curried_BBQ_mussels_recipe__All_recipes_UK.json
+  Total questions: 110
+  Correct (NO) answers: 101
+  Accuracy: 91.82%
+  Incorrectly answered questions:
+    1. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10.
+    2. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 10?
+       Answer: Yes, Step 1 must happen before Step 10.
+    3. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: Yes, Step 1 must occur before Step 9.
+    4. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 1 happen before step 9?
+       Answer: Yes, Step 1 must happen before Step 9.
+    5. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 3 happen before step 10?
+       Answer: Yes, the curry mixture needs to be made before the mussels are checked for opening.
+    6. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 9?
+       Answer: Yes, the curry mixture needs to be made before it's added to the mussels.
+    7. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 9?
+       Answer: Yes, Step 2 must happen before Step 9.
+    8. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 11?
+       Answer: Yes, whisking the butter mixture in Step 2 must happen before cooking the mussels in Step 11.
+    9. Goal: Curried_BBQ_mussels_recipe__All_recipes_UK
+       Question: must step 2 happen before step 11?
+       Answer: Yes, the curry mixture must be prepared before the mussels are cooked.
+
+File: Masoor_dhal_curry_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Masoor_dhal_curry_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, Step 2 (washing the lentils) must happen before Step 3 (caramelizing the onions).
+    2. Goal: Masoor_dhal_curry_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, caramelizing the onion in step 2 must happen before washing the lentils in step 3.
+    3. Goal: Masoor_dhal_curry_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, Step 2 (washing the lentils) must happen before Step 3 (caramelizing the onions).
+    4. Goal: Masoor_dhal_curry_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, washing the lentils must occur before caramelizing the onion.
+    5. Goal: Masoor_dhal_curry_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, caramelizing the onion in Step 1 must happen before washing the lentils in Step 2.
+    6. Goal: Masoor_dhal_curry_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, washing the lentils must occur before caramelizing the onion.
+
+File: Garlic_roast_potatoes_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Garlic_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, the oven must be preheated before the potatoes can be par-boiled.
+    2. Goal: Garlic_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, preheating the oven must occur before par-boiling the potatoes.
+    3. Goal: Garlic_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, the oven must be preheated before the potatoes can be par-boiled.
+    4. Goal: Garlic_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, par-boiling the potatoes must occur before preheating the oven.
+    5. Goal: Garlic_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, parboiling the potatoes in step 2 must occur before preheating the oven in step 3.
+    6. Goal: Garlic_roast_potatoes_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, par-boiling the potatoes must happen before preheating the oven.
+
+File: Italian_ciabatta_sandwich_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, slicing the bread in half must come before sprinkling it with cheese and herbs.
+    2. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, sprinkling the cheese and herbs must occur before slicing the bread.
+    3. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, slicing the bread in half (Step 2) must precede sprinkling it with cheese and herbs (Step 3).
+    4. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, slicing the bread must occur before sprinkling it with cheese and herbs.
+    5. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, sprinkling the cheese and herbs must precede slicing the bread.
+    6. Goal: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, slicing the bread must occur before sprinkling it with cheese and herbs.
+
+File: Italian_style_pizza_recipe__All_recipes_UK.json
+  Total questions: 90
+  Correct (NO) answers: 17
+  Accuracy: 18.89%
+  Incorrectly answered questions:
+    1. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding more cheese (step 21).
+    2. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding more cheese (step 21).
+    3. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must occur before adding more cheese (Step 21).
+    4. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding the grated cheese (Step 21).
+    5. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding more cheese (step 21).
+    6. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must come before adding more cheese (step 21).
+    7. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must occur before step 21 (adding more cheese).
+    8. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding more cheese (step 21).
+    9. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding the cheese (step 21).
+    10. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding the cheese (step 21).
+    11. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding the cheese (step 21).
+    12. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must occur before adding the cheese (Step 21).
+    13. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (adding more cheese).
+    14. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (adding more cheese).
+    15. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding the cheese (Step 21).
+    16. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding the cheese (step 21).
+    17. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding the cheese (Step 21).
+    18. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (adding more cheese).
+    19. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding the cheese (step 21).
+    20. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must occur before adding more cheese (Step 21).
+    21. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    22. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding more cheese (step 21).
+    23. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes.
+    24. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding the cheese (step 21).
+    25. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must occur before adding the cheese (Step 21).
+    26. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding the cheese (step 21).
+    27. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must occur before adding more cheese (Step 21).
+    28. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    29. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding more cheese (step 21).
+    30. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (avoiding excessive cheese).
+    31. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding more cheese (step 21).
+    32. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding the grated cheese (step 21).
+    33. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 (adding mozzarella) must happen before Step 21 (adding more cheese).
+    34. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding the cheese (Step 21).
+    35. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 (adding mozzarella) must happen before Step 21 (adding more cheese).
+    36. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding the cheese (step 21).
+    37. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding more cheese (step 21).
+    38. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding the cheese (Step 21).
+    39. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    40. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, Step 20 (adding mozzarella) must occur before Step 21 (adding more cheese).
+    41. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding more cheese (step 21).
+    42. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (adding more cheese).
+    43. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding the cheese (step 21).
+    44. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    45. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    46. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding the cheese (Step 21).
+    47. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    48. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding more cheese (step 21).
+    49. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding the cheese (step 21).
+    50. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding more cheese (step 21).
+    51. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    52. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    53. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding the cheese (Step 21).
+    54. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding more cheese (step 21).
+    55. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding more cheese (step 21).
+    56. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    57. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    58. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (adding more cheese).
+    59. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (adding more cheese).
+    60. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must occur before adding the cheese (Step 21).
+    61. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must occur before adding more cheese (step 21).
+    62. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (adding more cheese).
+    63. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (adding more cheese).
+    64. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding more cheese (step 21).
+    65. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must occur before adding the cheese (Step 21).
+    66. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must occur before adding the cheese (Step 21).
+    67. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding the cheese (Step 21).
+    68. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (step 20) must happen before adding the cheese (step 21).
+    69. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: [ERROR] 504 Deadline Exceeded
+    70. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding the cheese (Step 21).
+    71. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must happen before adding more cheese (Step 21).
+    72. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, adding the mozzarella (Step 20) must occur before adding more cheese (Step 21).
+    73. Goal: Italian_style_pizza_recipe__All_recipes_UK
+       Question: must step 20 happen before step 21?
+       Answer: Yes, step 20 (adding mozzarella) must happen before step 21 (adding more cheese).
+
+File: Katherines_chocolate_truffles_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 1
+  Accuracy: 50.00%
+  Incorrectly answered questions:
+    1. Goal: Katherines_chocolate_truffles_recipe__All_recipes_UK
+       Question: must step 1 happen before step 5?
+       Answer: Yes, Step 1 (preventing overcooking) must happen before Step 5 (shaping the mixture).
+
+File: Sweet_and_Spicy_Pork_Stir_Fry_with_Chinese_Noodles_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 2
+  Accuracy: 100.00%
+
+File: Almost_no_fat_banana_bread_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Almost_no_fat_banana_bread_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, greasing the pan must occur before preheating the oven.
+    2. Goal: Almost_no_fat_banana_bread_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, greasing the tin must happen before preheating the oven.
+
+File: Blackberry_preserve_recipe__All_recipes_UK.json
+  Total questions: 6
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, the jars must be processed in the water bath (step 3) before transferring the mixture to the jars (step 4).
+    2. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, processing the jars in a water bath must occur before transferring the mixture to the jars.
+    3. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, the jars must be processed in a water bath (step 3) before transferring the mixture to the jars (step 4).
+    4. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, transferring the mixture to jars must occur before processing the jars in a water bath.
+    5. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 4 happen before step 5?
+       Answer: Yes, step 4 must happen before step 5.
+    6. Goal: Blackberry_preserve_recipe__All_recipes_UK
+       Question: must step 3 happen before step 5?
+       Answer: Yes, transferring the mixture to jars (step 3) must happen before processing the jars in a water bath (step 5).
+
+File: No_pastry_apple_pie_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: No_pastry_apple_pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, greasing the dish must occur before preheating the oven.
+    2. Goal: No_pastry_apple_pie_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, greasing the dish must precede preheating the oven.
+
+File: Lemon_mackerel_pâté_recipe__All_recipes_UK.json
+  Total questions: 30
+  Correct (NO) answers: 21
+  Accuracy: 70.00%
+  Incorrectly answered questions:
+    1. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 7 happen before step 8?
+       Answer: Yes, Step 7 (mashing ingredients) must occur before Step 8 (topping with parsley).
+    2. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 4 happen before step 8?
+       Answer: Yes, mashing the ingredients (Step 4) must occur before spooning the pâté into ramekins (Step 7).
+    3. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, mashing the ingredients together (step 3) must happen before topping the pâté with parsley (step 7).
+    4. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, mashing the ingredients in step 3 is a step that must happen before covering and chilling in step 8.
+    5. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, mashing the ingredients together (step 3) must happen before topping the pâté with parsley (step 7).
+    6. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 8?
+       Answer: Yes, mashing the ingredients in step 3 is required before spooning the pâté into ramekins in step 8.
+    7. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, mashing the ingredients (step 3) must occur before topping with parsley (step 7).
+    8. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 4?
+       Answer: Yes, mashing the ingredients together (step 3) must occur before adding the parsley sprig (step 4).
+    9. Goal: Lemon_mackerel_pâté_recipe__All_recipes_UK
+       Question: must step 3 happen before step 7?
+       Answer: Yes, mashing the ingredients (step 3) must occur before topping with parsley (step 7).
+
+File: Carrot_cake_recipe__All_recipes_UK.json
+  Total questions: 2
+  Correct (NO) answers: 0
+  Accuracy: 0.00%
+  Incorrectly answered questions:
+    1. Goal: Carrot_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, greasing and flouring the tin must be done before preheating the oven.
+    2. Goal: Carrot_cake_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, the baking tin needs to be prepared before the oven is preheated.
+
+File: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK.json
+  Total questions: 16
+  Correct (NO) answers: 2
+  Accuracy: 12.50%
+  Incorrectly answered questions:
+    1. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, preheating the oven must occur before mixing the sugar and cinnamon.
+    2. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, the sugar and cinnamon must be mixed before the oven is preheated.
+    3. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 2 happen before step 3?
+       Answer: Yes, the oven must be preheated before the sugar and cinnamon can be mixed.
+    4. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, preheating the oven must occur before mixing the sugar and cinnamon.
+    5. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, the oven must be preheated before the sugar and cinnamon can be mixed.
+    6. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, preheating the oven must occur before mixing the sugar and cinnamon.
+    7. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, mixing the sugar and cinnamon (Step 1) must occur before preheating the oven (Step 2).
+    8. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 2?
+       Answer: Yes, preheating the oven must occur before mixing the sugar and cinnamon.
+    9. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 4?
+       Answer: Yes, preheating the oven must happen before mixing the sugar and cinnamon.
+    10. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 5?
+       Answer: Yes, preheating the oven must occur before mixing the sugar and cinnamon.
+    11. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 2 happen before step 4?
+       Answer: Yes, preheating the oven must occur before mixing the sugar and cinnamon.
+    12. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 4?
+       Answer: Yes, preheating the oven is a prerequisite for mixing the sugar and cinnamon.
+    13. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 4?
+       Answer: Yes, preheating the oven is necessary before mixing the sugar and cinnamon.
+    14. Goal: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+       Question: must step 1 happen before step 3?
+       Answer: Yes, preheating the oven must occur before mixing the sugar and cinnamon.

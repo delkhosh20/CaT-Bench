@@ -1,0 +1,160 @@
+Recipe: Slowbraised_beef_and_barley_recipe__All_recipes_UK
+  Original answer: no
+  Total permutations: 6
+  Differing answers: 5
+
+Recipe: Tricolour_roasted_pepper_soup_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 2
+  Differing answers: 2
+
+Recipe: Homemade_pizza_base_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 2
+  Differing answers: 0
+
+Recipe: Pancakes_for_Pancake_Tuesday_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 2
+  Differing answers: 0
+
+Recipe: Spanish_style_chicken_stew_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 5
+
+Recipe: Best_crispy_roast_potatoes_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 0
+
+Recipe: Almond_and_apple_cake_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 3
+
+Recipe: Lemon_drizzle_loaf_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 0
+
+Recipe: Thyme_roast_pork_with_cider_cream_sauce_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 0
+
+Recipe: Raspberry_lemon_sponge_sandwich_recipe__All_recipes_UK
+  Original answer: no
+  Total permutations: 2
+  Differing answers: 2
+
+Recipe: Black_Bean_and_Sweetcorn_Salad_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 1
+
+Recipe: Clone_of_a_cinnabon_recipe__All_recipes_UK
+  Original answer: no
+  Total permutations: 20
+  Differing answers: 0
+
+Recipe: Peanut_chicken_satay_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 20
+  Differing answers: 2
+
+Recipe: Moist_garlic_roasted_chicken_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 30
+  Differing answers: 4
+
+Recipe: Perfect_apple_crumble_recipe__All_recipes_UK
+  Original answer: no
+  Total permutations: 20
+  Differing answers: 5
+
+Recipe: Cheesy_Spinach_Pasta_Bake_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 56
+  Differing answers: 9
+
+Recipe: Apple_Crumble_Pie_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 12
+  Differing answers: 0
+
+Recipe: Spanishstyle_omelette_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 4
+
+Recipe: German_potato_salad_recipe__All_recipes_UK
+  Original answer: no
+  Total permutations: 6
+  Differing answers: 2
+
+Recipe: Curried_BBQ_mussels_recipe__All_recipes_UK
+  Original answer: no
+  Total permutations: 110
+  Differing answers: 9
+
+Recipe: Masoor_dhal_curry_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 0
+
+Recipe: Garlic_roast_potatoes_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 0
+
+Recipe: Italian_ciabatta_sandwich_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 0
+
+Recipe: Italian_style_pizza_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 90
+  Differing answers: 17
+
+Recipe: Katherines_chocolate_truffles_recipe__All_recipes_UK
+  Original answer: no
+  Total permutations: 2
+  Differing answers: 1
+
+Recipe: Sweet_and_Spicy_Pork_Stir_Fry_with_Chinese_Noodles_recipe__All_recipes_UK
+  Original answer: no
+  Total permutations: 2
+  Differing answers: 0
+
+Recipe: Almost_no_fat_banana_bread_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 2
+  Differing answers: 0
+
+Recipe: Blackberry_preserve_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 6
+  Differing answers: 0
+
+Recipe: No_pastry_apple_pie_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 2
+  Differing answers: 0
+
+Recipe: Lemon_mackerel_pâté_recipe__All_recipes_UK
+  Original answer: no
+  Total permutations: 30
+  Differing answers: 9
+
+Recipe: Carrot_cake_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 2
+  Differing answers: 0
+
+Recipe: Simple_no_fuss_bread_and_butter_pudding_recipe__All_recipes_UK
+  Original answer: yes
+  Total permutations: 16
+  Differing answers: 2
+
